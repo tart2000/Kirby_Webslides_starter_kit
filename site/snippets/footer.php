@@ -1,4 +1,4 @@
-  </article>
+  
 </main>
 <!-- end main -->
 

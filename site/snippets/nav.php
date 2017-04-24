@@ -4,7 +4,6 @@
   <!-- Button to close the overlay navigation -->
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
- 
   <!-- Overlay content -->
   <div class="overlay-content">
   	<a href="<?php echo $site->url() ?>">
@@ -51,9 +50,9 @@
         </li>
       <?php endif ?>
     </ul>
-  </div>
+  </div> <!-- end overlay content -->
 
-</div>
+</div><!-- end overlay -->
 
 <!-- Use any element to open/show the overlay navigation menu -->
 <span onclick="openNav()" type="button" class="burger">

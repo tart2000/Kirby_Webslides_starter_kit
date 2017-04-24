@@ -1,0 +1,27 @@
+title: Slideshow
+
+pages:
+  template: null
+  num:
+    mode: default
+    display: null
+  max: null
+  limit: 20
+  sort: 'true'
+  hide: false
+
+files:
+  sortable: false
+  max: null
+  hide: false
+  sanitize: true
+  fields: null
+  size: "2000"
+  width: "4000"
+  height: "4000"
+
+fields:
+  title:
+    label: Title
+    type: title
+
