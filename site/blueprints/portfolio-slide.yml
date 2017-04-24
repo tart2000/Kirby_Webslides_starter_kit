@@ -1,0 +1,37 @@
+title: Portfolio-slide
+
+pages: false
+
+files:
+  sortable: false
+  max: null
+  hide: false
+  sanitize: true
+  fields: null
+  size: "2000"
+  width: "4000"
+  height: "4000"
+
+fields:
+  title:
+    label: Title
+    type: title
+  description: 
+    label: Description
+    type: textarea
+  items:
+    label: items
+    type: structure 
+    entry: >
+      {{title}}
+    fields: 
+      title: 
+        label: Title
+        type: text 
+      img:
+        label: Image name
+        type: text
+      theurl:
+        label: Link
+        type: URL  
+

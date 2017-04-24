@@ -2,11 +2,6 @@ title: Slideshow
 
 pages:
   template: null
-  num:
-    mode: default
-    display: null
-  max: null
-  limit: 20
   sort: 'true'
   hide: false
 
