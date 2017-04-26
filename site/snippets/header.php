@@ -4,17 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- CLEAN MARKUP = GOOD KARMA.
-      Hi source code lover,
-
-      you're a curious person and a fast learner ;)
-      Let's make something beautiful together. Contribute on Github:
-      https://github.com/jlantunez/webslides
-
-      Thanks,
-      @jlantunez.
-    -->
-
     <!-- SEO -->
     <title><?php echo $site->title() ?></title>
     <meta name="description" content="<?php echo $site->description() ?>">
@@ -31,6 +20,7 @@
     <!-- Optional - CSS SVG Icons (Font Awesome) -->
     <?php echo css('assets/css/svg-icons.css') ?>
 
+    <!-- Our very own CSS file -->
     <?php echo css('assets/css/main.css') ?>
 
     <!-- Insert social-cards snippet here when ready -->

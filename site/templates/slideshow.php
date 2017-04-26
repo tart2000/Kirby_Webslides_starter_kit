@@ -6,8 +6,13 @@
 
     <?php if ($s->template() == 'cover-slide') : ?>
       <?php snippet('cover-slide',array('s' => $s)) ?>
+
+    <?php elseif ($s->template() == 'default-slide') : ?>
+      <?php snippet('default-slide', array('s' => $s)) ?>
+
     <?php elseif ($s->template() == 'portfolio-slide') : ?> 
       <?php snippet('portfolio-slide', array('s' => $s)) ?>
+      
     <?php endif ?>
 
   <?php endforeach ?>
