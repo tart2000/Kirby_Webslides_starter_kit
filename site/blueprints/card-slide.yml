@@ -1,13 +1,6 @@
-title: Slideshow
+title: Card-slide
 
-pages:
-  template:
-    - cover-slide
-    - card-slide
-    - default-slide
-    - portfolio-slide
-  sort: 'true'
-  hide: false
+pages: false
 
 files:
   sortable: false
@@ -23,4 +16,12 @@ fields:
   title:
     label: Title
     type: title
+  img:
+    label: Unsplash code (ex. nxfuA21kNHY)
+    type: text 
+    width: 1/2
+  description: 
+    label: Description
+    type: textarea
+
 
