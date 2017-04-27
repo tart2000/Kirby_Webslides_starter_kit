@@ -1,0 +1,34 @@
+Title: Une équipe solide et complémentaire
+
+----
+
+Description: 
+
+----
+
+Items: 
+
+- 
+  title: Corinne Lapras
+  img: corinne_sq.jpg
+  theurl: ""
+- 
+  title: Patrice Joffron
+  img: patrice_sq.png
+  theurl: ""
+- 
+  title: Arthur Schmitt
+  img: arthur-schmitt_sq.jpg
+  theurl: ""
+- 
+  title: Laurence Texier
+  img: laurence.jpg
+  theurl: ""
+- 
+  title: Matthias Bruno
+  img: matthias_sq.jpg
+  theurl: ""
+
+----
+
+Meta: 

@@ -6,7 +6,6 @@ pages:
     - card-slide
     - default-slide
     - portfolio-slide
-  sort: 'true'
   hide: false
 
 files:
