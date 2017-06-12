@@ -6,8 +6,7 @@ pages:
     - card-slide
     - default-slide
     - portfolio-slide
-  sort: 'true'
-  hide: false
+  hide: true
 
 files:
   sortable: false
@@ -15,12 +14,12 @@ files:
   hide: false
   sanitize: true
   fields: null
-  size: "2000"
-  width: "4000"
-  height: "4000"
 
 fields:
   title:
     label: Title
     type: title
+  mysubpagelist:
+    label: Slideshow
+    type:  subpagelist
 

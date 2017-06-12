@@ -8,14 +8,26 @@ files:
   hide: false
   sanitize: true
   fields: null
-  size: "2000"
-  width: "4000"
-  height: "4000"
+  size: 2000000
+  width: 4000
+  height: 4000
 
 fields:
+  prevnext: prevnext
   title:
     label: Title
     type: title
+  meta: 
+    label: Meta
+    type: text
+    width: 1/2
+  slideimg: 
+    label: Slide image
+    type:  selector
+    mode:  single
+    width: 1/2
+    types:
+      - image
   img:
     label: Unsplash code (ex. nxfuA21kNHY)
     type: text 

@@ -7,3 +7,11 @@ Description: Présentation de l'équipe Corpoé
 ----
 
 Img: nxfuA21kNHY
+
+----
+
+Meta: 
+
+----
+
+Slideimg: 
