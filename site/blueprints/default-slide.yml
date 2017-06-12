@@ -8,7 +8,7 @@ files:
   hide: false
   sanitize: true
   fields: null
-  size: "2000"
+  size: "2000000"
   width: "4000"
   height: "4000"
 

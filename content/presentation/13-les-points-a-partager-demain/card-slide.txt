@@ -15,5 +15,5 @@ Description:
 - Composition du groupe des éclaireurs
 - Profils des personnalités et conditions d’intervention
 - Profil des autres contributeurs
-- Site web : droits d'accès et sécurité
+- Livrable web : droits d'accès et sécurité
 - Organisation matérielle des ateliers

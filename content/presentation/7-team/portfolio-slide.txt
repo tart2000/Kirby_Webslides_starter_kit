@@ -13,7 +13,7 @@ Items:
   img: corinne_sq.jpg
   theurl: ""
 - 
-  title: Patrice Joffron
+  title: Patrice Geoffron
   img: patrice_sq.png
   theurl: ""
 - 

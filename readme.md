@@ -25,3 +25,4 @@ Please buy a license at <http://getkirby.com/buy>
 - Ajouter plugin pour sélection image 
 - Ajouter plugin pour afficher les sous-pages (children) sur l'espace principal 
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents 
+- Intégrer font awesome 
