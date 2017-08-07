@@ -8,15 +8,9 @@ files:
   hide: false
   sanitize: true
   fields: null
-<<<<<<< HEAD
-  size: "2000000"
-  width: "4000"
-  height: "4000"
-=======
   size: 2000000
   width: 4000
   height: 4000
->>>>>>> master
 
 fields:
   prevnext: prevnext

@@ -14,7 +14,7 @@ Description:
 
 - Atelier d'appropriation 
 - Rencontre prospective 
-- Atelier des compétences 
-- Enquête terrain 
+- Atelier de compétences 
+- Enquêtes terrain 
 - Atelier des métiers 
 - Groupe de travail pilote

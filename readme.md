@@ -34,6 +34,7 @@ And also, Font Awesome
 - Ajouter plugin pour sélection image 
 - Ajouter plugin pour afficher les sous-pages (children) sur l'espace principal 
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents 
+<<<<<<< HEAD
 - Intégrer font awesome 
 =======
 - steps (process)
@@ -47,3 +48,5 @@ And also, Font Awesome
 - Better integration of Font Awesome
 
 >>>>>>> master
+=======
+>>>>>>> parent of fd22902... IEG présentation

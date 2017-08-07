@@ -6,11 +6,7 @@ pages:
     - card-slide
     - default-slide
     - portfolio-slide
-<<<<<<< HEAD
-  hide: false
-=======
   hide: true
->>>>>>> master
 
 files:
   sortable: false

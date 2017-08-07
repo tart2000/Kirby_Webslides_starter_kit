@@ -21,8 +21,6 @@ fields:
     label: Meta
     type: text
     width: 1/2
-<<<<<<< HEAD
-=======
   slideimg: 
     label: Slide image
     type:  selector
@@ -30,7 +28,6 @@ fields:
     width: 1/2
     types:
       - image
->>>>>>> master
   img:
     label: Unsplash code (ex. nxfuA21kNHY)
     type: text 

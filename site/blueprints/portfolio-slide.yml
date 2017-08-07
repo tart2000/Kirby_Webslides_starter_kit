@@ -8,11 +8,7 @@ files:
   hide: false
   sanitize: true
   fields: null
-<<<<<<< HEAD
-  size: 12000000
-=======
   size: 2000000
->>>>>>> master
   width: 4000
   height: 4000
 

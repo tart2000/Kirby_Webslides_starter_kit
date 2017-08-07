@@ -14,6 +14,6 @@ Description:
 
 - L’agilité est une des réponses face à l’incertitude 
 - La différence est une force
-- Pour ne pas vous épuiser à convaincre les parties prenantes, embarquez-les 
+- Pour ne pas lutter à convaincre les parties prenantes, embarquez-les 
 - Le sens et l’envie sont des leviers puissants de motivation
 - *Make it simple*
