@@ -2,11 +2,18 @@
 
 <article>
 	<section>
-		<?php foreach ($site->pages()->filterBy('template','==','slideshow') as $s) : ?>
-			<a href="<?php echo $s->url() ?>" >
-				<h1><?php echo $s->title() ?></h1>
-			</a>
-		<?php endforeach ?>
+		<div class="wrap size-50">
+			<h2>Productions</h2>
+			<ul class="description">
+				<?php foreach ($site->pages()->visible() as $s) : ?>
+					<li>
+						<a href="<?php echo $s->url() ?>" >
+							<span><?php echo $s->title() ?></span>
+						</a>
+					</li>
+				<?php endforeach ?>
+			</ul>
+		</div>
 	</section>
 </article>
 

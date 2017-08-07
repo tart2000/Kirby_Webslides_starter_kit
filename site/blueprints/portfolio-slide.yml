@@ -8,11 +8,16 @@ files:
   hide: false
   sanitize: true
   fields: null
+<<<<<<< HEAD
   size: 12000000
+=======
+  size: 2000000
+>>>>>>> master
   width: 4000
   height: 4000
 
 fields:
+  prevnext: prevnext
   title:
     label: Title
     type: title
@@ -33,8 +38,11 @@ fields:
         label: Title
         type: text 
       img:
-        label: Image name
-        type: text
+        label: Slide image
+        type:  selector
+        mode:  single
+        types: 
+          - image 
       theurl:
         label: Link
         type: URL  
