@@ -1,11 +1,16 @@
 title: Site
 pages: 
-  template: slideshow
+  templates: 
+    - slideshow
+    - page
 files: true
 fields:
   title:
     label: Title
     type:  text
+  baseline: 
+    label: Baseline 
+    type: text 
   description:
     label: Description
     type:  textarea

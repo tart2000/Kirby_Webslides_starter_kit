@@ -3,10 +3,16 @@
 <!-- end main -->
 
 <!-- Required -->
-<script src="assets/js/webslides.js"></script>
+<?php echo js('assets/js/webslides.js') ?>
+<?php echo js('assets/js/CollapsibleLists.src.js') ?>
+
+<?php if ($page->template() == 'slideshow') : ?>
+	<script>
+	 	window.ws = new WebSlides(); 
+	</script>
+<?php endif ?>
 
 <script>
- 	window.ws = new WebSlides(); 
 
   	/* Open when someone clicks on the span element */
 	function openNav() {
@@ -17,6 +23,8 @@
 	function closeNav() {
 	    document.getElementById("myNav").style.width = "0%";
 	}
+
+	CollapsibleLists.apply();
 
 </script>
 

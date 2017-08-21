@@ -1,0 +1,33 @@
+Title: Icones homepage
+
+----
+
+Prevnext: 
+
+----
+
+Meta: 
+
+----
+
+Description: 
+
+----
+
+Items: 
+
+- 
+  title: Les acteurs
+  icon: users
+  theurl: /les-acteurs-de-la-fabrique-d-energies
+  text: "de la Fabrique d'Énergies"
+- 
+  title: Programme
+  icon: calendar
+  text: "Les 4 étapes de la Fabrique d'Énergies"
+  theurl: /les-4-etapes-de-la-fabrique-d-energies
+- 
+  title: Bibliographie
+  icon: book
+  text: Etudes retenues pour la démarche
+  theurl: /lectures

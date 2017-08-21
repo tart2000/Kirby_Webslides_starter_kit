@@ -5,9 +5,18 @@
       padding-bottom: 8rem;
   }
 }
+section ul {
+  margin-bottom: 3rem;
+}
+h1 {
+  font-family: 'Oswald', sans-serif;
+}
 
 .fullscreen {
     padding: 0;
+}
+.icon-text {
+  padding-left: 75px;
 }
 
 /* The Overlay sliding NAV */
@@ -84,5 +93,70 @@
     top: 0px;
     left: 15px;
     font-size: 60px;
+}
+
+/* Collapsible list */ 
+
+
+.treeView{
+  -moz-user-select:none;
+  position:relative;
+}
+
+.treeView ul {
+  margin:0 0 0 -1.5em;
+  padding:0 0 0 1.5em;
+}
+
+.treeView ul ul {
+  background:url('../images/list-item-contents.png') repeat-y left;
+}
+
+.treeView li:last-child > ul {
+  background-image:none;
+}
+
+.treeView li {
+  margin:0;
+  padding:0;
+  background:url('../images/list-item-root.png') no-repeat top left;
+  list-style-position:inside;
+  list-style-image:url('../images/button.png');
+  cursor:auto;
+  line-height: 2.4rem;
+  font-size: 17px;
+}
+
+.treeView li li{
+  background-image:url('../images/list-item.png');
+  padding-left:1.5em;
+  margin-left: 24px;
+}
+
+.treeView li:last-child {
+  background-image:url('../images/list-item-last.png');
+}
+
+.treeView li.collapsibleListOpen{
+  background-image:url('../images/list-item-open.png');
+}
+
+.treeView li.collapsibleListOpen:last-child{
+  background-image:url('../images/list-item-last-open.png');
+}
+
+.collapsibleList li{
+  list-style-image : url('../images/button.png');
+  cursor           : auto;
+}
+
+li.collapsibleListOpen{
+  list-style-image : url('../images/button-open.png');
+  cursor           : pointer;
+}
+
+li.collapsibleListClosed{
+  list-style-image : url('../images/button-closed.png');
+  cursor           : pointer;
 }
 

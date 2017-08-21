@@ -1,0 +1,36 @@
+title: Icons-slide
+
+pages: false
+files: false
+
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type: title
+  meta: 
+    label: Meta
+    type: text
+    width: 1/2
+  description: 
+    label: Description
+    type: textarea
+  items:
+    label: items
+    type: structure 
+    entry: >
+      {{title}}
+    fields: 
+      title: 
+        label: Title
+        type: text 
+      icon:
+        label: Font Awesome icon
+        type:  text
+      text: 
+        label: Text
+        type: text 
+      theurl:
+        label: Link
+        type: text 
+

@@ -16,6 +16,9 @@
     <?php elseif ($s->template() == 'portfolio-slide') : ?> 
       <?php snippet('portfolio-slide', array('s' => $s)) ?>
 
+    <?php elseif ($s->template() == 'icons-slide') : ?> 
+      <?php snippet('icons-slide', array('s' => $s)) ?>
+
     <?php endif ?>
 
   <?php endforeach ?>

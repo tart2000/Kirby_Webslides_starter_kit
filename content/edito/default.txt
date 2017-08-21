@@ -1,0 +1,44 @@
+Title: Édito
+
+----
+
+Text: 
+
+La Fabrique d'Énergies est une démarche inédite de la branche des Industries Électriques et Gazières. 
+Inédite dans sa vocation : permettre aux acteurs de la branche des IEG de disposer d’une analyse prospective à l‘horizon 2030 afin de dégager les grandes tendances des besoins de formation professionnelle et les publics prioritaires concernés, au périmètre de la branche professionnelle ; mener à des actions concrètes comme par exemple la définition de nouveaux CQP, de nouveaux titres, l’inscription sur la liste de branche des certifications éligibles au CPF, le choix d’abondements complémentaires pour le CPF, l’actualisation des publics accédant au financement majoré des périodes de professionnalisation...
+Inédite dans son format : cette démarche tout à la fois paritaire, participative, pluridisciplinaire, largement ouverte sur l’environnement d la branche préfigure le monde de demain - ce futur aléatoire dont il convient de détecter les signaux faibles, apprivoiser les paradoxes et saisir les opportunités.
+
+Cette démarche est d’autant plus importante que la branche est marquée par d’importantes transformations économiques autant que réglementaires :
+
+- mise en application de la loi de transition énergétique 
+- orientations politiques nationales, européennes et internationales (COP)
+- actions décidées par les différents pays suite à la COP21 dans le but de limiter le réchauffement climatique : développement de la biomasse, biogaz et énergies décarbonnées,
+- prix du pétrole non stabilisé avec des répercussions sur les marges et sur les autres énergies (gaz de schiste),
+- situation contrastée du nucléaire (France, Europe, Monde) ayant des incidences sur le marché énergétique mondial,
+- marché du gaz naturel (GNL, stockages et centrales à cycle combiné) fortement impacté en Europe par les marchés émergents et ceux du gaz de schiste et charbon,
+- évolution des normes impliquant des mises en conformité de l’outil industriel avec de forts impacts financiers.
+- poursuite de l’ouverture à la concurrence hors périmètre des IEG, qui impacte aussi bien les grands groupes que le périmètre TPE PME des Entreprises Locales de Distribution (ELD),
+- forts enjeux de concurrence au niveau national et international avec l’émergence de nouveaux acteurs sur les questions d’efficacité énergétique et de développement du digital...
+
+Nous remercions tous les acteurs qui se sont associés à la Fabrique d’Energies : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Et nous vous invitons à contribuer à cette démarche en utilisant le formulaire de contact.
+Signature XXXXXXX
+
+<ul class="collapsibleList treeView">
+<li>Title</li>
+  <li>
+    Parent item
+    <ul>
+      <li>Child item</li>
+      <li>Child item</li>
+    </ul>
+  </li>
+  <li>
+    Parent item
+    <ul>
+      <li>Child item</li>
+      <li>Child item</li>
+    </ul>
+  </li>
+</ul>

@@ -1,5 +1,12 @@
 <?php snippet('header') ?>
 
-<h1><?php echo $page->title()->html() ?></h1>
+<article>
+	<section>
+		<div class="wrap size-50">
+			<h2><?= $page->title() ?></h2>
+			<?= $page->text()->kirbytext() ?>
+		</div>
+	</section>
+</article>
 
 <?php snippet('footer') ?>
