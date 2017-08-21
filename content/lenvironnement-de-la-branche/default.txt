@@ -8,3 +8,91 @@ Les études retenues comme référentiel bibliographique de la démarche ont per
 Ces facteurs ont été regroupés en 8 familles et déclinés en mots-clés durant l’atelier d’appropriation du 12 juillet 2017.
 Les participants ont également traduit en ‘’effets’’ sur l’environnement de travail de la branche une sélection de ces facteurs (21, identifiés en XXX).
 Ce travail de coproduction a orienté les thématiques prioritaires de l’étape 2, en particulier la programmation de la Rencontre Prospective du 18 octobre.
+
+<div class="treeview-container">
+  <ul class="treeview">
+    <li>Politiques énergétiques
+      <ul>
+        <li>La place du statut des IEG dans la transformation globale</li>
+        <li>Smart grids
+          <ul>
+            <li>Compteurs intelligents</li>
+            <li>Smart-home</li>
+            <li>Auto-consommation</li>
+            <li>Pilotage</li>
+            <li>Temps réel consommation et fournisseurs</li>
+          </ul>
+        </li>
+        <li>Sécurité d'approvisionnement
+          <ul>
+            <li>Contexte géopolitique</li>
+            <li>Décision politique</li>
+            <li>Diversification d'approvisionnement</li>
+            <li>Nouvelles dépendances / Industrie asiatique (fabrication panneaux photovoltaïque, éolien, stockage, IT)<li>
+            <li>Surprotection des ressources naturelles</li>
+          </ul>      
+        </li>
+        <li>Politique post-LTECV
+          <ul>
+            <li>ENR Gaz</li>
+            <li>ENR Elec</li>
+            <li>Nouveau nucléaire</li>
+            <li>Transport</li>
+            <li>Prix fossiles et carbone</li>
+            <li>Tarifs/ Péréquation</li>
+            <li>Sécurité d’approvisionnement</li>
+            <li>Conscience écologique</li>
+            <li>Acceptation et pédagogie</li>
+          </ul>
+        </li>
+        <li>Décentralisation
+          <ul>
+            <li>Villes / métropoles</li>
+            <li>Smart cities</li>
+            <li>Communautés énergétiques locales</li>
+            <li>Véhicules électrique</li>
+          </ul>
+        </li>
+        <li>Unité Bloc Européen
+          <ul>
+            <li>COP 21</li>
+            <li>Mix voisins Européens</li>
+            <li>Sécurité d’approvisionnement</li>
+            <li>Partage de gouvernance Europe /nation</li>
+            <li>Robustesse du bloc Européen vis à vis des Etats-Unis et de la Russie </li>
+            <li>Inégalités énergétiques en Europe</li>
+            <li>4ème paquet énergétique</li>
+            <li>Winter package</li>
+          </ul>
+        </li>
+        <li>Efficacité
+          <ul>
+            <li>Consom’acteurs</li>
+            <li>Autoconsommation</li>
+            <li>Chauffage / Climatisation</li>
+            <li>Conscience écologique</li>
+            <li>Gestion de la transition (anciens usages vs. Nouveaux usages)</li>
+            <li>Subventions</li>
+            <li>Sanctions</li>
+          </ul>
+        </li>
+        <li>Impacts sociaux
+          <ul>
+            <li>Salariés de l’énergie</li>
+            <li>Précarité énergétique</li>
+            <li>Pérennité des petites entreprises</li>
+            <li>Péréquation</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Technologies énergétiques
+    </li>
+    <li>Globalisation 
+    </li>
+    <li>Technologies non énergétiques 
+    </li>
+    <li>Economie   
+    </li>
+  </ul>
+</div>

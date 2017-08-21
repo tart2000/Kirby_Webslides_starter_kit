@@ -24,21 +24,3 @@ Nous remercions tous les acteurs qui se sont associés à la Fabrique d’Energi
 
 Et nous vous invitons à contribuer à cette démarche en utilisant le formulaire de contact.
 Signature XXXXXXX
-
-<ul class="collapsibleList treeView">
-<li>Title</li>
-  <li>
-    Parent item
-    <ul>
-      <li>Child item</li>
-      <li>Child item</li>
-    </ul>
-  </li>
-  <li>
-    Parent item
-    <ul>
-      <li>Child item</li>
-      <li>Child item</li>
-    </ul>
-  </li>
-</ul>

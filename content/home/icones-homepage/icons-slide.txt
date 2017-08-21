@@ -17,6 +17,16 @@ Description:
 Items: 
 
 - 
+  title: Info
+  icon: info
+  text: Mieux connaitre les IEG
+  theurl: /mieux-connaitre-les-ieg
+- 
+  title: Origines
+  icon: bolt
+  text: "de la Fabrique d'Énergie"
+  theurl: /les-origines-de-la-fabrique-d-energies
+- 
   title: Les acteurs
   icon: users
   theurl: /les-acteurs-de-la-fabrique-d-energies
@@ -31,3 +41,10 @@ Items:
   icon: book
   text: Etudes retenues pour la démarche
   theurl: /lectures
+- 
+  title: "Pistes d'action"
+  icon: binoculars
+  text: >
+    L’environnement de la branche à
+    horizon 2030
+  theurl: /lenvironnement-de-la-branche

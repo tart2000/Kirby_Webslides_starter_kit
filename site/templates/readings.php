@@ -16,9 +16,11 @@
 								<p class="year">
 									<?= $p->comms() ?>
 								</p>
+								<!-- 
 								<p class="summary">
 									<?= $p->description() ?>
 								</p>
+								-->
 							</div>
 						</a>
 					</li>

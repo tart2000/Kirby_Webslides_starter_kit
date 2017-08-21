@@ -2,9 +2,12 @@
 </main>
 <!-- end main -->
 
+<!-- Jquery -->
+<?php echo js('assets/js/jquery-3.2.1.min.js') ?>
+
 <!-- Required -->
 <?php echo js('assets/js/webslides.js') ?>
-<?php echo js('assets/js/CollapsibleLists.src.js') ?>
+<?php echo js('assets/js/jquery.treeView.js') ?>
 
 <?php if ($page->template() == 'slideshow') : ?>
 	<script>
@@ -24,7 +27,8 @@
 	    document.getElementById("myNav").style.width = "0%";
 	}
 
-	CollapsibleLists.apply();
+    $('.treeview').treeView();
+
 
 </script>
 
