@@ -2,30 +2,82 @@
 
 <article>
 	<section>
-		<div class="wrap">
+		<div class="wrap covers">
 			<h2><?= $page->title() ?></h2>
 			<?= $page->text()->kirbytext() ?>
-			<ul class="flexblock activity">
+
+			<h3>Études issues de la filière</h3>
+
+			<ul class="flexblock gallery">
 				<?php foreach ($page->reads()->toStructure() as $p) : ?>
 					<li>
 						<a href="<?= $p->theurl() ?>" target="_blank">
-							<div>
-								<p class="title">
-									<?= $p->title() ?>
-								</p>
-								<p class="year">
-									<?= $p->comms() ?>
-								</p>
-								<!-- 
-								<p class="summary">
-									<?= $p->description() ?>
-								</p>
-								-->
-							</div>
+							<figure>
+					            <img alt="Thumbnail" src="<?= $page->image($p->img())->url() ?>">
+					            <figcaption>
+					              <h2><?= $p->title() ?></h2>
+					              <p><?= $p->comms() ?></p>
+					            </figcaption>
+					          </figure>
 						</a>
 					</li>
 				<?php endforeach ?>
 			</ul>
+
+			<h3>Études énergie « institutionnelles »</h3>
+
+			<ul class="flexblock gallery">
+				<?php foreach ($page->reads2()->toStructure() as $p) : ?>
+					<li>
+						<a href="<?= $p->theurl() ?>" target="_blank">
+							<figure>
+					            <img alt="Thumbnail" src="<?= $page->image($p->img())->url() ?>">
+					            <figcaption>
+					              <h2><?= $p->title() ?></h2>
+					              <p><?= $p->comms() ?></p>
+					            </figcaption>
+					          </figure>
+						</a>
+					</li>
+				<?php endforeach ?>
+			</ul>
+
+			<h3>Études énergies issues d’autres sources</h3>
+
+			<ul class="flexblock gallery">
+				<?php foreach ($page->reads3()->toStructure() as $p) : ?>
+					<li>
+						<a href="<?= $p->theurl() ?>" target="_blank">
+							<figure>
+					            <img alt="Thumbnail" src="<?= $page->image($p->img())->url() ?>">
+					            <figcaption>
+					              <h2><?= $p->title() ?></h2>
+					              <p><?= $p->comms() ?></p>
+					            </figcaption>
+					          </figure>
+						</a>
+					</li>
+				<?php endforeach ?>
+			</ul>
+
+			<h3>Études sur d’autres thématiques que l’énergie</h3>
+
+			<ul class="flexblock gallery">
+				<?php foreach ($page->reads3()->toStructure() as $p) : ?>
+					<li>
+						<a href="<?= $p->theurl() ?>" target="_blank">
+							<figure>
+					            <img alt="Thumbnail" src="<?= $page->image($p->img())->url() ?>">
+					            <figcaption>
+					              <h2><?= $p->title() ?></h2>
+					              <p><?= $p->comms() ?></p>
+					            </figcaption>
+					          </figure>
+						</a>
+					</li>
+				<?php endforeach ?>
+			</ul>			
+
 		</div>
 	</section>
 </article>

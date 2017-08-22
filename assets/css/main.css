@@ -95,6 +95,12 @@ h1 {
     font-size: 60px;
 }
 
+/* Cover list */ 
+.covers > .flexblock li {
+  display: inline-table;
+  background-color: white;
+}
+
 /* Collapsible list */ 
 
 

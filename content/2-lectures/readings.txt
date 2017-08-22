@@ -1,21 +1,157 @@
-Title: Lectures
+Title: Bibliographie
 
 ----
 
-Text: La démarche s’appuie sur X études.
+Text: 
+
+La phase 1 a été destinée à identifier le facteurs dits « macro-déterminants » (c’est-à-dire les transformations majeures), ainsi que les « signaux faibles » (les évolutions plus mineures, mais susceptibles d’induire des changements à terme), de façon à anticiper des impacts sur l’environnement de travail de la branche.
+
+Pour identifier ces différents facteurs, nous avons puisé dans un panel très large d’études, souvent organisées en scénarios à l’horizon 2030).
+
+L’objectif n’était pas de juger de la probabilité de réalisation de tel ou tel scénario, mais, en puisant dans un large panel, de mettre en débat un large éventail de facteurs.
+
+A cette fin, nous avons organisé notre panel d’études en quatre sous-ensembles : 
+
+- Les études prospectives produites par la filière. 
+- Les études institutionnelles (Ministère les, ADEME, …).
+- Les études en rapport avec l’énergie issues d’autres sources (cabinet d’études, think tanks, …).
+- Les études non directement consacrées à l’énergie (transformations industrielles, sociologique, géopolitique, …).
 
 ----
 
 Reads: 
 
 - 
-  title: 'Énergie : priorité au climat !'
+  title: >
+    La demande gazière en France à horizon
+    2030
   theurl: >
-    https://drive.google.com/open?id=0B7Spc3iekqK1bzFXNFZUbTZfOU0
-  description: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy."
-  comms: Institut Montaigne
+    http://www.afgaz.fr/la-demande-gaziere-en-france-lhorizon-2030-le-scenario-de-lafg
+  img: afg.png
+  comms: AFG
 - 
-  title: Une autre étude
-  theurl: http://linkedin.com
-  description: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-  comms: La Poste, ERDF
+  title: >
+    Valorisation socio-économique des
+    réseaux électriques intelligents
+  theurl: >
+    http://www.rte-france.com/sites/default/files/rei_synthese-commune_2017.pdf
+  img: industrie_du_futur.png
+  comms: ADEeF, ADEME, Enedis, RTE
+- 
+  title: Quelles villes en 2030
+  theurl: >
+    https://www.engie.com/wp-content/uploads/2013/09/GDF-SUEZ-VILLES-2013-FR.040913.pdf
+  img: quelles_villes.png
+  comms: GDF SUEZ
+- 
+  title: >
+    Schéma décennal de développement du
+    réseau
+  theurl: >
+    http://www.rte-france.com/sites/default/files/sddr-2016_volet_national.pdf
+  img: rte.png
+  comms: RTE
+- 
+  title: Scenario facteur 4
+  theurl: >
+    http://bibliotheque.grdf.fr/fileadmin/user_upload/images/actualites/DNTE_scenarioGrDF_Facteur_4_avril2013.pdf
+  img: scenario_facteur_4.png
+  comms: GRDF
+- 
+  title: >
+    Le système électrique 4.0 au coeur des
+    performances de la "France 2040"
+  theurl: >
+    http://ufe-electricite.fr/publications/etudes/article/le-systeme-electrique-4-0-au-coeur
+  img: systeme_40.png
+  comms: UFE
+
+----
+
+Reads2: 
+
+- 
+  title: >
+    Actualisation des analyses sectorielles
+    du rapport du CGEDD n°008387-01
+  theurl: >
+    http://www.cgedd.developpement-durable.gouv.fr/actualisation-des-analyses-sectorielles-du-rapport-a2412.html
+  img: ministere.png
+  comms: "Ministère de l'environnement, de l'énergie et de la mer"
+- 
+  title: Stratégie nationale bas-carbone
+  theurl: >
+    https://www.ecologique-solidaire.gouv.fr/strategie-nationale-bas-carbone
+  img: strategie_bas_carbone.png
+  comms: "Ministère de l'écologie, du développement durable et de l'énergie"
+- 
+  title: "Scenarios prospectifs énergie - climat - air pour la France à l'horizon 2035"
+  theurl: >
+    https://www.ecologique-solidaire.gouv.fr/scenarios-prospectifs-energie-climat-air
+  img: air_pour-la_france.png
+  comms: >
+    enerdata, énergies demain, seureco
+    erasme, citepa, Mines Paristech,
+    Armines, ADEME, IFP
+- 
+  title: Le véhicule propre au secours du climat
+  theurl: >
+    http://www.strategie.gouv.fr/publications/20172027-vehicule-propre-secours-climat-actions-critiques
+  img: vehicule_propre.png
+  comms: France Stratégie
+- 
+  title: >
+    Energie centralisée ou décentralisée
+    ?
+  theurl: >
+    http://www.strategie.gouv.fr/publications/20172027-energie-centralisee-decentralisee-actions-critiques
+  img: energie_decentralisee.png
+  comms: France Stratégie
+- 
+  title: "Scenarios de l'ANCRE pour la transition énergétique"
+  theurl: >
+    http://energieclimat.hypotheses.org/19674
+  img: scenarios_ancre.png
+  comms: ANCRE
+- 
+  title: Quels modes de vie demain ?
+  theurl: >
+    http://www.ademe.fr/visions-energie-climat-20302050-modes-vie-demain
+  img: vision_energie_climat.png
+  comms: ADEME
+- 
+  title: "Contribution de l'ADEME à l'élaboration de visions énergétiques 2030 / 2050"
+  theurl: >
+    http://www.ademe.fr/evaluation-macroeconomique-visions-energetiques-2030-2050-lademe-l
+  img: ademe.png
+  comms: ADEME
+- 
+  title: Plan Climat
+  theurl: >
+    https://www.ecologique-solidaire.gouv.fr/lancement-du-plan-climat
+  img: plan_climat.png
+  comms: >
+    Ministère de la transition écologique
+    et solidaire
+- 
+  title: "Transition énergétique - les clés pour financer l'évolution de la demande en France"
+  theurl: >
+    http://ufe-electricite.fr/publications/etudes/article/transition-energetique-les-cles-pour-financer-l-evolution-de-la-demande-en
+  img: transition_energetique.png
+  comms: UFE
+- 
+  title: "La blockchain : une opportunité pour les consommateurs d'énergie ?"
+  theurl: >
+    https://energie-fr-de.eu/files/ofaenr/05-traductions/02-traductions-payantes/161206_Traduction_Blockchain_OFATE.pdf
+  img: blockchain.png
+  comms: >
+    Office franco-allemand pour la
+    transition énergétique
+
+----
+
+Reads3: 
+
+----
+
+Reads4: 

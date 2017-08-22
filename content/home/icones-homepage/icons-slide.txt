@@ -42,7 +42,7 @@ Items:
   text: Etudes retenues pour la démarche
   theurl: /lectures
 - 
-  title: "Pistes d'action"
+  title: Pistes de réflexion
   icon: binoculars
   text: >
     L’environnement de la branche à

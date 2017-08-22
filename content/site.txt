@@ -2,14 +2,15 @@ Title: la Fabrique d'Énergies
 
 ----
 
-Baseline: ####Les Industries Electriques et Gazières préparent les compétences de demain
+Baseline: ####Les Industries Electriques et Gazières<br> préparent les compétences de demain
 
 ----
 
 Description: 
 
 Avec la Fabrique d'Énergies, le syndicat de branche des industries électriques et gazières (IEG) lance une initiative originale et innovante : une démarche prospective paritaire et participative pour anticiper les compétences et les priorités de formation à horizon 2030, et en particulier relever les nombreux défis de la transition énergétique.
-Quelles transformations technologiques, sociales et organisationnelles impactent son environnement ? Quelles compétences-clés pour intégrer ces nouveaux enjeux ? Au regard de ces évolutions et besoins émergents, comment adapter, voire refonder, la formation et l’accompagnement des jeunes et des collaborateurs ?
+
+Quelles transformations technologiques, sociales et organisationnelles impactent son environnement ? Quelles compétences-clés pour intégrer ces nouveaux enjeux ? Au regard de ces évolutions et besoins émergents, comment adapter, voire refonder, la formation et l’accompagnement des jeunes et des collaborateurs ? Autant de questions que traitera la Fabrique d'Énergies.
 
 ----
 

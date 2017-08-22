@@ -92,7 +92,51 @@ Ce travail de coproduction a orienté les thématiques prioritaires de l’étap
     </li>
     <li>Technologies non énergétiques 
     </li>
-    <li>Economie   
+    <li>Économie   
+      <ul>
+        <li>Croissance durable
+          <ul>
+            <li>Sobriété</li>
+            <li>Diplomatie énergétique</li>
+            <li>Comportements responsables</li>
+            <li>Éducation</li>
+            <li>Innovation</li>
+            <li>Fiscalité incitative</li>
+            <li>Législation</li>
+          </ul>
+        </li>
+        <li>Nouveaux Services aux Industries Responsables
+          <ul>
+            <li>Marketing 4.0</li>
+            <li>Responsabilité sociétale</li>
+            <li>Actions d’accompagnement</li>
+          </ul>
+        </li>
+        <li>Cycles économiques
+          <ul>
+            <li>Taux d’intérêts</li>
+            <li>Choc économique</li>
+            <li>Croissance économique</li>
+            <li>Développement inégal</li>
+            <li>Veille prospective</li>
+          </ul>
+        </li>
+        <li>Dynamiques industrielles
+          <ul>
+            <li>R&D / Recherche et Développement</li>
+            <li>Formation Apprenante</li>
+            <li>Nouvelles Technologies</li>
+            <li>Industries 4.0</li>
+            <li>Réindustrialisation</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Demande de nouveaux services 
+    </li>
+    <li>Organisation du travail et formation 
+    </li>
+    <li>Démographie et modes de vie
     </li>
   </ul>
 </div>

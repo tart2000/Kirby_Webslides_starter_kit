@@ -9,7 +9,7 @@ fields:
     label: Text
     type:  textarea
   reads: 
-    label: Lectures 
+    label: Etudes issues de la filière
     type: structure 
     entry: >
       {{title}}
@@ -20,9 +20,67 @@ fields:
       theurl: 
         label: Link 
         type: url 
+      img: 
+        label: Image 
+        type: select 
+        options: images 
       comms: 
         label: Partners
         type: text
-      description: 
-        label: Desciption 
-        type: textarea
+  reads2: 
+    label: Etudes énergie « institutionnelles »
+    type: structure 
+    entry: >
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text 
+      theurl: 
+        label: Link 
+        type: url 
+      img: 
+        label: Image 
+        type: select 
+        options: images 
+      comms: 
+        label: Partners
+        type: text
+  reads3: 
+    label: Études énergies issues d’autres sources
+    type: structure 
+    entry: >
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text 
+      theurl: 
+        label: Link 
+        type: url 
+      img: 
+        label: Image 
+        type: select 
+        options: images 
+      comms: 
+        label: Partners
+        type: text
+  reads4: 
+    label: Études sur d’autres thématiques que l’énergie
+    type: structure 
+    entry: >
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text 
+      theurl: 
+        label: Link 
+        type: url 
+      img: 
+        label: Image 
+        type: select 
+        options: images 
+      comms: 
+        label: Partners
+        type: text
