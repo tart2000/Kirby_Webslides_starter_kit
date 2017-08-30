@@ -1,0 +1,197 @@
+Title: Effets identifiés
+
+----
+
+Text: 
+
+----
+
+Effects: 
+
+- 
+  title: Croissance durable
+  family: Economie
+  description: |
+    **Pistes d’innovation** : prévision et analyse des consommations, mise en forme et valorisation de l’information, efficacité énergétique, technologies de remplacement (moins coûteuses, moins consommatrices)
+    
+    **Nouvelles compétences et aptitudes** : métiers de l’innovation, Recherche et Développement, veille et stratégie, décryptage des consommateurs (gestion de leurs injonctions paradoxales entre ‘’bonne conscience’’ et besoins énergétiques réels)
+- 
+  title: Croissance de la population
+  family: Démographie et modes de vie
+  description: |
+    **Pistes d’Innovation** : gestion de l’adéquation besoins/ressources
+    
+    **Nouvelles compétences** : R&D, géopolitique, commercialisation de nouvelles offres ingénierie ou services, maîtrise de langues étrangères, éducation et sensibilisation aux défis énergétiques, culture intrapreneuriale, intelligence partenariale.
+- 
+  title: >
+    DYNAMIQUE INDUSTRIELLE / NOUVEAUX
+    SERVICES AUX INDUSTRIELS RESPONSABLES
+  family: Economie
+  description: |
+    **Pistes d’Innovation** : co-design des services de demain, co-construction des solutions énergétiques, innovation dans l’offre, nouveaux modèles d’affaires fondés sur le gain d’efficacité
+    
+    **Nouvelles compétences et aptitudes** : marketing de l’offre, techniques d’animation, techniques de négociation avec les industriels, agilité.
+- 
+  title: CONSOMM’ACTEURS
+  family: >
+    Demande de nouveaux services
+    énergétiques
+  description: |
+    **Pistes d’Innovation** : innovation participative (co-design, co-construction), transformation numérique,
+    
+    **Nouvelles compétences et aptitudes** : management de l’innovation par expérimentation et test, expérience client (UX), techniques d’animation, capacité de résilience
+- 
+  title: Smart cities
+  family: >
+    Demande de nouveaux services
+    énergétiques / Démographie et mode de
+    vie
+  description: |
+    **Pistes d’innovation** : connectivité des données, boucles courtes (nouvelles modalités organisationnelles et culturelles - notion de temps), transformation  numérique, innovation organisationnelle (décentralisation)
+    
+    **Nouvelles compétences et aptitudes** :  décryptage de l’environnement et analyse stratégique, techniques d’influence (gestion des rapports de force et négociation), ethnologie, agilité, adaptabilité
+- 
+  title: Nouveaux systèmes énergétiques
+  family: Organisation du travail et formation
+  description: |
+    **Pistes d’innovation** : gestion des ressources énergétiques, transformation numérique, nouveaux modèles GRH
+    
+    **Nouvelles compétences et aptitudes** : nouveaux métiers, formations spécifiques par types d’énergie (nucléaire, EPR…)
+    
+    **Autres** : adhésion et accompagnement du changement, mobilité (et son impact)
+- 
+  title: Formation digitale
+  family: Organisation du travail et formation
+  description: |
+    **Pistes d’innovation** : transformation digitale (plateforme, applicatifs., investissements en matériel)
+    
+    **Nouvelles compétence et aptitudes** : élargissement régulier des compétences (accès simplifié à des parcours de formation), agilité (et rapidité)
+    
+    **Autres** : adhésion de l’ensemble des agents, sécurité, performance appliquée à tous les métiers
+- 
+  title: Manager 4.0
+  family: Organisation du travail et formation
+  description: |
+    **Pistes d’innovation** : innovation stratégique (développement des affaires), innovation managériale (dont délégation)
+    
+    **Nouvelles compétences et aptitudes** : nouveau profil de manager (bienveillant, coach, leader designer, plus manager qu’expert métier), autonomie et responsabilisation des équipes.
+- 
+  title: Temps partagé
+  family: >
+    Organisation du travail et formation /
+    Démographie et mode de vie
+  description: |
+    **Pistes d’innovation** : transformation digitale (dont outils de la mobilité et e-monitoring), refonte des stratégies RH (nouveaux repères, notion de temps et lieux de travail, …), processus d’innovation (accélération)
+    
+    **Autres** : cohésion de groupe et sentiment d’appartenance
+- 
+  title: ÉCOCITOYEN, SMART CITIES, SMART HOME
+  family: Démographie et modes de vie
+  description: |
+    **Pistes d’innovation** : veille et prospective, transformation numérique (dont IOT - Internet des Objets) pour le )
+    
+    **Nouvelles compétences et aptitudes** : data scientists, pilotage à distance, technico-commerciaux pour le conseil en énergie auprès des particuliers, capacité d’adaptation.
+- 
+  title: Organisations apprenantes
+  family: Organisation du travail et formation
+  description: |
+    **Pistes d’innovation** :  outil multi-apprenants pour mutualisation des connaissances, culture de l’innovation (droit à l’erreur)
+    
+    **Nouvelles compétences et aptitudes** : compétences transverses (technique des projets, technique des achats…)
+- 
+  title: Pair-à-pair
+  family: Organisation du travail et formation
+  description: |
+    **Pistes d’innovation** : processus d’innovation (expérimentation, déploiement et route to market)
+    
+    **Nouvelles compétences et aptitudes** : compétences transverses , management par le partage et l’adhésion
+    
+    **Autres** : risques d’espionnage, choix stratégiques selon des critères de gains généraux pour l’entreprise et pour les hommes (temps, argent, sécurité/sûreté)
+- 
+  title: Blockchain, drones, robots
+  family: Technologies non énergétiques
+  description: |
+    **Pistes d’innovation** : nouveaux modèles économiques, sociaux et organisationnels (RSE),
+    
+    **Nouvelles compétences et aptitudes** : Informatisation et robotisation, culture high tech, outils digitaux (virtualisation), management basé sur la confiance, nouveaux métiers (data scientist,  cyber sécurité…)
+    
+    **Autres** : proximité, sécurité d’approvisionnement, risques sur circulation des drones
+- 
+  title: >
+    MAINTENANCE, TÉLÉ EXPLOITATION,
+    TÉLÉSURVEILLANCE
+  family: Technologies non énergétiques
+  description: |
+    **Pistes d’innovation** : nouveaux standards, refonte organisationnelle (redéfinition des rôles (chef méca poste, technicien, réseau), fiabilité des matériels dans le temps), télégestion, big data
+    
+    **Nouvelles compétences et aptitudes** : socle de connaissances minimum sur ces nouvelles technologies (avec réforme de la formation initiale et actualisation des compétences référentielles dans le temps), parcours métiers (capitalisation et mobilité fonctionnelle)
+    
+    **Autres** : sécurisation du personnel, équipement en outils digitaux (smartphone, tablette),  évolution du positionnement fonctionnel (GF).
+- 
+  title: Intermédiation
+  family: Globalisation
+  description: |
+    **Pistes d’innovation** : stratégie de négociation avec les autorités sur le périmètre, cadre expérimental régulatoire, politique de prestations, potentialités de collaboration avec les GAFAM
+    
+    **Nouvelles compétences et aptitudes** : veille (écoute de l’écosystème, innovant), études
+- 
+  title: >
+    Winter package et unité du bloc
+    Européen
+  family: Politiques énergétiques
+  description: |
+    **Pistes d’innovation** : compensation de la réduction globale de la consommation énergétique
+    par la mise en place de nouvelles activités (nouveaux services, métiers d’efficacité d’énergétique),
+    
+    **Nouvelles compétences et aptitudes** : maîtrise des langues étrangères,  mobilité, langage universel liés à l’européanisation et l’internationalisation, appréhension de la complexification juridique et contractuelle
+    
+    **Autres** : renforcement de l’interconnexion et de la politique transfrontalière (harmonisation des GRTE), augmentation des acteurs de marché et transfert gouvernemental (énergies locales, consommateurs participant activement à la demande)
+- 
+  title: >
+    POST Loi de transition énergétique
+    pour une croissance verte
+  family: Politiques énergétiques
+  description: |
+    **Pistes d’innovation** : méthanisation, stockage, modèles économiques adaptés aux nouveaux besoins, combinaison de plusieurs productions, territorialisation du retour énergétique
+    
+    **Nouvelles compétences et aptitudes** : gestion de la complexité, nouveaux métiers (nouvelles formations initiales et continues)
+    
+    **Autres** : risque de fermeture des sites et d’affaiblissement des entreprises nationales (cf énergies renouvelables et baisse des volumes), accompagnement RH de ces mutations (reconversion du personnel, mobilité, aides sociales, dispositif de formation…)
+- 
+  title: Smart grids
+  family: >
+    Politiques énergétiques / technologies
+    énergétiques
+  description: |
+    **Pistes d’innovation** : outils prévisionnels et décisionnels (investissements, réseau responsable), télé-exploitation
+    
+    **Nouvelles compétences et aptitudes** : études, simulation, équilibrage de réseau, stratégie d’investissement, conduite du changement (responsabilisation, co-construction…)
+- 
+  title: Big data
+  family: >
+    Technologies énergétiques /
+    Technologies non énergétiques
+  description: |
+    **Pistes d’innovation** : machine learning, cyber-sécurité
+    
+    **Nouvelles compétences et aptitudes** : data scientists, cyber sécurité, maintenance (prédictive), compétences transversales et transposables entre les métiers
+- 
+  title: Décentralisation
+  family: >
+    Globalisation / Politiques
+    énergétiques
+  description: |
+    **Pistes d’innovation** : rénovation du modèle tarifaire, nouvelle organisation spatiale due à la territorialisation énergétique
+    
+    **Nouvelles compétences et aptitudes** : gestion de projets en partenariat (i.e. éco-quartier) avec les collectivités et autres entreprises dans le cadre de smart cities, nouvelles technologies du numérique.
+    
+    **Autres** : partage des bonnes pratiques (exemple : montée en compétence sur les nouvelles technologies)
+- 
+  title: Transport bas carbone
+  family: Technologies énergétiques
+  description: |
+    **Pistes d’innovation** : cadre expérimental régulatoire
+    
+    **Nouvelles compétences et aptitudes** : veille stratégique (nombreux acteurs concernés), intelligence partenariale, accompagnement des investisseurs (nombre en croissance et diversité)
+    
+    **Autres** : adaptation, déploiement et optimisation du réseau de stations.

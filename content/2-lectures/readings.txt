@@ -152,6 +152,90 @@ Reads2:
 
 Reads3: 
 
+- 
+  title: 'Energie : Priorité au climat !'
+  theurl: >
+    http://www.institutmontaigne.org/fr/publications/energie-priorite-au-climat
+  img: priorite_climat.png
+  comms: Institut Montaigne
+- 
+  title: Quelle place pour la voiture demain ?
+  theurl: >
+    http://www.institutmontaigne.org/fr/publications/quelle-place-pour-la-voiture-demain
+  img: voiture_demain.png
+  comms: Institut Montaigne
+- 
+  title: "Nucléaire : l'heure des choix"
+  theurl: >
+    http://www.institutmontaigne.org/fr/publications/nucleaire-lheure-des-choix
+  img: nucleaire.png
+  comms: Institut Montaigne
+- 
+  title: "Les opportunités de la blockchain pour le secteur de l'énergie"
+  theurl: >
+    https://www.cgi.fr/whitepaper/blockchain-energie-telechargement
+  img: blackchain_energie.png
+  comms: CGI Business Consulting
+
 ----
 
 Reads4: 
+
+- 
+  title: 'Big data et objets connectés : faire de la France un champion de la révolution numérique'
+  theurl: >
+    http://www.institutmontaigne.org/fr/publications/big-data-et-objets-connectes-faire-de-la-france-un-champion-de-la-revolution-numerique
+  img: bigdata.png
+  comms: Institut Montaigne
+- 
+  title: >
+    Modes et méthodes de production en
+    France en 2040
+  theurl: 'http://www.inrs.fr/media.html?refINRS=VEP%203'
+  img: production2040.png
+  comms: inrs
+- 
+  title: "Industrie 4.0 : l'usine connectée"
+  theurl: >
+    http://www.gimelec.fr/Publications-Outils/Industrie-4.0-l-usine-connectee-Publication
+  img: usine_connectee.png
+  comms: Gimelec
+- 
+  title: >
+    Elaborer une stratégie nationale des
+    compétence
+  theurl: >
+    http://www.strategie.gouv.fr/publications/20172027-elaborer-une-strategie-nationale-de-competences-actions-critiques
+  img: competences.png
+  comms: France Stratégie
+- 
+  title: "Répondre à l'innovation disruptive"
+  theurl: >
+    http://www.strategie.gouv.fr/publications/20172027-elaborer-une-strategie-nationale-de-competences-actions-critiques
+  img: innovation_disruptive.png
+  comms: France Stratégie
+- 
+  title: "Imaginer l'avenir du travail"
+  theurl: >
+    http://www.strategie.gouv.fr/document-de-travail/imaginer-lavenir-travail-quatre-types-dorganisation-travail-lhorizon-2030
+  img: avenir_travail.png
+  comms: France Stratégie
+- 
+  title: La révolution des métiers
+  theurl: >
+    http://www.acsel.asso.fr/ey-presente-letude-la-revolution-des-metiers-2/
+  img: revolution_metiers.png
+  comms: ACSEL
+- 
+  title: "Glossaire de l'industrie 4.0"
+  theurl: >
+    http://fr.calameo.com/books/0044101403bbfdbc89519
+  img: glossaire_cci.png
+  comms: CCI de France
+- 
+  title: >
+    Pour une industrie optimisée,
+    connectée et créative
+  theurl: 'http://competitivite.gouv.fr/documents/commun/Rapport%20Annuel%202016%20Alliance%20Industrie%20Futur.pdf'
+  img: rapport_annuel.png
+  comms: Alliance Industrie du futur

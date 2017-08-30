@@ -63,7 +63,7 @@
 			<h3>Études sur d’autres thématiques que l’énergie</h3>
 
 			<ul class="flexblock gallery">
-				<?php foreach ($page->reads3()->toStructure() as $p) : ?>
+				<?php foreach ($page->reads4()->toStructure() as $p) : ?>
 					<li>
 						<a href="<?= $p->theurl() ?>" target="_blank">
 							<figure>

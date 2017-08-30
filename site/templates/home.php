@@ -2,17 +2,20 @@
 
 <article>
 	<section class="bg-black aligncenter">
-	  <span class="background light" style="background-image:url('https://source.unsplash.com/yETqkLnhsUI')"></span>
-	  <div class="wrap size-60">
+	  <span class="background light" style="background-image:url('https://source.unsplash.com/qQwxU7NJWTI')"></span>
+		<!-- previous yETqkLnhsUI pylones sur fond campagne -->
+
+	  <div class="hp wrap size-60">
 	    <h1><?= $site->title() ?></h1>
 	    <?= $site->baseline()->kirbytext() ?>
+	    [logo]
 	  </div>
 	  <!-- .end .wrap -->
 	</section>
 
 	<section>
 		<div class="wrap">
-			<img class="alignright size-30" src="<?= $site->url() ?>/assets/images/pyramid1.png" alt="iPhone">
+			<img class="alignright size-30" src="<?= $site->url() ?>/assets/images/cube.png" alt="iPhone">
 			<?= $site->description()->kirbytext() ?>
 			<a class="button" href="/edito">Édito</a>
 		</div>
@@ -49,8 +52,8 @@
 	        	Le projet ne peut se faire sans vous !<br>
 	        	Pour être tenu au courant des évolutions, des futurs événements et contribuer, merci d'utiliser le formulaire ci-dessous.
 	        </p>
-	        <p>
-	          <button type="submit" tabindex="3" title="email">Laisser mon email &rsaquo;</button>
+	        <p class="aligncenter">
+	          <a href="<?= $page->elink() ?>" class="button" target="_blank">Laisser mon email &rsaquo;</a>
 	        </p>
 	      </fieldset>
 	    </form>

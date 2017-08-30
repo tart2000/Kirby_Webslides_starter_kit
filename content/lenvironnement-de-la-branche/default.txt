@@ -1,142 +1,67 @@
-Title: L’environnement de la branche à horizon 2030 : pistes de réflexion
+Title: Vision de l'avenir : l’environnement de la branche à horizon 2030
 
 ----
 
 Text: 
 
-Les études retenues comme référentiel bibliographique de la démarche ont permis d’extraire des facteurs macro-déterminants.
-Ces facteurs ont été regroupés en 8 familles et déclinés en mots-clés durant l’atelier d’appropriation du 12 juillet 2017.
-Les participants ont également traduit en ‘’effets’’ sur l’environnement de travail de la branche une sélection de ces facteurs (21, identifiés en XXX).
-Ce travail de coproduction a orienté les thématiques prioritaires de l’étape 2, en particulier la programmation de la Rencontre Prospective du 18 octobre.
+L’objectif de la phase 1 de la démarche consistait à définir son terrain d’exploration : quelles transformations technologiques, sociales et organisationnelles prendre en compte, qui impacteront l’environnement de travail de la branche à horizon 2030 ?  
 
-<div class="treeview-container">
-  <ul class="treeview">
-    <li>Politiques énergétiques
-      <ul>
-        <li>La place du statut des IEG dans la transformation globale</li>
-        <li>Smart grids
-          <ul>
-            <li>Compteurs intelligents</li>
-            <li>Smart-home</li>
-            <li>Auto-consommation</li>
-            <li>Pilotage</li>
-            <li>Temps réel consommation et fournisseurs</li>
-          </ul>
-        </li>
-        <li>Sécurité d'approvisionnement
-          <ul>
-            <li>Contexte géopolitique</li>
-            <li>Décision politique</li>
-            <li>Diversification d'approvisionnement</li>
-            <li>Nouvelles dépendances / Industrie asiatique (fabrication panneaux photovoltaïque, éolien, stockage, IT)<li>
-            <li>Surprotection des ressources naturelles</li>
-          </ul>      
-        </li>
-        <li>Politique post-LTECV
-          <ul>
-            <li>ENR Gaz</li>
-            <li>ENR Elec</li>
-            <li>Nouveau nucléaire</li>
-            <li>Transport</li>
-            <li>Prix fossiles et carbone</li>
-            <li>Tarifs/ Péréquation</li>
-            <li>Sécurité d’approvisionnement</li>
-            <li>Conscience écologique</li>
-            <li>Acceptation et pédagogie</li>
-          </ul>
-        </li>
-        <li>Décentralisation
-          <ul>
-            <li>Villes / métropoles</li>
-            <li>Smart cities</li>
-            <li>Communautés énergétiques locales</li>
-            <li>Véhicules électrique</li>
-          </ul>
-        </li>
-        <li>Unité Bloc Européen
-          <ul>
-            <li>COP 21</li>
-            <li>Mix voisins Européens</li>
-            <li>Sécurité d’approvisionnement</li>
-            <li>Partage de gouvernance Europe /nation</li>
-            <li>Robustesse du bloc Européen vis à vis des Etats-Unis et de la Russie </li>
-            <li>Inégalités énergétiques en Europe</li>
-            <li>4ème paquet énergétique</li>
-            <li>Winter package</li>
-          </ul>
-        </li>
-        <li>Efficacité
-          <ul>
-            <li>Consom’acteurs</li>
-            <li>Autoconsommation</li>
-            <li>Chauffage / Climatisation</li>
-            <li>Conscience écologique</li>
-            <li>Gestion de la transition (anciens usages vs. Nouveaux usages)</li>
-            <li>Subventions</li>
-            <li>Sanctions</li>
-          </ul>
-        </li>
-        <li>Impacts sociaux
-          <ul>
-            <li>Salariés de l’énergie</li>
-            <li>Précarité énergétique</li>
-            <li>Pérennité des petites entreprises</li>
-            <li>Péréquation</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>Technologies énergétiques
-    </li>
-    <li>Globalisation 
-    </li>
-    <li>Technologies non énergétiques 
-    </li>
-    <li>Économie   
-      <ul>
-        <li>Croissance durable
-          <ul>
-            <li>Sobriété</li>
-            <li>Diplomatie énergétique</li>
-            <li>Comportements responsables</li>
-            <li>Éducation</li>
-            <li>Innovation</li>
-            <li>Fiscalité incitative</li>
-            <li>Législation</li>
-          </ul>
-        </li>
-        <li>Nouveaux Services aux Industries Responsables
-          <ul>
-            <li>Marketing 4.0</li>
-            <li>Responsabilité sociétale</li>
-            <li>Actions d’accompagnement</li>
-          </ul>
-        </li>
-        <li>Cycles économiques
-          <ul>
-            <li>Taux d’intérêts</li>
-            <li>Choc économique</li>
-            <li>Croissance économique</li>
-            <li>Développement inégal</li>
-            <li>Veille prospective</li>
-          </ul>
-        </li>
-        <li>Dynamiques industrielles
-          <ul>
-            <li>R&D / Recherche et Développement</li>
-            <li>Formation Apprenante</li>
-            <li>Nouvelles Technologies</li>
-            <li>Industries 4.0</li>
-            <li>Réindustrialisation</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>Demande de nouveaux services 
-    </li>
-    <li>Organisation du travail et formation 
-    </li>
-    <li>Démographie et modes de vie
-    </li>
-  </ul>
-</div>
+Cette phase 1 s’est réalisée en deux temps :
+
+1. Panel d’études
+1. Atelier  collaboratif dit ‘’d’appropriation’’.
+
+Le panel d’études a permis d’identifier une cinquantaine de facteurs macro-déterminants et ‘’signaux faibles’’. (Voir (link: http://ieg.corpoe.com/lectures text: Bibliographie))
+
+L’atelier collaboratif organisé le 12 juillet à la Chocolaterie EDF a été l’occasion de partager les facteurs issus des études avec 23 participants ((link: http://ieg.corpoe.com/les-acteurs-de-la-fabrique-d-energies text: membres du GTP, éclaireurs et invités)). Ceux-ci ont échangé sur ces facteurs, les ont regroupés en grandes familles (8), puis les ont caractérisés à l’aide de mots-clés.
+
+Ces mots-clés viennent définir plus précisément un facteur (ce que recouvre celui-ci pour les participants), ou ses conséquences (qu’est-ce que celui-ci implique pour nos métiers ou nos organisations). Ils peuvent également apporter des questionnements ou relever certains risques. 
+
+Les 8 grandes familles de facteurs retenues, impactant l’environnement de la branche des IEG :
+
+1. Politiques énergétiques
+1. Technologies énergétiques
+1. Globalisation
+1. Technologies non énergétiques
+1. Économie 
+1. Demande de nouveaux services énergétiques
+1. Organisation du travail et formation
+1. Démographie et mode de vie
+
+L’ensemble de cette production est présenté sous forme de mind-maps à trois niveaux : familles - facteurs - mots clés. Ces mind-maps tracent les contours de l’environnement de la branche tel que perçu par les participants de l’atelier, sans juger de la probabilité de réalisation de tel ou tel des items y figurant. 
+Il peut arriver que des facteurs ou mots-clés apparaissent plusieurs fois d’une famille à l’autre. 
+
+(image: mindmap.png)
+*(cliquez  sur le mindmap pour l'agrandir)*
+
+Les participants ont également retenu une vingtaine de facteurs clés selon deux critères d’appréciation : lien direct avec l’environnement de travail de la branche (capacité d’agir) et sensibilité du sujet (potentiellement porteur de changements structurels ou organisationnels pour les entreprises).
+Ils les ont traduits en ‘’effets’’ sur l‘environnement de travail de la branche : pistes d’innovation (et donc apparition potentielle de nouveaux métiers ou nouvelles manières d’exercer les métiers d’aujourd’hui) ) et nouvelles compétences au sens large (connaissances, pratiques professionnelles, aptitudes individuelles et collectives).
+
+(link: http://ieg.corpoe.com/effects text: Voir ici la présentation des effets.) 
+
+A partir de ces travaux de coproduction (regroupement des facteurs issus des études en 8 familles, explicitation de ces facteurs en mots-clés, identification d’une vingtaine de facteurs-clés, traduction de ces facteurs-clés en effets pour la branche), nous avons pu aboutir en conclusion de l’atelier du 12 juillet à la sélection d’une douzaine de thèmes sur lesquels orienter la prochaine étape.
+
+Les participants ont privilégié les thèmes correspondant :
+
+- à des préoccupations RH déjà actuelles (Exemples :nouveaux modèles de management et d’apprentissage, transformation numérique, changements culturels…)
+- à des enjeux plus larges impactant les activités des IEG (Exemples : nouveaux modèles d’affaires autour des services, nouvelle expérience client, dualité global-local…)
+- à des sujets ‘’émergents’’, demandant à être approfondis pour mieux les comprendre et pouvoir en apprécier plus concrètement les conséquences sur les métiers et les compétences (Exemples : blockchain, drones, smart cities, économie circulaire, data et sécurité…).
+
+Les 12 thèmes retenus en conclusion de l’atelier du 12 juillet sont les suivants :
+
+1. Ecosystème des IEG
+- Enjeux et opportunités des Smart cities
+- La place de l’énergie dans l’économie circulaire
+- Impact des technologies de rupture comme la Blockchain
+- Gestion de la bipolarité  : échelle locale (territorialisation) et mondiale (globalisation)
+1. Evolution de la demande
+- Les clients acteurs de la chaîne de valeur : co-construction et personnalisation
+- Nouveaux modèles d’affaires autour des innovations de rupture et des nouveaux services
+- Ressources Humaines et le management
+- Impact de la transformation numérique sur les métiers et les organisations
+1. Nouveaux modèles de management 
+- Formation 4.0 et entreprise apprenante
+- Culture de l’agilité et de l’auto-disruption
+- Renouvellement de l’expérience collaborateur pour répondre aux besoins de sens / QVT / nouvelles notions de la protection et de la représentativité (dont nouvelles générations).
+
+Ces thèmes ont inspiré la programmation de la Rencontre Prospective du 18 octobre

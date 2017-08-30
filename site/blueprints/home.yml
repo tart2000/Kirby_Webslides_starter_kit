@@ -8,3 +8,6 @@ fields:
   text:
     label: Text
     type:  textarea
+  elink: 
+    label: Link to form 
+    type: url

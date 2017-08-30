@@ -11,6 +11,9 @@ section ul {
 h1 {
   font-family: 'Oswald', sans-serif;
 }
+h2 {
+  padding-bottom: 2rem;
+}
 
 .fullscreen {
     padding: 0;
@@ -18,7 +21,30 @@ h1 {
 .icon-text {
   padding-left: 75px;
 }
-
+.flexblock li h2 svg {
+  color: #44d;
+}
+.hp {
+  background-color: rgba(0,0,0,0.5);
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+ul, ol {
+  margin-bottom: 30px;
+}
+.features li h2 { 
+  margin-bottom: -2rem;
+  color: #44d;
+}
+.features hr {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.subtle {
+  color: #cecece;
+  font-size: 0.9em;
+  font-style: italic;
+}
 /* The Overlay sliding NAV */
 
 .burger {
@@ -100,8 +126,4 @@ h1 {
   display: inline-table;
   background-color: white;
 }
-
-/* Collapsible list */ 
-
-
 
