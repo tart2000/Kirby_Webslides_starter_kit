@@ -4,17 +4,18 @@ Title: Les 4 étapes de la Fabrique d'Énergies
 
 Text: 
 
-La Fabrique d'Énergies a été lancée le 1er juin 2017 et se déroule sur 9 mois et en 4 phases.
+La Fabrique d'Énergies a été lancée le 1er juin 2017 et se déroule sur 9 mois en 4 phases.
 
 - Étape 1 : l’environnement de travail de la branche à horizon 2030
 - Étape 2 : les compétences d’avenir
 - Étape 3 : les métiers prioritaires
-- Étape 4 : les grands enjeux de formation pour les IEG
+- Étape 4 : les grands enjeux de formation 
 
-(image: logo_corpo.png)
-Équipe Corpoé : Corinne Lapras, Patrice Geoffron, Laurence Texier, Mathias Bruno, Arthur Schmitt 
+Chaque étape est conduite selon des méthodes participatives associant le design thinking, les techniques de créativité et de co-construction et le prototypage rapide. 
 
-Chaque étape est conduite selon des méthodes participatives associant le design thinking, les techniques de créativité et de co-construction et le prototypage rapide. Elles intègrent les parties prenantes rassemblées au sein du GTP (Groupe de Travail Paritaire), une équipe ‘’d’éclaireurs’’ représentant différents métiers de la branche, des contributeurs ponctuels issus de la branche et des invités extérieurs venant partager leurs vision, expérimentations et expertises…
+Elles intègrent les parties prenantes rassemblées au sein du GTP (Groupe de Travail Paritaire), une équipe ‘’d’éclaireurs’’ représentant différents domaines professionnelles de la branche, des contributeurs ponctuels issus de la branche, et des invités extérieurs, issus ou non des IEG, venant partager leurs vision, expérimentations et expertises…
+La diversité dans l’origine des participants (entreprise, métier, parcours) assure la richesse des contributions..
 
-La méthodologie de la Fabrique d’Energies a été conçue, est produite et animée par Corpoé, spécialiste des dispositifs collaboratifs et la transformation managériale.
-Logo Corpoé + noms des 5 de l’équipe.
+La méthodologie de la Fabrique d'Énergies a été conçue, est produite et animée par Corpoé, spécialiste des dispositifs collaboratifs et de la transformation managériale.
+
+(image: logo_corpo.png link: http://corpoe.com target: blank)

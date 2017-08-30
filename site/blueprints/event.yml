@@ -1,0 +1,18 @@
+title: Event
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  date: 
+    label: Date
+    type: date 
+    width: 1/2
+  location: 
+    label: Place
+    type: text
+    width: 1/2
+  text:
+    label: Text
+    type:  textarea

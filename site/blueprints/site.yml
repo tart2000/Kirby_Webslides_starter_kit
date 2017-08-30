@@ -14,19 +14,3 @@ fields:
   description:
     label: Description
     type:  textarea
-  twitt:
-  	label: Twitter 
-  	type: text
-  	width: 1/4
-  fb: 
-  	label: Facebook
-  	type: URL
-  	width: 1/4 
-  lin: 
-  	label: Linkedin
-  	type: URL
-  	width: 1/4
-  courriel: 
-  	label: email
-  	type: email
-  	width: 1/4 

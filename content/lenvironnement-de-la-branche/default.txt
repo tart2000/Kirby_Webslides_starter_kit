@@ -9,7 +9,7 @@ L’objectif de la phase 1 de la démarche consistait à définir son terrain d�
 Cette phase 1 s’est réalisée en deux temps :
 
 1. Panel d’études
-1. Atelier  collaboratif dit ‘’d’appropriation’’.
+1. Atelier  collaboratif dit "d’appropriation".
 
 Le panel d’études a permis d’identifier une cinquantaine de facteurs macro-déterminants et ‘’signaux faibles’’. (Voir (link: http://ieg.corpoe.com/lectures text: Bibliographie))
 
@@ -43,18 +43,18 @@ A partir de ces travaux de coproduction (regroupement des facteurs issus des ét
 
 Les participants ont privilégié les thèmes correspondant :
 
-- à des préoccupations RH déjà actuelles (Exemples :nouveaux modèles de management et d’apprentissage, transformation numérique, changements culturels…)
+- à des préoccupations RH déjà actuelles (Exemples : nouveaux modèles de management et d’apprentissage, transformation numérique, changements culturels…)
 - à des enjeux plus larges impactant les activités des IEG (Exemples : nouveaux modèles d’affaires autour des services, nouvelle expérience client, dualité global-local…)
 - à des sujets ‘’émergents’’, demandant à être approfondis pour mieux les comprendre et pouvoir en apprécier plus concrètement les conséquences sur les métiers et les compétences (Exemples : blockchain, drones, smart cities, économie circulaire, data et sécurité…).
 
 Les 12 thèmes retenus en conclusion de l’atelier du 12 juillet sont les suivants :
 
-1. Ecosystème des IEG
+1. Écosystème des IEG
 - Enjeux et opportunités des Smart cities
 - La place de l’énergie dans l’économie circulaire
 - Impact des technologies de rupture comme la Blockchain
 - Gestion de la bipolarité  : échelle locale (territorialisation) et mondiale (globalisation)
-1. Evolution de la demande
+1. Évolution de la demande
 - Les clients acteurs de la chaîne de valeur : co-construction et personnalisation
 - Nouveaux modèles d’affaires autour des innovations de rupture et des nouveaux services
 - Ressources Humaines et le management

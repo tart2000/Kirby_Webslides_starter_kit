@@ -20,7 +20,7 @@ Items:
   title: Info
   icon: info
   text: Mieux connaitre les IEG
-  theurl: /mieux-connaitre-les-ieg
+  theurl: http://sgeieg.fr/
 - 
   title: Origines
   icon: bolt

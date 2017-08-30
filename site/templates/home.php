@@ -15,7 +15,7 @@
 
 	<section>
 		<div class="wrap">
-			<img class="alignright size-30" src="<?= $site->url() ?>/assets/images/cube.png" alt="iPhone">
+			<img class="alignright size-30" src="<?= $site->url() ?>/assets/images/atelier.jpg" alt="atelier">
 			<?= $site->description()->kirbytext() ?>
 			<a class="button" href="/edito">Édito</a>
 		</div>

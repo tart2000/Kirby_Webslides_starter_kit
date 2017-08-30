@@ -4,10 +4,9 @@ Title: Les acteurs de la Fabrique d'Énergies
 
 Text: 
 
-La Fabrique d'Énergies regroupe X parties prenantes. 
+La Fabrique d'Énergies regroupe X parties prenantes  :
 
-Les groupements d’employeurs de l'Union Française de l’Electricité (UFE) et l’Union Nationale des Employeurs des Industries du Gaz (UNEmIG).
-Les partenaires sociaux : CFE-CGC, CFTC-CMTE, FCE-CFDT, FNEM –FO, FNME- CGT
-Ces acteurs étant représentés au sein d’un GTP (Groupe de Travail Paritaire).
-XXXXXX
-XXXXX
+- Les groupements d’employeurs : Union Française de l’Electricité (UFE) et l’Union Nationale des Employeurs des Industries du Gaz (UNEmIG).
+- Les partenaires sociaux : CFE-CGC, CFTC-CMTE, FCE-CFDT, FNEM –FO, FNME- CGT. Ces acteurs étant représentés au sein d’un GTP (Groupe de TRavail Paritaire).
+- 12 ‘’éclaireurs’’ : il s’agit de collaborateurs issus des entreprises de la branche et représentant ses principaux domaines professionnels. Ils participent à tous les ateliers collaboratifs et peuvent ainsi témoigner des réalités du terrain durant les ateliers et de la démarche dans leur environnement de travail.
+- …….

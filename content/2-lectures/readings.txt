@@ -4,18 +4,24 @@ Title: Bibliographie
 
 Text: 
 
-La phase 1 a été destinée à identifier le facteurs dits « macro-déterminants » (c’est-à-dire les transformations majeures), ainsi que les « signaux faibles » (les évolutions plus mineures, mais susceptibles d’induire des changements à terme), de façon à anticiper des impacts sur l’environnement de travail de la branche.
+###Études analysées dans la Fabrique d’Énergies 
 
-Pour identifier ces différents facteurs, nous avons puisé dans un panel très large d’études, souvent organisées en scénarios à l’horizon 2030).
+La phase 1 était destinée à identifier le facteurs dits « macro-déterminants » (c’est-à-dire les transformations majeures), ainsi que les « signaux faibles » (les évolutions plus mineures, mais susceptibles d’induire des changements à terme), de façon à anticiper des impacts sur l’environnement de travail de la branche. Pour identifier ces différents facteurs, nous avons puisé dans un panel très large d’études, souvent organisées en scénarios à l’horizon 2030. L’objectif n’était pas de juger de la probabilité de réalisation de tel ou tel scénario, mais, en puisant dans un large panel, de mettre en débat un large éventail de facteurs.
 
-L’objectif n’était pas de juger de la probabilité de réalisation de tel ou tel scénario, mais, en puisant dans un large panel, de mettre en débat un large éventail de facteurs.
+Le périmètre et l’objectif de ces études sont très hétérogènes 
 
-A cette fin, nous avons organisé notre panel d’études en quatre sous-ensembles : 
+- Certaines portent sur les transformations de l’offre et de la demande d’énergie, d’autres se focalisent spécifiquement sur le gaz ou l’électricité
+- La plupart considèrent le système énergétique, mais d’autres portent sur les transformations de l’organisation de nos sociétés (ex : les villes du futur)
+- Certaines sont très détaillées et riches (et parfois complexes…), d’autres plus simplifiées (mais également très utiles pour alimenter des échanges prospectifs).
 
-- Les études prospectives produites par la filière. 
-- Les études institutionnelles (Ministère les, ADEME, …).
-- Les études en rapport avec l’énergie issues d’autres sources (cabinet d’études, think tanks, …).
-- Les études non directement consacrées à l’énergie (transformations industrielles, sociologique, géopolitique, …).
+À cette fin, nous avons organisé notre panel d’études en quatre sous-ensembles 
+
+1. Les études prospectives produites par la filière
+1. Les études institutionnelles (Ministère les, ADEME, …)
+1. Les études en rapport avec l’énergie issues d’autres sources (cabinets d’études, think tanks, …)
+1. Les études non directement consacrées à l’énergie (transformations industrielles, sociologiques, géopolitiques, …).
+
+La nécessité de rassembler un large panel est directement liée à la nature-même de la transition énergétique, qui n’est pas qu’une transformation sectorielle, mais constitue une transformation sociétale, bien au-delà du périmètre des IEG (organisation territoriale, systèmes de transport, numérisation, …) et dans un environnement international particulièrement complexe (accord climatique, fluctuation du prix des énergies). L’intérêt du panel d’études est de couvrir cette complexité, pour alimenter l’analyse prospective.
 
 ----
 
