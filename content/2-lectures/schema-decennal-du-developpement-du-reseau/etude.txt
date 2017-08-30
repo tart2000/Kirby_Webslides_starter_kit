@@ -1,0 +1,39 @@
+Title: Schéma décennal du développement du réseau
+
+----
+
+Qui: RTE
+
+----
+
+Quand: 2016
+
+----
+
+Perimetre: Secteur électrique
+
+----
+
+Link: http://www.rte-france.com/sites/default/files/sddr-2016_volet_national.pdf
+
+----
+
+Objectifs: Le schéma présente une vue d’ensemble des principales infrastructures de transport d’électricité envisagées dans les dix ans à venir
+
+----
+
+Messages: 
+
+- Le scénario « Nouveau mix » repose sur une sobriété énergétique réduisant la consommation, et sur le développement des énergies renouvelables ramenant la part du nucléaire à 50 % du mix de production.
+- Il présente une rupture avec la situation actuelle et permet de mettre en évidence l’enveloppe des besoins d’adaptation du réseau.
+- Cette réduction de la part du nucléaire dans le mix énergétique français impactera le réseau électrique différemment selon le choix qui sera retenu pour les arrêts de groupes.
+
+----
+
+Facteurs: 
+
+- Démographie
+- Croissance économique, 
+- Nouveaux services : transports électriques
+- Technologie : maturation énergies renouvelables,
+- Politique énergétique : prix du CO2.

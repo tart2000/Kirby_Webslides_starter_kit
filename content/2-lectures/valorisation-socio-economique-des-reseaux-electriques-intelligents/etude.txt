@@ -1,0 +1,36 @@
+Title: Valorisation socio-économique des réseaux électriques intelligents
+
+----
+
+Qui: ENEDIS /ADEeF
+
+----
+
+Quand: 2017
+
+----
+
+Perimetre: Secteur électrique (distribution, smart grids)
+
+----
+
+Link: http://www.rte-france.com/sites/default/files/rei_synthese-commune_2017.pdf
+
+----
+
+Objectifs: Au-delà des plus-values techniques des solutions, il est nécessaire d’anticiper le déploiement des smart-grids en comprenant les conditions d’utilisation de ces solutions et les cas où elles apportent de la valeur pour l’intérêt collectif. La présente étude, en éclairant les pouvoirs publics et la filière des réseaux électriques intelligents sur les bénéfices apportés par ces nouvelles solutions et les problématiques de déploiement associées.
+
+----
+
+Messages: 
+
+- Les technologies smart grids présentent un bilan économique positif.
+- Une évolution vers des modèles (modérément) plus décentralisés est envisageable avec des technologies matures.
+- De nouveaux « métiers » de la distribution seront en émergence.
+
+----
+
+Facteurs: 
+
+- Technologies : convergence énergie & TIC
+- Politique énergétique : régulation incitative.

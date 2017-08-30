@@ -1,0 +1,32 @@
+title: Etude
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  qui: 
+    label: Qui ?
+    type: text 
+    width: 1/2
+  quand: 
+    label: Quand ?
+    type: text
+    width: 1/2
+  perimetre:
+    label: Périmètre 
+    type: text 
+    width: 1/2
+  link: 
+    label: Link 
+    type: url 
+    width: 1/2
+  objectifs:
+    label: Objectifs
+    type: text 
+  messages:
+    label: Principaux messages
+    type:  textarea
+  facteurs: 
+    label: Facteurs de changement à noter
+    type: textarea

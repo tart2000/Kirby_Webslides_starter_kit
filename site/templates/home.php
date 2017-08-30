@@ -41,6 +41,40 @@
 	    <?php endif ?>
 	<?php endforeach ?>
 
+	<section>
+		<div class="wrap size-50">
+			<h2>À venir</h2>
+			<ul class="flexblock features">
+				<li>
+			        <a href="/events/rencontre-prospective">
+			          <h3>
+			            <svg class="fa-calendar">
+			              <use xlink:href="#fa-calendar"></use>
+			            </svg>
+			            Rencontre prospective 
+			          </h3>
+			          <p class="date">mercredi 18 octobre 2017</p>
+			        </a>
+			      </li>
+			</ul>
+			<hr>
+			<h2>Événement passé</h2>
+			<ul class="flexblock features">
+				<li>
+			        <a href="/events/atelier-d-appropriation">
+			          <h3>
+			            <svg class="fa-calendar">
+			              <use xlink:href="#fa-calendar"></use>
+			            </svg>
+			            Atelier d'appropriation  
+			          </h3>
+			          <p class="date">mercredi 12 juillet 2017</p>
+			        </a>
+			      </li>
+			</ul>
+		</div>
+	</section>
+
 	<section class="bg-primary">
 	  <span class="background dark" style="background-image:url('https://source.unsplash.com/RkBTPqPEGDo/')"></span>
 	  <!--.wrap = container 1200px -->

@@ -1,5 +1,6 @@
 title: Readings
-pages: true
+pages: 
+  template: Etude
 files: true
 fields:
   title:

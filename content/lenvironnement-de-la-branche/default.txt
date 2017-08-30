@@ -31,7 +31,7 @@ Les 8 grandes familles de facteurs retenues, impactant l’environnement de la b
 L’ensemble de cette production est présenté sous forme de mind-maps à trois niveaux : familles - facteurs - mots clés. Ces mind-maps tracent les contours de l’environnement de la branche tel que perçu par les participants de l’atelier, sans juger de la probabilité de réalisation de tel ou tel des items y figurant. 
 Il peut arriver que des facteurs ou mots-clés apparaissent plusieurs fois d’une famille à l’autre. 
 
-(image: mindmap.png)
+(image: mindmap.png link: https://mm.tt/943136520?t=2XUzSMQPtv target: blank)
 *(cliquez  sur le mindmap pour l'agrandir)*
 
 Les participants ont également retenu une vingtaine de facteurs clés selon deux critères d’appréciation : lien direct avec l’environnement de travail de la branche (capacité d’agir) et sensibilité du sujet (potentiellement porteur de changements structurels ou organisationnels pour les entreprises).

@@ -14,7 +14,9 @@ h1 {
 h2 {
   padding-bottom: 2rem;
 }
-
+figure {
+  margin-bottom: 30px;
+}
 .fullscreen {
     padding: 0;
 }
@@ -44,6 +46,29 @@ ul, ol {
   color: #cecece;
   font-size: 0.9em;
   font-style: italic;
+}
+.date {
+  color: #949494;
+}
+.column .button {
+  display: inline-table;
+}
+.column ul li {
+  list-style-type: square;
+  margin-left: 15px;
+}
+.text-subtitle + p {
+    margin-top: 0rem;
+}
+.meta p {
+  margin-bottom: 0px;
+  font-size: 0.8em;
+}
+.meta {
+  margin-bottom: 20px;
+}
+.retour {
+  margin-top: 25px;
 }
 /* The Overlay sliding NAV */
 
@@ -125,5 +150,25 @@ ul, ol {
 .covers > .flexblock li {
   display: inline-table;
   background-color: white;
+}
+
+blockquote {
+  background: #fff;
+  border-left: 3px solid #44d;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #44d;
+  content: "\201C";
+  font-family: Georgia, serif;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
 

@@ -8,17 +8,12 @@
 
 			<h3>Études issues de la filière</h3>
 
-			<ul class="flexblock gallery">
-				<?php foreach ($page->reads()->toStructure() as $p) : ?>
+			<ul class="flexblock features">
+				<?php foreach ($page->children() as $e) : ?>
 					<li>
-						<a href="<?= $p->theurl() ?>" target="_blank">
-							<figure>
-					            <img alt="Thumbnail" src="<?= $page->image($p->img())->url() ?>">
-					            <figcaption>
-					              <h2><?= $p->title() ?></h2>
-					              <p><?= $p->comms() ?></p>
-					            </figcaption>
-					          </figure>
+						<a href="<?= $e->url() ?>">
+			              <h2><?= $e->title() ?></h2>
+			              <p><?= $e->qui() ?></p>
 						</a>
 					</li>
 				<?php endforeach ?>
