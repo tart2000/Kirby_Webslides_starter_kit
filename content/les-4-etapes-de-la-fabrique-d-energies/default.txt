@@ -6,10 +6,7 @@ Text:
 
 La Fabrique d'Énergies a été lancée le 1er juin 2017 et se déroule sur 9 mois en 4 phases.
 
-- Étape 1 : l’environnement de travail de la branche à horizon 2030
-- Étape 2 : les compétences d’avenir
-- Étape 3 : les métiers prioritaires
-- Étape 4 : les grands enjeux de formation 
+(image: 4-grandes-etapes-ieg.png)
 
 Chaque étape est conduite selon des méthodes participatives associant le design thinking, les techniques de créativité et de co-construction et le prototypage rapide. 
 

@@ -36,3 +36,7 @@ Facteurs:
 - Démographie, modes de vie
 - Politiques énergétiques : organisation territoriale, économie circulaire
 - Technologies : big data
+
+----
+
+Cat: filiere

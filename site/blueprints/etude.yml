@@ -21,6 +21,14 @@ fields:
     label: Link 
     type: url 
     width: 1/2
+  cat:
+    label: Catégorie
+    type: select
+    options:
+      filiere: Les études issues de la filière
+      institutionnelles: Les études 'énergie' institutionnelles (Ministères, ADEME, etc.)
+      autressources: Les études 'énergie' issues d’autres sources (cabinets d’études, think tanks, etc.)
+      thematiques: Les études sur d’autres thématiques que l’énergie (transformations industrielles, sociologiques, géopolitiques, etc.)
   objectifs:
     label: Objectifs
     type: text 

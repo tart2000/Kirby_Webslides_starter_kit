@@ -37,3 +37,7 @@ Facteurs:
 - Nouveaux services : transports électriques
 - Technologie : maturation énergies renouvelables,
 - Politique énergétique : prix du CO2.
+
+----
+
+Cat: filiere

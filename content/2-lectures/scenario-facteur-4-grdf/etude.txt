@@ -35,3 +35,7 @@ Facteurs:
 - Croissance 
 - Technologies : efforts de sobriété et d’efficacité énergétique
 - Technologies :  complémentarité gaz-élec
+
+----
+
+Cat: filiere

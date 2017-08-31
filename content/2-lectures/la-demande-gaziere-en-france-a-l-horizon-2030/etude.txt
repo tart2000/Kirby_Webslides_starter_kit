@@ -34,3 +34,7 @@ Facteurs:
 
 - Technologies : biogaz.
 - Demande de nouveaux services: mobilité au gaz.
+
+----
+
+Cat: filiere

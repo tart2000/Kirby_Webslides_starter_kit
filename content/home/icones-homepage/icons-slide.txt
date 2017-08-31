@@ -32,14 +32,14 @@ Items:
   theurl: /les-acteurs-de-la-fabrique-d-energies
   text: "de la Fabrique d'Énergies"
 - 
-  title: Programme
-  icon: calendar
+  title: Démarche
+  icon: cubes
   text: "Les 4 étapes de la Fabrique d'Énergies"
   theurl: /les-4-etapes-de-la-fabrique-d-energies
 - 
   title: Bibliographie
   icon: book
-  text: Etudes retenues pour la démarche
+  text: Études analysées dans la démarche
   theurl: /lectures
 - 
   title: "Visions de l'avenir"

@@ -37,3 +37,7 @@ Facteurs:
 - Technologies : développement de modes de transport bas-carbone
 - Modes de vie : consommacteurs
 - Politique énergétique : décentralisation
+
+----
+
+Cat: filiere

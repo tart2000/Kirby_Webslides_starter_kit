@@ -1,0 +1,42 @@
+Title: Quelle place pour la voiture demain ?
+
+----
+
+Qui: Institut Montaigne
+
+----
+
+Quand: 2017
+
+----
+
+Perimetre: Mobilité, transport
+
+----
+
+Link: http://www.institutmontaigne.org/fr/publications/quelle-place-pour-la-voiture-demain
+
+----
+
+Cat: autressources
+
+----
+
+Objectifs: Quel avenir pour l’automobile ? L’exigence d’amélioration de la qualité de l’air, la quête d’une mobilité plus fluide et une vision parfois dogmatique conduisent certains à vouloir chasser la voiture de la Cité.
+
+----
+
+Messages: 
+
+- L’avenir de la voiture dépendra de sa capacité à relever trois défis : 
+- Un défi sociétal : la révolution de la voiture connectée et autonome permettra de développer considérablement les politiques de transport multimodales et ainsi de répondre aux différents défis des collectivités en matière de mobilité (sécurité, congestion, environnement).
+- Un défi environnemental : si les objectifs sont connus – améliorer la qualité de l’air et lutter contre le changement climatique –, la stratégie pour les atteindre ne peut plus se limiter à imposer des normes toujours plus strictes aux seuls véhicules neufs et doit être globale (harmonisation européenne, action sur l’ensemble du stock des voitures, etc.).
+Un défi économique : l’innovation en matière d’automobile est frénétique, mais elle est en partie portée par de nouveaux entrants (Tesla, Apple, Google) qui menacent directement les acteurs traditionnels de la filière. Pour que la voiture du futur soit française, une coopération des entreprises et des pouvoirs publics est indispensable.
+
+----
+
+Facteurs: 
+
+- Technologie : convergence TIC et techno énergie, électrification transports, big data, …
+- Politiques : politique industrielle automobile-télécoms, réglementation européenne.
+- Modes de vie : adaptation modes de transport, multi-modalités, partage, …

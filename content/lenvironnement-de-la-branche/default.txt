@@ -8,10 +8,10 @@ L’objectif de la phase 1 de la démarche consistait à définir son terrain d�
 
 Cette phase 1 s’est réalisée en deux temps :
 
-1. Panel d’études
-1. Atelier  collaboratif dit "d’appropriation".
+1. (link: http://ieg.corpoe.com/lectures text: Panel d’études)
+1. (link: http://ieg.corpoe.com/events/atelier-d-appropriation text: Atelier  collaboratif dit "d’appropriation").
 
-Le panel d’études a permis d’identifier une cinquantaine de facteurs macro-déterminants et ‘’signaux faibles’’. (Voir (link: http://ieg.corpoe.com/lectures text: Bibliographie))
+Le (link: http://ieg.corpoe.com/lectures text: panel d’études) a permis d’identifier une cinquantaine de facteurs macro-déterminants et ‘’signaux faibles’’.
 
 L’atelier collaboratif organisé le 12 juillet à la Chocolaterie EDF a été l’occasion de partager les facteurs issus des études avec 23 participants ((link: http://ieg.corpoe.com/les-acteurs-de-la-fabrique-d-energies text: membres du GTP, éclaireurs et invités)). Ceux-ci ont échangé sur ces facteurs, les ont regroupés en grandes familles (8), puis les ont caractérisés à l’aide de mots-clés.
 
@@ -28,16 +28,17 @@ Les 8 grandes familles de facteurs retenues, impactant l’environnement de la b
 1. Organisation du travail et formation
 1. Démographie et mode de vie
 
-L’ensemble de cette production est présenté sous forme de mind-maps à trois niveaux : familles - facteurs - mots clés. Ces mind-maps tracent les contours de l’environnement de la branche tel que perçu par les participants de l’atelier, sans juger de la probabilité de réalisation de tel ou tel des items y figurant. 
+L’ensemble de cette production est présenté sous forme de mind-map à trois niveaux : familles - facteurs - mots clés. Ce mind-map trace les contours de l’environnement de la branche tel que perçu par les participants de l’atelier, sans juger de la probabilité de réalisation de tel ou tel des items y figurant. 
 Il peut arriver que des facteurs ou mots-clés apparaissent plusieurs fois d’une famille à l’autre. 
 
 (image: mindmap.png link: https://mm.tt/943136520?t=2XUzSMQPtv target: blank)
-*(cliquez  sur le mindmap pour l'agrandir)*
+<p class="subtle">(cliquez  sur le mindmap pour l'agrandir et le parcourir en détail)</p>
 
 Les participants ont également retenu une vingtaine de facteurs clés selon deux critères d’appréciation : lien direct avec l’environnement de travail de la branche (capacité d’agir) et sensibilité du sujet (potentiellement porteur de changements structurels ou organisationnels pour les entreprises).
-Ils les ont traduits en ‘’effets’’ sur l‘environnement de travail de la branche : pistes d’innovation (et donc apparition potentielle de nouveaux métiers ou nouvelles manières d’exercer les métiers d’aujourd’hui) ) et nouvelles compétences au sens large (connaissances, pratiques professionnelles, aptitudes individuelles et collectives).
+Ils les ont traduits en ‘’effets’’ sur l‘environnement de travail de la branche : pistes d’innovation (et donc apparition potentielle de nouveaux métiers ou nouvelles manières d’exercer les métiers d’aujourd’hui) et nouvelles compétences au sens large (connaissances, pratiques professionnelles, aptitudes individuelles et collectives).
 
-(link: http://ieg.corpoe.com/effects text: Voir ici la présentation des effets.) 
+(link: http://ieg.corpoe.com/effects text: Cliquer ici pour voir les 21 facteurs-clés retenus et leur effets.) 
+(image: effets.jpg link: http://ieg.corpoe.com/effects)
 
 A partir de ces travaux de coproduction (regroupement des facteurs issus des études en 8 familles, explicitation de ces facteurs en mots-clés, identification d’une vingtaine de facteurs-clés, traduction de ces facteurs-clés en effets pour la branche), nous avons pu aboutir en conclusion de l’atelier du 12 juillet à la sélection d’une douzaine de thèmes sur lesquels orienter la prochaine étape.
 
@@ -47,7 +48,7 @@ Les participants ont privilégié les thèmes correspondant :
 - à des enjeux plus larges impactant les activités des IEG (Exemples : nouveaux modèles d’affaires autour des services, nouvelle expérience client, dualité global-local…)
 - à des sujets ‘’émergents’’, demandant à être approfondis pour mieux les comprendre et pouvoir en apprécier plus concrètement les conséquences sur les métiers et les compétences (Exemples : blockchain, drones, smart cities, économie circulaire, data et sécurité…).
 
-Les 12 thèmes retenus en conclusion de l’atelier du 12 juillet sont les suivants :
+Les 12 thèmes retenus en conclusion de (link: http://ieg.corpoe.com/events/atelier-d-appropriation text: l’atelier du 12 juillet) sont les suivants :
 
 1. Écosystème des IEG
 - Enjeux et opportunités des Smart cities
@@ -64,4 +65,4 @@ Les 12 thèmes retenus en conclusion de l’atelier du 12 juillet sont les suiva
 - Culture de l’agilité et de l’auto-disruption
 - Renouvellement de l’expérience collaborateur pour répondre aux besoins de sens / QVT / nouvelles notions de la protection et de la représentativité (dont nouvelles générations).
 
-Ces thèmes ont inspiré la programmation de la Rencontre Prospective du 18 octobre
+Ces thèmes ont inspiré la programmation de la (link: http://ieg.corpoe.com/events/rencontre-prospective text: Rencontre Prospective du 18 octobre).

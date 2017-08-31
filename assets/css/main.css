@@ -43,7 +43,7 @@ ul, ol {
   margin-bottom: 1.5rem;
 }
 .subtle {
-  color: #cecece;
+  color: #777;
   font-size: 0.9em;
   font-style: italic;
 }
@@ -70,6 +70,13 @@ ul, ol {
 .retour {
   margin-top: 25px;
 }
+.effects .features li h2 {
+  color: #62b;
+}
+.meta-etude {
+  padding-left: 83px;
+}
+
 /* The Overlay sliding NAV */
 
 .burger {

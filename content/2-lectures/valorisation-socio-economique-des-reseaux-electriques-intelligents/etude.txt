@@ -34,3 +34,7 @@ Facteurs:
 
 - Technologies : convergence énergie & TIC
 - Politique énergétique : régulation incitative.
+
+----
+
+Cat: filiere
