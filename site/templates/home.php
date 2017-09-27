@@ -5,10 +5,9 @@
 	  <span class="background light" style="background-image:url('https://source.unsplash.com/qQwxU7NJWTI')"></span>
 		<!-- previous yETqkLnhsUI pylones sur fond campagne -->
 
-	  <div class="hp wrap size-60">
-	    <h1><?= $site->title() ?></h1>
+	  <div class="hp wrap size-50">	    
+	    <img src="<?= $site->url() ?>/assets/images/logo_fab_s.png" alt="<?= $site->title() ?>">
 	    <?= $site->baseline()->kirbytext() ?>
-	    <img src="<?= $site->url() ?>/assets/images/logo_fab_s.png">
 	  </div>
 	  <!-- .end .wrap -->
 	</section>
