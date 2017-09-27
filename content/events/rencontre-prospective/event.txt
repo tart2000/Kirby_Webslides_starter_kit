@@ -4,14 +4,12 @@ Title: Rencontre prospective
 
 Text: 
 
-(image: drone.png)
-
-La Rencontre Prospective du 18 octobre sera l’occasion d’explorer les enjeux d’avenir et les compétences associées avec des intervenants issus de la branche ou d’autres univers.
+#####La Rencontre Prospective du 18 octobre sera l’occasion d’explorer les enjeux d’avenir et les compétences associées avec des intervenants issus de la branche ou d’autres univers.
 Le format d’animation retenu sera résolument dynamique et interactif.
 Pour la qualité des échanges, elle réunira seulement une cinquantaine de participants.
 
-####Programme 
-‘’La Fabrique d'Énergies : enjeux d’avenir et nouvelles compétences pour les industries électriques et gazières’’ 
+####Programme
+**"La Fabrique d'Énergies : enjeux d’avenir et nouvelles compétences pour les industries électriques et gazières" **
 
 Des experts et praticiens d’entreprises partageront leur vision des transformations à venir :
 
@@ -25,10 +23,16 @@ Ce programme a été établi à l’issue de la (link: http://ieg.copoe.com/lenv
 Rendez-vous au Schoolab (accélérateur de projets innovants et de startups)
 21 Rue de Cléry, 75002 Paris, de 9H à 14H00
 
+(image: map.png link: https://www.google.fr/maps/dir/''/21+Rue+de+Cl%C3%A9ry,+75002+Paris/data=!4m5!4m4!1m0!1m2!1m1!1s0x47e66e17cfbb5ba5:0x6c1bf733e8b3339e?sa=X&ved=0ahUKEwiEuYKZpMbWAhXkIcAKHfXbBzAQwwUIKTAA)
+
 ----
 
 Date: 2017-10-18
 
 ----
 
-Location: Schoolab
+Location: Schoolab, Paris
+
+----
+
+Unsplash: d7CZYeWZyzc
