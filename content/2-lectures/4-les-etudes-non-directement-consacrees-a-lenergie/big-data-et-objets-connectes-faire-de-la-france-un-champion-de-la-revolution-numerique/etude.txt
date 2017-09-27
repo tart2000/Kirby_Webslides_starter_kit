@@ -1,0 +1,49 @@
+Title: Big data et objets connectés - faire de la France un champion de la révolution numérique
+
+----
+
+Qui: Institut Montaigne
+
+----
+
+Quand: 2015
+
+----
+
+Perimetre: Nouveaux modèles
+
+----
+
+Link: http://www.institutmontaigne.org/fr/publications/big-data-et-objets-connectes-faire-de-la-france-un-champion-de-la-revolution-numerique
+
+----
+
+Cat: thematiques
+
+----
+
+Objectifs: Le Big data et les objets connectés représentent un important relais de croissance économique selon de nombreuses études. Ils ouvrent la possibilité de connecter les personnes ou les objets de manière plus pertinente, de fournir la bonne information au bon destinataire et au bon moment, ou encore de faire ressortir les informations utiles à la prise de décision.
+
+----
+
+Messages: 
+
+- Nous vivons aujourd’hui une révolution numérique globale, une nouvelle révolution industrielle, alimentée par l’essor des objets connectés associé à l’exploitation du Big data : Internet of Everything (IoE), l’Internet du Tout connecté.
+- Les perspectives de création de valeur du Big data et des objets connectés sont stratégiques pour l’économie d’un territoire et concernent tous les pans de l’économie et de la société.
+- Mais leurs usages et leur développement génèrent des interrogations nouvelles et des comportements encore très prudents. L’essor du Big data et des objets connectés doit reposer sur la confiance entre tous les acteurs.
+
+----
+
+Facteurs: 
+
+- Technologies : convergence TIC et techno énergétique, big data, open data, …
+- Modes de vie : consommacteurs
+- Nouveaux modèles d’organisation et de services
+
+----
+
+Tags: technologie
+
+----
+
+Horizon: 2020-2030

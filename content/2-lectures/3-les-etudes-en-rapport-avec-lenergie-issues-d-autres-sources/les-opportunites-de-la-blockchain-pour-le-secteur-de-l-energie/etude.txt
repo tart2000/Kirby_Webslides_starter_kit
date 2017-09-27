@@ -1,0 +1,48 @@
+Title: Les opportunités de la blockchain pour le secteur de l'énergie
+
+----
+
+Qui: CGI Business Consulting
+
+----
+
+Quand: 2016
+
+----
+
+Perimetre: Nouveaux modèles
+
+----
+
+Link: https://www.cgi.fr/whitepaper/blockchain-energie-telechargement
+
+----
+
+Cat: autressources
+
+----
+
+Objectifs: Le postulat que la blockchain détient le potentiel de redistribuer les marchés et de redéfinir l’économie dans son ensemble est aujourd’hui largement partagé. Ces trois dernières années, ce sont plus de 2500 brevets qui ont été déposés sur cette technologie. Face à cette tendance émergente mais massive, les organisations s’interrogent : « Menace ou opportunité » ?
+
+----
+
+Messages: 
+
+- À ce stade, la blockchain possède toutes les caractéristiques d’une rupture fondamentale, mais son stade de développement ne permet pas encore d’anticiper la suite avec certitude. Néanmoins, l’accélération du rythme de diffusion des nouvelles technologies incite à anticiper leurs impacts, et donc à s’assurer d’un minimum de maîtrise, quitte à devoir y renoncer plus tard. 
+- Le cadre réglementaire en France est pour l’instant peu contraint. Il incite à expérimenter la blockchain dès maintenant. La priorité donnée aux ENR et à l’efficacité énergétique, l’intégration des marchés européens au service du consommateur final, l’encouragement de l’autoconsommation sont autant d’opportunités pour la blockchain ; d’autant que celle-ci s’intègre dans un corpus de nouvelles technologies numériques qui se combinent avantageusement (smart meters, smart grids, IoT, stockage, VE, analytics, ...).
+
+----
+
+Facteurs: 
+
+- Technologies : convergence TIC et techno énergétiques
+- Modes de vie : consommacteurs
+- Nouveaux modèles d’organisation et de services
+
+----
+
+Tags: technologie
+
+----
+
+Horizon: 2025-2030

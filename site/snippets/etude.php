@@ -7,6 +7,8 @@
 		        <p>Produit par : <?= $e->qui() ?></p>
 		        <p>Date : <?= $e->quand() ?></p>
 		        <p>Périmère : <?= $e->perimetre() ?></p>
+		        <p>Horizon : <?= $e->horizon() ?></p>
+		        <p>Catégorie : #<?= $e->tags() ?></p>
 		    </div>
 	      	<a href="<?= $e->link() ?>" target="_blank" class="button">Lire</a>
 	      	<a class="retour" href="<?= $e->parent()->url() ?>">Retour vers la bibliographie</a>

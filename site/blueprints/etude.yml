@@ -2,6 +2,7 @@ title: Etude
 pages: false
 files: true
 fields:
+  prevnext: prevnext
   title:
     label: Title
     type:  text
@@ -38,3 +39,11 @@ fields:
   facteurs: 
     label: Facteurs de changement à noter
     type: textarea
+  tags: 
+    label: Tags 
+    type: tags
+    width: 1/2
+  horizon: 
+    label: Horizon
+    type: text 
+    width: 1/2

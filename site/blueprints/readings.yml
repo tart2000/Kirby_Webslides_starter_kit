@@ -1,6 +1,6 @@
 title: Readings
 pages: 
-  template: Etude
+  template: Reading-category
 files: true
 fields:
   title:

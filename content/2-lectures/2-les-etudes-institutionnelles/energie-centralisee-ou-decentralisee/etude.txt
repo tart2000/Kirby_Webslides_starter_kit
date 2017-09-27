@@ -1,0 +1,49 @@
+Title: Energie centralisée ou décentralisée ?
+
+----
+
+Qui: France Stratégie
+
+----
+
+Quand: 2017
+
+----
+
+Perimetre: Secteur électrique
+
+----
+
+Link: http://www.strategie.gouv.fr/publications/20172027-energie-centralisee-decentralisee-actions-critiques
+
+----
+
+Cat: institutionnelles
+
+----
+
+Objectifs: Présentation très schématique de trois systèmes, différenciés par leur degré de centralisation : le maintien du système centralisé actuel, la mise en place d’un modèle totalement décentralisé et enfin un système hybride où coexisteraient un réseau centralisé et des boucles locales de tailles diverses.
+
+----
+
+Messages: 
+
+- La transition dépendra de ce que la maturité technologique sous réserve de rentabilité suffisante, de capacité de financement des acteurs et d’acceptabilité sociale des solutions. 
+- Les technologies numériques atteindront les premières la maturité suffisante pour pénétrer le secteur électrique, introduisant de nouvelles façons de réguler les besoins et la production.
+- Le risque est de voir le contribuable financer l’équipement d’une entité locale qui se transformerait en producteur non compétitif, tout en faisant supporter les coûts de la sécurité d’approvisionnement à la collectivité.
+
+----
+
+Facteurs: 
+
+- Politiques publiques : instruments tarifaires, maintien péréquation ?
+- Technologie : smart grids, stockage
+- Modes de vie : acceptabilité sociale
+
+----
+
+Tags: énergie
+
+----
+
+Horizon: 2025-2030

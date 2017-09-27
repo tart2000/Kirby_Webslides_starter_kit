@@ -1,0 +1,51 @@
+Title: Industrie 4.0 : L'usine connectée
+
+----
+
+Qui: GIMELEC
+
+----
+
+Quand: 2013
+
+----
+
+Perimetre: Industrie du futur
+
+----
+
+Link: http://www.gimelec.fr/Publications-Outils/Industrie-4.0-l-usine-connectee-Publication
+
+----
+
+Cat: thematiques
+
+----
+
+Objectifs: L’ensemble du secteur industriel est entré dans une phase de profonde mutation qui voit les technologies numériques s’intégrer au cœur des processus industriels. Cette quatrième révolution industrielle donne naissance à une nouvelle génération d’usine. Qu’on l’appelle « Cyber-usine », « Usine digitale », « Integrated Industry », « Innovative Factory » ou « Industrie 4.0 », cette rupture technologique majeure offre un extraordinaire champ d’innovation, de progrès et de croissance.
+
+----
+
+Messages: 
+
+- L’usine devient numérique et flexible : elle se caractérise par une communication continue et instantanée entre les différents outils et postes de travail intégrés dans les chaînes de production et d’approvisionnement.
+- L’utilisation de capteurs communicants apporte à l’outil de production une capacité d’autodiagnostic et permet ainsi son contrôle à distance. 
+- La flexibilité de la production est accrue grâce aux systèmes de communication plus performants. Elle permet la personnalisation des produits (modification de ses caractéristiques) en fonction des demandes des clients. 
+- Des outils de simulation et de traitement de données puissants : le recueil des données produites par les différents éléments de la chaîne de production permet également de produire une réplique virtuelle de tout ou partie de cette chaîne afin de générer des simulations de procédés ou de tests, mais aussi de permettre aux futurs ouvriers et techniciens de se familiariser avec des outils de travail et des procédures complexes ou encore de faciliter les réparations et la maintenance pour des non-spécialistes. 
+- Une usine économe en énergie et en matières premières : l’Industrie 4.0 sera économe en énergie et en ressources grâce à un réseau de communication et d’échange instantané et permanent avec une coordination des besoins et disponibilités.
+
+----
+
+Facteurs: 
+
+- Technologie : industrie du futur, robotisation, big data, gains en efficacité énergétique, …
+- Nouveaux services personnalisés « à la demande »
+- Adaptation des processus de formation
+
+----
+
+Tags: industrie
+
+----
+
+Horizon: 2020-2030

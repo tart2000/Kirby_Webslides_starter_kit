@@ -4,23 +4,19 @@ Title: Bibliographie
 
 Text: 
 
-###Études analysées dans la démarche 
+###Études analysées dans la démarche
 
-La phase 1 était destinée à identifier les facteurs dits « macro-déterminants » (c’est-à-dire les transformations majeures), ainsi que les « signaux faibles » (les évolutions plus mineures, mais susceptibles d’induire des changements à terme), de façon à anticiper des impacts sur l’environnement de travail de la branche. Pour identifier ces différents facteurs, nous avons puisé dans un panel très large d’études, souvent organisées en scénarios à l’horizon 2030. L’objectif n’était pas de juger de la probabilité de réalisation de tel ou tel scénario, mais, en puisant dans un large panel, de mettre en débat un large éventail de facteurs.
+**Un large panel d’études pour identifier facteurs macro-déterminants et signaux faibles**
 
-Le périmètre et l’objectif de ces études sont très hétérogènes 
+La phase 1 de la démarche a permis d’identifier les facteurs dits « macro-déterminants » (c’est-à-dire les transformations majeures), ainsi que les « signaux faibles » (les évolutions plus mineures, mais susceptibles d’induire des changements à terme), de façon à anticiper des impacts sur l’environnement de travail de la branche.
+Ces différents facteurs ont été puisés dans un panel très large d’études, souvent organisées en scénarios à l’horizon 2030. L’objectif n’était pas de juger de la probabilité de réalisation de tel ou tel scénario, mais, en puisant dans un large panel, de mettre en débat un large éventail de facteurs.
+
+Le périmètre et l’objectif de ces études sont très hétérogènes :
 
 - Certaines portent sur les transformations de l’offre et de la demande d’énergie, d’autres se focalisent spécifiquement sur le gaz ou l’électricité
 - La plupart considèrent le système énergétique, mais d’autres portent sur les transformations de l’organisation de nos sociétés (ex : les villes du futur)
 - Certaines sont très détaillées et riches (et parfois complexes…), d’autres plus simplifiées (mais également très utiles pour alimenter des échanges prospectifs).
 
-À cette fin, nous avons organisé notre panel d’études en quatre sous-ensembles 
+La nécessité de rassembler un large panel est directement liée à la nature-même de la transition énergétique, qui n’est pas qu’une transformation sectorielle, mais constitue une transformation sociétale, bien au-delà du périmètre des IEG (organisation territoriale, systèmes de transport, numérisation, …), et ceci dans un environnement international particulièrement complexe (accord climatique, fluctuation du prix des énergies). L’intérêt du panel d’études est ainsi  de couvrir cette complexité, pour alimenter l’analyse prospective.
 
-1. Les études issues de la filière
-1. Les études 'énergie' institutionnelles (Ministères, ADEME, etc.)
-1. Les études 'énergie' issues d’autres sources (cabinets d’études, think tanks, etc.)
-1. Les études sur d’autres thématiques que l’énergie (transformations industrielles, sociologiques, géopolitiques, etc.)
-
-La nécessité de rassembler un large panel est directement liée à la nature-même de la transition énergétique, qui n’est pas qu’une transformation sectorielle, mais constitue une transformation sociétale, bien au-delà du périmètre des IEG (organisation territoriale, systèmes de transport, numérisation, …) et dans un environnement international particulièrement complexe (accord climatique, fluctuation du prix des énergies). L’intérêt du panel d’études est de couvrir cette complexité, pour alimenter l’analyse prospective.
-
-----
+A cette fin, le panel d’études est présenté en quatre sous-ensembles :

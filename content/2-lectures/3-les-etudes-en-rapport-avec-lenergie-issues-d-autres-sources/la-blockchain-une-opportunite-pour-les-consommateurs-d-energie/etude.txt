@@ -1,0 +1,48 @@
+Title: La blockchain : une opportunité pour les consommateurs d'énergie ?
+
+----
+
+Qui: Office France-Allemand pour la transition énergétique
+
+----
+
+Quand: 2017
+
+----
+
+Perimetre: Nouveaux modèles énergétiques
+
+----
+
+Link: http://ufe-electricite.fr/publications/etudes/article/transition-energetique-les-cles-pour-financer-l-evolution-de-la-demande-en
+
+----
+
+Cat: autressources
+
+----
+
+Objectifs: La blockchain est une technologie de stockage décentralisé et le cryptage de données de transactions, complétée par des mécanismes spécifiques aux transactions décentralisées (les « smart contracts »). Les blockchains et les smart contracts représentent potentiellement une révolution pour les modèles de transaction et les modèles d’affaires décentralisés.
+
+----
+
+Messages: 
+
+- La blockchain renforce le rôle des consommateurs et des producteurs individuels sur le marché. Cette technologie permet aux « consomm’acteurs » d’acheter et de vendre directement de l’énergie de façon très libre.
+- La technologie blockchain est prometteuse : outre son utilisation pour des transactions relatives à une fourniture d’énergie, elle peut servir de base pour les processus de relevé et de facturation, des garanties d’origine, ainsi que des quotas d’émissions de CO2 et des certificats d’électricité verte.
+
+----
+
+Facteurs: 
+
+- Technologies : convergence TIC et technos énergétique
+- Modes de vie : consommacteurs
+- Nouveaux modèles d’organisation et de services
+
+----
+
+Tags: technologie
+
+----
+
+Horizon: 2020-2030

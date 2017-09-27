@@ -1,0 +1,47 @@
+Title: Scénarios de l'ANCRE pour la transition énergétique
+
+----
+
+Qui: ANCRE
+
+----
+
+Quand: 2013
+
+----
+
+Perimetre: Offre et demande d’énergie
+
+----
+
+Link: http://energieclimat.hypotheses.org/19674
+
+----
+
+Cat: institutionnelles
+
+----
+
+Objectifs: Recherche de trajectoires très contrastées soulignant les besoins de R&D et les implications sociétales. L’exercice a conduit avec un objectif de division par quatre des émissions en 2050.
+
+----
+
+Messages: 
+
+- Le chemin vers un panorama énergétique durable demandera des efforts importants d’adaptation des politiques de règlementation et de prix de l’énergie, mais également des investissements substantiels en R&D afin de lever les verrous scientifiques et techniques. 
+- Des ruptures technologiques sont indispensables pour construire la route entre le mixte énergétique actuel et celui que l’on peut anticiper pour notre société à l’horizon 2050.
+
+----
+
+Facteurs: 
+
+- Technologie : R&D énergétique
+- Mode de vie : acceptabilité sobriété
+
+----
+
+Tags: énergie
+
+----
+
+Horizon: 2030-2050

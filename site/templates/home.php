@@ -8,7 +8,7 @@
 	  <div class="hp wrap size-60">
 	    <h1><?= $site->title() ?></h1>
 	    <?= $site->baseline()->kirbytext() ?>
-	    [logo]
+	    <img src="<?= $site->url() ?>/assets/images/logo_fab_s.png">
 	  </div>
 	  <!-- .end .wrap -->
 	</section>

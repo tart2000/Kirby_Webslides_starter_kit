@@ -6,27 +6,24 @@ Text:
 
 (image: drone.png)
 
-La Rencontre Prospective du 18 octobre réunira une cinquantaine de participants.
-Elle sera l’occasion d’explorer les enjeux clés et les compétences associées avec des intervenants issus de la branche ou d’autres univers. 
+La Rencontre Prospective du 18 octobre sera l’occasion d’explorer les enjeux d’avenir et les compétences associées avec des intervenants issus de la branche ou d’autres univers.
 Le format d’animation retenu sera résolument dynamique et interactif.
+Pour la qualité des échanges, elle réunira seulement une cinquantaine de participants.
 
-###Programme (sous réserves)
-‘’La Fabrique d'Énergies : enjeux d’avenir et nouvelles compétences pour les industries électriques et gazières’’
+####Programme 
+‘’La Fabrique d'Énergies : enjeux d’avenir et nouvelles compétences pour les industries électriques et gazières’’ 
 
-1. Énergie et Smart cities : complexité ou proximité ?
-- Le Client et citoyen 4.0
-- L’économie circulaire : nouvelles stratégies des territoires
-- Data science et IA au cœur de la révolution des services
-1. Entre technologies numériques et énergétiques, quelles convergences pour nos industries ?
-- Les enjeux de la Blockchain  
-- Industrie du futur : automatisation, robotisation et informatique industrielle (drones, réalité augmentée…)
-- Transformation numérique et nouveaux modèles d’affaire
-1. Comment construire des entreprises agiles et apprenantes ?
-- Managers 4.0 : face à la quête de sens et à l’incertitude
-- Nouveaux modèles d’organisation pour accueillir les générations futures
-- Sciences cognitives et pédagogiques réinventent la formation
+Des experts et praticiens d’entreprises partageront leur vision des transformations à venir :
 
- Ce programme a été établi à l’issue de (link: http://ieg.corpoe.com/lenvironnement-de-la-branche text: la première phase de la démarche).
+- Au cœur des smart cities : enjeux et opportunités pour les énergies
+- Impacts du digital et des technologies de rupture 
+- Boucles courtes : évolution de la demande des clients et des territoires
+- Le salarié acteur de l’entreprise agile et apprenante
+
+Ce programme a été établi à l’issue de la (link: http://ieg.copoe.com/lenvironnement-de-la-branche text: première phase de la démarche)
+
+Rendez-vous au Schoolab (accélérateur de projets innovants et de startups)
+21 Rue de Cléry, 75002 Paris, de 9H à 14H00
 
 ----
 
@@ -34,4 +31,4 @@ Date: 2017-10-18
 
 ----
 
-Location: À définir
+Location: Schoolab

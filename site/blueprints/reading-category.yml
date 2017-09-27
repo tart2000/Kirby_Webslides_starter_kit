@@ -1,0 +1,11 @@
+title: Reading-category
+pages: 
+  template: Etude
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
