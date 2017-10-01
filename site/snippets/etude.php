@@ -5,10 +5,10 @@
 	      	<img src="<?= $e->images()->first()->url() ?>">
 	      	<div class="meta">
 		        <p>Produit par : <?= $e->qui() ?></p>
-		        <p>Date : <?= $e->quand() ?></p>
+		        <p>Date d'édition : <?= $e->quand() ?></p>
 		        <p>Périmère : <?= $e->perimetre() ?></p>
-		        <p>Horizon : <?= $e->horizon() ?></p>
-		        <p>Catégorie : #<?= $e->tags() ?></p>
+		        <p>Catégorie : <em class="mytag"><?= $e->tags() ?></em></p>
+		        <p>Horizon : <em class="mytag"><?= $e->horizon() ?></em></p>
 		    </div>
 	      	<a href="<?= $e->link() ?>" target="_blank" class="button">Lire</a>
 	      	<a class="retour" href="<?= $e->parent()->url() ?>">Retour vers la bibliographie</a>

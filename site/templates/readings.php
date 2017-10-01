@@ -5,12 +5,11 @@
 		<div class="wrap size-50">
 			<h2><?= $page->title() ?></h2>
 			<?= $page->text()->kirbytext() ?>
-
-			<?php foreach ($page->children()->visible() as $cat) : ?>
-				<ul>
-					<li><?= $cat->num() ?> - <a href="<?= $cat->url() ?>"><?= $cat->title() ?></a></li>
-				</ul>
-			<?php endforeach ?>
+			<ol>
+				<?php foreach ($page->children()->visible() as $cat) : ?>
+					<li><a href="<?= $cat->url() ?>"><?= $cat->title() ?></a></li>
+				<?php endforeach ?>
+			</ol>
 
 		</div>
 	</section>

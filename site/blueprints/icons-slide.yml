@@ -1,7 +1,7 @@
 title: Icons-slide
 
 pages: false
-files: false
+files: true
 
 fields:
   prevnext: prevnext
@@ -27,6 +27,10 @@ fields:
       icon:
         label: Font Awesome icon
         type:  text
+      img: 
+        label: Image 
+        type: select 
+        options: images 
       text: 
         label: Text
         type: text 

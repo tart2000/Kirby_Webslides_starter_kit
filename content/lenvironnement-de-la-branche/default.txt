@@ -1,19 +1,19 @@
-Title: Vision de l'avenir : l’environnement de la branche à horizon 2030
+Title: Visions de l'avenir : l’environnement de la branche à horizon 2030
 
 ----
 
 Text: 
 
-Notre démarche prospective ne vise pas à définir une vision unique de l’avenir, mais plutôt à arpenter depuis plusieurs angles un large terrain d’exploration. 
+Notre démarche prospective vise, non pas à définir une vision unique de l’avenir, mais plutôt à arpenter depuis plusieurs angles un large terrain d’exploration. 
 
 Quelles transformations technologiques, sociétales et organisationnelles prendre en compte, qui impacteront l’environnement de travail de la branche à horizon 2030 ? Tel était l’objectif de la première phase de la démarche avec : 
 
-- **Le partage d’un (link: http://ieg.corpoe.com/lectures text: panel d’études)** dont a été extraite une cinquantaine de ‘’facteurs macro-déterminants’’ et ‘’signaux faibles’’ (lien vers biblio)
+- **Le partage d’un (link: http://ieg.corpoe.com/lectures text: panel d’études)** dont a été extraite une cinquantaine de ‘’facteurs macro-déterminants’’ et ‘’signaux faibles’’
 - **Un atelier collaboratif dit ‘’d’appropriation’’** : organisé le (link: http://ieg.corpoe.com/events/atelier-d-appropriation text: 12 juillet 2017) à la Chocolaterie (Levallois), cet atelier a permis aux 23 participants ((link: http:/ieg.corpoe.com/les-acteurs-de-la-fabrique-d-energies text: membres du GTP, éclaireurs et invités)) d’échanger sur les facteurs issus du panel d’études et de co-construire une cartographie de l’environnement de travail de la branche à horizon 2030. 
 
 (image: schema_etapes.png)
 
-**Une cartographie a pu être bâtie au fil de l’atelier du 12 juillet avec** :
+**Une cartographie bâtie au fil de l’atelier du 12 juillet avec** :
 
 - Le regroupement des facteurs issus du panel d’études en (link: http://ieg.corpoe.com/les-8-familles text: 8 grandes ‘’familles’)’ 
 - La caractérisation de ces facteurs à l’aide de ‘’mots-clés’’ (ce que ces facteurs évoquent aux participants)
@@ -28,7 +28,7 @@ Les familles, facteurs et mots-clés sont représentés dans le ‘’mind-map�
 Les 21 facteurs-clés retenus et leurs effets sont présentés dans la synthèse (link: http://ieg.corpoe.com/effects text: ci-après).
 (image: effets.jpg link: http://ieg.corpoe.com/effects)
 
-####Des thèmes structurants pour la suite de la démarche	
+**Des thèmes structurants pour la suite de la démarche**
 
 À partir du travail réalisé sur la cartographie, les participants ont retenu des thèmes à approfondir dans les phases suivantes de la démarche et correspondant :
 

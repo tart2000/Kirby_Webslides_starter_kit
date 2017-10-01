@@ -14,3 +14,5 @@ Les 8 grandes familles de facteurs macro-déterminants identifiées par les part
 - La démographie et les modes de vie
 - Les technologies non énergétiques
 - L’organisation du travail et la formation
+
+(image: huit-familles.png)

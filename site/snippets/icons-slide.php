@@ -9,11 +9,16 @@
         <?php foreach ($s->items()->toStructure() as $item) : ?>
           <li>
             <a href="<?= $item->theurl() ?>">
-              <h2>
-                <svg class="fa-<?= $item->icon() ?>">
-                  <use xlink:href="#fa-<?= $item->icon() ?>"></use>
-                </svg>
-              </h2>
+              <?php if($item->icon() != '') : ?>
+                <h2>
+                  <svg class="fa-<?= $item->icon() ?>">
+                    <use xlink:href="#fa-<?= $item->icon() ?>"></use>
+                  </svg>
+                </h2>
+              <?php elseif ($item->img() != '') : ?>
+                <?php $img = $item->img()->toFile() ?>
+                  <?= $img ?>
+              <?php endif ?>
             <div class="icon-text">
               <h2>
                 <?= $item->title() ?>

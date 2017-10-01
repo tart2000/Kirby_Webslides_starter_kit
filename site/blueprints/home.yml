@@ -5,6 +5,9 @@ fields:
   title:
     label: Title
     type:  text
+  img:
+    label: Unsplash image code
+    type: text 
   text:
     label: Text
     type:  textarea

@@ -2,12 +2,14 @@
 
 <article>
 	<section class="bg-black aligncenter">
-	  <span class="background light" style="background-image:url('https://source.unsplash.com/qQwxU7NJWTI')"></span>
+	  <span class="background light" style="background-image:url('https://source.unsplash.com/<?= $page->img() ?>')"></span>
+	  	<!-- qQwxU7NJWTI ville nuit lumières -->
 		<!-- previous yETqkLnhsUI pylones sur fond campagne -->
 
 	  <div class="hp wrap size-50">	    
 	    <img src="<?= $site->url() ?>/assets/images/logo_fab_s.png" alt="<?= $site->title() ?>">
 	    <?= $site->baseline()->kirbytext() ?>
+	    <img id="logo_ieg" src="<?= $site->url() ?>/assets/images/logo_ieg.png">
 	  </div>
 	  <!-- .end .wrap -->
 	</section>

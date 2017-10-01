@@ -18,33 +18,39 @@ Items:
 
 - 
   title: Info
-  icon: info
+  icon: ""
   text: Mieux connaitre les IEG
   theurl: http://sgeieg.fr/
+  img: home.png
 - 
   title: Origines
-  icon: bolt
+  icon: ""
   text: "de la Fabrique d'Énergie"
   theurl: /les-origines-de-la-fabrique-d-energies
+  img: origines.png
 - 
   title: Les acteurs
-  icon: users
+  icon: ""
   theurl: /les-acteurs-de-la-fabrique-d-energies
   text: "de la Fabrique d'Énergies"
+  img: acteurs.png
 - 
   title: Démarche
-  icon: cubes
+  icon: ""
   text: "Les 4 étapes de la Fabrique d'Énergies"
   theurl: /les-4-etapes-de-la-fabrique-d-energies
+  img: demarche.png
 - 
   title: Bibliographie
-  icon: book
+  icon: ""
   text: Études analysées dans la démarche
   theurl: /lectures
+  img: biblio.png
 - 
   title: "Visions de l'avenir"
-  icon: binoculars
+  icon: ""
   text: >
     L’environnement de la branche à
     horizon 2030
   theurl: /lenvironnement-de-la-branche
+  img: avenir.png
