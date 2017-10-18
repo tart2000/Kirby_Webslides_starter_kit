@@ -22,7 +22,7 @@ Quelles transformations technologiques, sociétales et organisationnelles prendr
 
 Les familles, facteurs et mots-clés sont représentés dans le ‘’mind-map’’ ci-dessous. Ce ‘’mind-map’’ trace les contours de l’environnement de la branche tel que perçu par les participants de l’atelier, sans juger de la probabilité de leur réalisation. Il peut arriver que des facteurs ou mots-clés apparaissent plusieurs fois d’une famille à l’autre.
 
-(image: mindmap.png link: https://mm.tt/943136520?t=2XUzSMQPtv target: blank)
+(image: mindmap3.png link: http://mindmap.corpoe.com target: blank)
 <p class="subtle">(cliquez  sur le mindmap pour l'agrandir et le parcourir en détail)</p>
 
 Les 21 facteurs-clés retenus et leurs effets sont présentés dans la synthèse (link: http://ieg.corpoe.com/effects text: ci-après).

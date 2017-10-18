@@ -8,15 +8,56 @@ Text:
 Le format d’animation retenu sera résolument dynamique et interactif.
 Pour la qualité des échanges, elle réunira seulement une cinquantaine de participants.
 
+<hr>
+
 ####Programme
-**"La Fabrique d'Énergies : enjeux d’avenir et nouvelles compétences pour les industries électriques et gazières" **
+#####"La Fabrique d'Énergies : enjeux d’avenir et nouvelles compétences pour les industries électriques et gazières" 
 
-Des experts et praticiens d’entreprises partageront leur vision des transformations à venir :
+#####8H30 - Accueil café
+ 
+#####9H00 - Ouverture
 
-- Au cœur des smart cities : enjeux et opportunités pour les énergies
-- Impacts du digital et des technologies de rupture 
-- Boucles courtes : évolution de la demande des clients et des territoires
-- Le salarié acteur de l’entreprise agile et apprenante
+- Introduction par les pilotes de la ‘’Fabrique d’Energies’’
+- Programme de la matinée par l’équipe Corpoé
+ 
+ La première partie de la matinée se focalise sur les compétences transversales.
+ 
+#####9H25 - Séquence 1 : Le salarié acteur de l’entreprise agile et apprenante
+Trois voix (l’académie, l’entrepreneure, le salarié) se répondent pour dégager de nouveaux modèles de formation et d’engagement
+
+- **Cécile Dejoux** - Professeur des universités au Cnam Paris et professeur affiliée à l’ESCP Europe, spécialisée sur les thématiques du management, des Ressources humaines à l’heure de la transformation numérique, et sur la gestion des talents et des compétences.
+- **Myriam Maestroni** - Fondatrice et présidente d’Economie d'Energie SAS, ex directrice générale de Primagaz, administratrice de McPhy, fondatrice de plusieurs associations sur les économies d’énergie.
+- **Fabrice Poussière** - Co-fondateur de l’association française de ‘’Corporate hacking’’ les Hacktivateurs, serial intrapreneur dans les secteurs des Télecoms et de l’aéronautique, passionné de sciences, technologies et innovation.
+
+#####10H20 - Séquence 2 : Impacts du digital et des technologies de rupture
+Trois experts apportent leurs vision et expérience des principaux enjeux technologiques (transformation numérique, industrie du futur, désintermédiation) et de leurs impacts sur les énergies
+
+- **Henri Isaac** - Professeur associé à l’Université Paris-Dauphine, spécialiste de la transformation digitale, notamment des nouveaux modèles d’affaires associés aux plateformes de services numériques, président de l’association Renaissance Numérique
+- **Pierre-Marie Gaillot** - Développeur de l’Industrie du Futur au sein du Cetim (Centre technique des industries mécaniques), contributeur de l’alliance ‘’La Fabrique de l’Industrie’’ (robotisation, Intelligence artificielle..), Vice-président de l'Association Européenne des Synergologues
+- **Claire Balva** - Cofondatrice et présidente de Blockchain Partner, leader français de l'accompagnement sur les technologies blockchain, membre fondateur de l’association ChainTech, qui rassemble et représente les acteurs francophones de la technologie blockchain.
+ 
+#####11H10 – Pause-café, networking, astonishing wall
+ 
+La deuxième partie de la matinée est consacrée 
+aux thèmes plus techniques, propres au secteur des énergies.
+ 
+#####11H30 - Séquence 3 : Les boucles courtes : évolution de la demande des clients et des territoires
+Une table ronde réunit deux personnalités complémentaires (énergie et économie du partage).
+
+- **Olivier Cateura** - Professeur associé à Grenoble Ecole de Management, en management stratégique et management de l’énergie, expert de la transition énergétique et de l’internet de l’énergie
+- **Ghislain Delabie** - Explorateur au sein du Lab Ouishare x Chronos, spécialiste de l’innovation et du marketing des services, de l’économie collaborative et de la mobilité durable, grâce à de nombreuses expériences comme consultant et chef de projet (notamment au sein du  groupe La Poste),
+ 
+#####12H10 - Séquence 4 : Smart cities : enjeux et opportunités pour les énergies
+Deux intervenants (gaz, électricité) croisent leur vision des smart cities et de leurs complexités, ainsi que  leur expérience des écosystèmes qui se construisent dans les territoires.
+
+- **Sylvain Chapon** - Délégué Marketing Stratégique chez ENGIE, spécialiste des thématiques territoriales dans le secteur de l’énergie, de l’anticipation des solutions indispensables à la transition énergétique et de la construction des nouveaux écosystèmes souhaités par les décideurs locaux.
+- **Valérie-Anne Lencznar** - Directrice générale de l’Association Réseaux Electriques Intelligents- Smartgrids France, porteuse d’une vision européenne des enjeux d’énergie au sein des smart cities
+ 
+#####13H00 - Buffet convivial - networking - astonishing wall
+ 
+#####14H00 - Fin de la Rencontre Prospective
+
+<hr>
 
 Ce programme a été établi à l’issue de la (link: http://ieg.copoe.com/lenvironnement-de-la-branche text: première phase de la démarche)
 

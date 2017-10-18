@@ -125,6 +125,13 @@ section p {
   display: inline-table;
   background-color: white;
 }
+.avatar-80 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.people h3 {
+  display: initial;
+}
 
 blockquote {
   background: #fff;

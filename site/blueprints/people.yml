@@ -1,0 +1,23 @@
+title: People
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  people: 
+    label: People 
+    type: structure 
+    entry: >
+      {{title}}
+    fields: 
+      title: 
+        label: Title
+        type: text 
+      img: 
+        label: Image 
+        type: select 
+        options: images 
+      text: 
+        label: Text
+        type: textarea 

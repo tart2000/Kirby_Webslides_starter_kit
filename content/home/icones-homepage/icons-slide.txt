@@ -45,7 +45,7 @@ Items:
   icon: ""
   text: Études analysées dans la démarche
   theurl: /lectures
-  img: biblio.png
+  img: books.png
 - 
   title: "Visions de l'avenir"
   icon: ""

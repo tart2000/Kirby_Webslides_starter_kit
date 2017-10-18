@@ -1,5 +1,6 @@
 title: Event
-pages: true
+pages: 
+  template: people
 files: true
 fields:
   title:

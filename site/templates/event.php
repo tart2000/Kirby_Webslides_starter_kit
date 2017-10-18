@@ -51,6 +51,14 @@
 
 			<?= $page->text()->kirbytext() ?>
 		</div>
+
+		<?php if ($page->hasChildren()) : ?>
+			<div class="wrap aligncenter">
+				<a href="<?= $page->children()->first()->url() ?>" class="button ghost">
+					Découvrez les intervenants de la Rencontre Prospective
+				</a>
+			</div>
+		<?php endif ?>
 	</section>
 </article>
 

@@ -1,0 +1,80 @@
+Title: Présentation des intervenants
+
+----
+
+People: 
+
+- 
+  title: Claire Balva
+  img: claire_balva.jpg
+  text: |
+    Claire Balva est cofondatrice et CEO de la startup Blockchain Partner, le leader français de l'accompagnement sur les technologies blockchain. Blockchain Partner propose un tripôle d'expertises inédit en France sur ces technologies, avec trois piliers : stratégie, développement technique, et accompagnement juridique. L'équipe de Blockchain Partner a par exemple accompagné ces derniers mois la Banque de France, Aéroports de Paris ou encore la SNCF. Claire Balva est également co-auteure de l'ouvrage "La Blockchain décryptée" paru en 2016, et s’emploie à démocratiser la blockchain à l'occasion d'événements grand public, de conférences TEDx et d'interviews dans différents médias.
+  theurl: ""
+- 
+  title: Olivier Cateura
+  img: olivier_cateura.jpg
+  text: |
+    Olivier Cateura est Professeur Associé en management stratégique et management de l’énergie, spécialiste des smart grids et de la transition énergétique.
+    Il enseigne à Grenoble Ecole de Management, où il a mis en place le programme (Mastère Spécialisé) en ‘’Energy Marketing & Management’’, en partenariat avec l’Institut de Technologie Grenoble-INP-ENSE3.
+    Il a exercé plusieurs fonctions pour le pôle de compétitivité Tenerrdis.
+    Auparavant, il a occupé différents postes en stratégie et marketing, notamment chez Electrabel Groupe Suez.
+- 
+  title: Sylvain Chapon
+  img: chapon_sylvain.jpg
+  text: "Juriste avec une formation en intelligence économique, Sylvain Chapon est aujourd’hui Délégué Marketing stratégique au siège B2T / solutions décentralisées d’Engie. IL évolue depuis plus de 15 ans dans le secteur de l’énergie (EDF puis ENGIE). Antérieurement à l'énergie, Sylvain Chapon a exercé des responsabilités en Centre de recherche, Commission parlementaire et collectivités. Il a servi en Protection civile et il intervient régulièrement en universités. Il est également Officier (r) dans la Réserve opérationnelle."
+- 
+  title: Cécile Dejoux
+  img: cecile_dejoux.jpg
+  text: |
+    Cécile Dejoux est Professeur des Universités en management, au Cnam  (Conservatoire national des arts et métiers) et à ESCP Europe. Elle est la fondatrice en 2015 de la Chaire partenariale "Learning Lab Human Change" du Cnam. Elle a été l’une des pionnières des MOOCs (Massive Open Online Courses). Son MOOC ‘’du Manager au Leader a enregistré plus de 145 000 inscrits (148 pays; 4 saison) sur FUN. Elle a publié plusieurs ouvrages et réalise de nombreuses conférences en entreprise sur le management à l'ère du numérique, où elle dessine un nouveau type de manager : du manager agile au leader designer.
+- 
+  title: Ghislain Delabie
+  img: delabie_ghislain.jpg
+  text: |
+    Ghislain Delabie (Telecom Bretagne, ESSEC) est un spécialiste de l'innovation et des services pour la mobilité durable, avec de nombreuses expériences à la fois comme consultant et chef de projet dans des secteurs variés (dont groupe La Poste, Deways, Techneo) : mobilité électrique (véhicules électriques et infrastructures de recharge), nouveaux services de mobilité, systèmes de mobilité partagée (covoiturage, autopartage, location P2P) et consommation collaborative.
+    Speaker, enseignant et connecteur, il contribue aujourd’hui au Lab OuiShare x Chronos.
+    Ses spécialités : financement de l'innovation, marketing des services et management de l'innovation.
+    Domaines de responsabilités : consommation collaborative, systèmes de mobilité, mobilité électrique, Smart Grids
+- 
+  title: Pierre-Marie Gaillot
+  img: gaillot_pierre-marie.jpg
+  text: "Pierre-Marie Gaillot est responsable ‘’Industrie du Futur’’ au Cetim (Centre Technique des Industries Mécaniques). A ce titre, il accompagne des PME/PMI et des ETI/Grands Groupes dans la modernisation de leur outil de production et la digitalisation de leurs modèles d'affaire. Il contribue également à l’alliance ‘’la Fabrique de l’Industrie’’ en tant que coordinateur régional. Il est aussi support au développement de la stratégie industrielle de la start-up Athletics 3D (équipement de sportifs de haut niveau). Passionné de communication non verbale, il est Vice-président de l’Association Européenne des Synergologues."
+- 
+  title: Henri Isaac
+  img: isaac_henri.jpg
+  text: >
+    Henri Isaac est Professeur Associé en
+    transformation digitale à
+    l’Université Paris-Dauphin, Il Ses
+    principaux enseignements portent sur les
+    challenges de la société digitale, le
+    e et m-commerce, les nouveaux modèles
+    d’affaire liés au digital… Il est
+    co-auteur d’un ouvrage collectif qui
+    fait référence sur le marketing
+    digital (6ème édition), auteur de
+    ‘’e-commerce, vers le commerce
+    connecté’’ et préfacier du Guide
+    pratique du e-learning.
+- 
+  title: Valérie-Anne Lencznar
+  img: lencznar_vaelrie-anne.jpg
+  text: |
+    Valérie-Anne Lencznar est directrice générale de l’Association Réseaux Électriques Intelligents - Smartgrids France. Sa formation généraliste et sa curiosité l’ont conduite à relever de nombreux challenges dans des secteurs à forte dimension technologique ou scientifique (énergie et santé). Initialement diplômée en Communication, elle s’est orientée vers des postes de chef de projet, coordinateur stratégique.
+    Pratiquant six langues, elle a une vision européenne des enjeux économiques.
+    Elle a par ailleurs publié un ouvrage sur les risques naturels et technologiques.
+- 
+  title: Myriam Maestroni
+  img: maestroni_myriam.jpg
+  text: |
+    Myriam Maestroni est présidente fondatrice d’Economie d’Energie SAS, startup qui a généré 170 emplois depuis sa création en 2011 , avec une offre de services autour des économies d’énergie (notamment par les travaux de rénovation des bâtiments).
+    Elle est également présidente de TheBluEffect.com, société britannique dédiée à la réduction des consommations de ressources (eau et énergie) et fondatrice de E5T.fr (Foundation for Innovation in Energy and Energy Efficiency).
+    Elle a plus de 20 ans d’expérience dans le secteur de l’énergie dans des contextes internationaux. Elle a notamment dirigé la société Primagaz.
+    Elle siège au conseil d’administration de Mc Phy et BoostHeat.com et réalise de nombreuses conférences sur la transition énergétique.
+- 
+  title: Patrice Poussière
+  img: poussiere_patrice.jpg
+  text: |
+    Fabrice Poussière est co-fondateur de l’association française de ‘’Corporate hacking’’ les Hacktivateurs.
+    L’association (loi de 1901) les Hacktivateurs, réunit plus de 200 faiseurs, créateurs d’initiatives transformationnelles et innovateurs passionnés par les opportunités. Elle vise à faire découvrir, promouvoir et encourager l’intrapreneuriat et le corporate hacking (hacking bienveillant des organisations), par le partage d’expériences, la mise en réseau, l’action et l’intelligence collectives.
+    Passionné de sciences, technologies et innovation, Fabrice Poussière est lui-même un serial intrapreneur dans les secteurs des Télecoms et de l’aéronautique. Issu de la recherche, il est devenu un facilitateur d’innovations, spécialiste du prototypage rapide, des process de créativité et d’innovation, de la valorisation scientifique et technique et du Ux design.

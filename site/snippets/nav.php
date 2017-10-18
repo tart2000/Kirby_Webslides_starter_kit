@@ -1,6 +1,6 @@
 
 
-<?php if ($page->template() == 'reading-category' || $page->template() == 'etude') : ?>
+<?php if ($page->template() == 'reading-category' || $page->template() == 'etude' || $page->template() == 'people') : ?>
 
 	<a href="<?= $page->parent()->url() ?>" class="burger">
 	  <svg class="fa-arrow-left">
