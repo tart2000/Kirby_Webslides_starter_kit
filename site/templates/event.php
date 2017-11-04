@@ -1,8 +1,5 @@
 <?php snippet('header') ?>
 
-<?php date_default_timezone_set('UTC'); ?>
-<?php setlocale(LC_TIME, "fr_FR", ""); ?>
-
 <article>
 	<?php if ($page->unsplash() != '') : ?>
 		<section class="bg-black aligncenter">

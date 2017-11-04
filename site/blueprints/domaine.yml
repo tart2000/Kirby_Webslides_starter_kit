@@ -1,0 +1,8 @@
+title: Domaine
+pages: false 
+files: true
+fields:
+  title:
+    label: Nom
+    type:  text
+  

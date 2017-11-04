@@ -1,0 +1,19 @@
+Title: Competences
+
+----
+
+Text: Ci-dessous la liste des compétences identifiées
+
+----
+
+Domaines: 
+
+- 
+  title: Exploitation des ouvrages et production
+  theid: exploitation
+- 
+  title: 'Ingénierie et R&D'
+  theid: ingenierie
+- 
+  title: Maintenance
+  theid: maintenance

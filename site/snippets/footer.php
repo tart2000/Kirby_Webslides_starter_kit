@@ -8,6 +8,9 @@
 <!-- Required -->
 <?= js('assets/js/webslides.js') ?>
 
+<!--  My own JS -->
+<?= js('assets/js/main.js') ?>
+
 
 <?php if ($page->template() == 'slideshow') : ?>
 	<script>

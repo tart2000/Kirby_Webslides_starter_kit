@@ -1,0 +1,23 @@
+title: Competence
+pages: false 
+files: true
+fields:
+  title:
+    label: Nom
+    type:  text
+  categories: 
+    label: Catégories 
+    type: select 
+    options: 
+      metier: Techniques Métiers
+      capacite: Capacité d'évolution et d'interaction 
+      socle: Socle commun 
+  domaine: 
+    label: Domaine 
+    type: checkboxes
+    options: query
+    query: 
+      page: domaines
+  text:
+    label: Text
+    type:  textarea

@@ -10,6 +10,10 @@ fields:
     label: Date
     type: date 
     width: 1/2
+  past: 
+    label: Passé ? 
+    type: checkbox
+    width: 1/2
   location: 
     label: Place
     type: text

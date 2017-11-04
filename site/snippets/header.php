@@ -36,6 +36,9 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#333333">
 
+    <?php date_default_timezone_set('UTC'); ?>
+    <?php setlocale(LC_TIME, "fr_FR", ""); ?>
+
   </head>
   <body>
 
