@@ -1,0 +1,41 @@
+Title: La démarche en un coup d'oeil
+
+----
+
+Text: 
+
+----
+
+Steps: 
+
+- 
+  icon: ""
+  title: "01. L'environnement de travail de la branche à horizon 2030"
+  text: |
+    *septembre 2017*
+    
+    Productions :
+    
+    (link: /lectures text: Bibliographie)
+    (link: /lenvironnement-de-la-branche text: Visions de l'avenir)
+  img: avenir.png
+- 
+  icon: ""
+  title: "02. Les compétences d'avenir"
+  text: |
+    *décembre 2017*
+    
+    Productions :
+    
+    (link: /competences text: Enjeux de compétences)
+  img: skills2.png
+- 
+  icon: ""
+  title: 03. Les métiers prioritaires
+  text: '*janvier 2018*'
+  img: man.png
+- 
+  icon: ""
+  title: 04. Les grands enjeux de formation
+  text: '*mars 2018*'
+  img: key.png

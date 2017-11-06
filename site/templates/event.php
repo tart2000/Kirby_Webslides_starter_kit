@@ -46,16 +46,37 @@
 				</p>
 			<?php endif ?>
 
+		</div>
+		<div class="wrap mb">
+			<?php if ($page->past() =='1') : ?>
+				<?php if ($page->hasChildren()) : ?>
+					<div class="wrap aligncenter">
+						<?php foreach ($page->children() as $p) : ?>
+			 				<a href="<?= $p->url() ?>" class="button ghost">
+								<?= $p->title() ?>
+							</a>
+						<?php endforeach ?>
+					</div>
+				<?php endif ?>
+			<?php endif ?>
+		</div>
+
+		<div class="wrap size-50">
 			<?= $page->text()->kirbytext() ?>
 		</div>
 
-		<?php if ($page->hasChildren()) : ?>
-			<div class="wrap aligncenter">
-				<a href="<?= $page->children()->first()->url() ?>" class="button ghost">
-					Découvrez les intervenants de la Rencontre Prospective
-				</a>
-			</div>
+		<?php if ($page->past() !='1') : ?>
+			<?php if ($page->hasChildren()) : ?>
+				<div class="wrap aligncenter">
+					<?php foreach ($page->children() as $p) : ?>
+		 				<a href="<?= $p->url() ?>" class="button ghost">
+							<?= $p->title() ?>
+						</a>
+					<?php endforeach ?>
+				</div>
+			<?php endif ?>
 		<?php endif ?>
+		
 	</section>
 </article>
 

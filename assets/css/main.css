@@ -21,6 +21,9 @@ h4 {
 figure {
   margin-bottom: 30px;
 }
+.mb {
+  margin-bottom: 50px;
+}
 .fullscreen {
     padding: 0;
 }
@@ -90,6 +93,9 @@ section p {
 }
 .card-meta {
   text-transform: capitalize;
+}
+.steps li img {
+  max-width: 75px;
 }
 /* The Overlay sliding NAV */
 

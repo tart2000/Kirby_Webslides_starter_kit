@@ -28,14 +28,6 @@ People:
   text: |
     Cécile Dejoux est Professeur des Universités en management, au Cnam  (Conservatoire national des arts et métiers) et à ESCP Europe. Elle est la fondatrice en 2015 de la Chaire partenariale "Learning Lab Human Change" du Cnam. Elle a été l’une des pionnières des MOOCs (Massive Open Online Courses). Son MOOC ‘’du Manager au Leader a enregistré plus de 145 000 inscrits (148 pays; 4 saison) sur FUN. Elle a publié plusieurs ouvrages et réalise de nombreuses conférences en entreprise sur le management à l'ère du numérique, où elle dessine un nouveau type de manager : du manager agile au leader designer.
 - 
-  title: Ghislain Delabie
-  img: delabie_ghislain.jpg
-  text: |
-    Ghislain Delabie (Telecom Bretagne, ESSEC) est un spécialiste de l'innovation et des services pour la mobilité durable, avec de nombreuses expériences à la fois comme consultant et chef de projet dans des secteurs variés (dont groupe La Poste, Deways, Techneo) : mobilité électrique (véhicules électriques et infrastructures de recharge), nouveaux services de mobilité, systèmes de mobilité partagée (covoiturage, autopartage, location P2P) et consommation collaborative.
-    Speaker, enseignant et connecteur, il contribue aujourd’hui au Lab OuiShare x Chronos.
-    Ses spécialités : financement de l'innovation, marketing des services et management de l'innovation.
-    Domaines de responsabilités : consommation collaborative, systèmes de mobilité, mobilité électrique, Smart Grids
-- 
   title: Pierre-Marie Gaillot
   img: gaillot_pierre-marie.jpg
   text: "Pierre-Marie Gaillot est responsable ‘’Industrie du Futur’’ au Cetim (Centre Technique des Industries Mécaniques). A ce titre, il accompagne des PME/PMI et des ETI/Grands Groupes dans la modernisation de leur outil de production et la digitalisation de leurs modèles d'affaire. Il contribue également à l’alliance ‘’la Fabrique de l’Industrie’’ en tant que coordinateur régional. Il est aussi support au développement de la stratégie industrielle de la start-up Athletics 3D (équipement de sportifs de haut niveau). Passionné de communication non verbale, il est Vice-président de l’Association Européenne des Synergologues."

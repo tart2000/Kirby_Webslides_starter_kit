@@ -41,10 +41,10 @@ Items:
   theurl: /les-4-etapes-de-la-fabrique-d-energies
   img: demarche.png
 - 
-  title: Bibliographie
+  title: Liens utiles
   icon: ""
-  text: Études analysées dans la démarche
-  theurl: /lectures
+  text: Pour aller plus loin
+  theurl: /liens-utiles
   img: books.png
 - 
   title: "Visions de l'avenir"

@@ -9,8 +9,8 @@ fields:
     label: Title
     type:  text
   baseline: 
-    label: Baseline 
-    type: text 
+    label: Baseline
+    type: text
   description:
     label: Description
     type:  textarea

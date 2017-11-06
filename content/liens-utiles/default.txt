@@ -1,0 +1,16 @@
+Title: Liens utiles
+
+----
+
+Text: 
+
+####Rencontre prospective du 18 octobre 2017
+
+- (link: https://www.ceciledejoux.com/ text: site Cécile Dejoux - intervenante de la Rencontre Prospective du 18 octobre 2017)
+- (link: http://www.economiedenergie.fr/ text: site d’Economie d’Energie SAS, entreprise créée en 2011 par Myriam Maestroni -
+ intervenante de la Rencontre Prospective du 18 octobre 2017) 
+- (link: https://hacktivateurs.co/ text: Association de ‘Corporate hackers’ cofondée par Fabrice Poussière - intervenant de la Rencontre Prospective du 18 octobre 2017)
+- (link: https://www.ideo.com/ text: Entreprise leader dans le design au service de l’innovation)
+- (link: http://atlasofemotions.org/ text: l’atlas des émotions, en considération de compétences liées à l’intelligence émotionnelle, ou la capacité de créer des état émotionnels ‘’ressources’’)
+- (link: http://observatoire-electricite.fr/fiches-pedagogiques/article/la-blockchain-et-l-energie text: Pour en savoir plus sur la blockchain dans les énergies)
+- (link: http://rev3.fr/ text: La 3ème révolution industrielle dans les Hauts de France - inspirée par Jeremy Rifkin - pour en savoir plus sur l’industrie du futur)

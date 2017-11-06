@@ -1,16 +1,9 @@
-Title: Rencontre prospective
+Title: Retrouvez le programme
 
 ----
 
 Text: 
 
-#####La Rencontre Prospective du 18 octobre sera l’occasion d’explorer les enjeux d’avenir et les compétences associées avec des intervenants issus de la branche ou d’autres univers.
-Le format d’animation retenu sera résolument dynamique et interactif.
-Pour la qualité des échanges, elle réunira seulement une cinquantaine de participants.
-
-<hr>
-
-####Programme
 #####"La Fabrique d'Énergies : enjeux d’avenir et nouvelles compétences pour les industries électriques et gazières" 
 
 #####8H30 - Accueil café
@@ -36,16 +29,9 @@ Trois experts apportent leurs vision et expérience des principaux enjeux techno
 - **Pierre-Marie Gaillot** - Développeur de l’Industrie du Futur au sein du Cetim (Centre technique des industries mécaniques), contributeur de l’alliance ‘’La Fabrique de l’Industrie’’ (robotisation, Intelligence artificielle..), Vice-président de l'Association Européenne des Synergologues
 - **Claire Balva** - Cofondatrice et présidente de Blockchain Partner, leader français de l'accompagnement sur les technologies blockchain, membre fondateur de l’association ChainTech, qui rassemble et représente les acteurs francophones de la technologie blockchain.
  
-#####11H10 – Pause-café, networking, astonishing wall
- 
-La deuxième partie de la matinée est consacrée 
-aux thèmes plus techniques, propres au secteur des énergies.
- 
 #####11H30 - Séquence 3 : Les boucles courtes : évolution de la demande des clients et des territoires
-Une table ronde réunit deux personnalités complémentaires (énergie et économie du partage).
 
 - **Olivier Cateura** - Professeur associé à Grenoble Ecole de Management, en management stratégique et management de l’énergie, expert de la transition énergétique et de l’internet de l’énergie
-- **Ghislain Delabie** - Explorateur au sein du Lab Ouishare x Chronos, spécialiste de l’innovation et du marketing des services, de l’économie collaborative et de la mobilité durable, grâce à de nombreuses expériences comme consultant et chef de projet (notamment au sein du  groupe La Poste),
  
 #####12H10 - Séquence 4 : Smart cities : enjeux et opportunités pour les énergies
 Deux intervenants (gaz, électricité) croisent leur vision des smart cities et de leurs complexités, ainsi que  leur expérience des écosystèmes qui se construisent dans les territoires.
@@ -56,28 +42,3 @@ Deux intervenants (gaz, électricité) croisent leur vision des smart cities et 
 #####13H00 - Buffet convivial - networking - astonishing wall
  
 #####14H00 - Fin de la Rencontre Prospective
-
-<hr>
-
-Ce programme a été établi à l’issue de la (link: http://ieg.copoe.com/lenvironnement-de-la-branche text: première phase de la démarche)
-
-Rendez-vous au Schoolab (accélérateur de projets innovants et de startups)
-21 Rue de Cléry, 75002 Paris, de 9H à 14H00
-
-(image: map.png link: https://www.google.fr/maps/dir/''/21+Rue+de+Cl%C3%A9ry,+75002+Paris/data=!4m5!4m4!1m0!1m2!1m1!1s0x47e66e17cfbb5ba5:0x6c1bf733e8b3339e?sa=X&ved=0ahUKEwiEuYKZpMbWAhXkIcAKHfXbBzAQwwUIKTAA)
-
-----
-
-Date: 2017-10-18
-
-----
-
-Location: Schoolab, Paris
-
-----
-
-Unsplash: d7CZYeWZyzc
-
-----
-
-Past: 1

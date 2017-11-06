@@ -6,7 +6,7 @@
 	  	<!-- qQwxU7NJWTI ville nuit lumières -->
 		<!-- previous yETqkLnhsUI pylones sur fond campagne -->
 
-	  <div class="hp wrap size-50">	    
+	  <div class="hp wrap size-40">	    
 	    <img src="<?= $site->url() ?>/assets/images/logo_fab_s.png" alt="<?= $site->title() ?>">
 	    <?= $site->baseline()->kirbytext() ?>
 	    <img id="logo_ieg" src="<?= $site->url() ?>/assets/images/logo_ieg.png">
@@ -16,8 +16,8 @@
 
 	<section>
 		<div class="wrap">
-			<img class="alignright size-30" src="<?= $site->url() ?>/assets/images/atelier.jpg" alt="atelier">
-			<?= $site->description()->kirbytext() ?>
+			<img class="alignright size-30" src="<?= $page->images()->first()->url() ?>" alt="atelier">
+			<?= $page->text()->kirbytext() ?>
 			<a class="button" href="/edito">Édito</a>
 		</div>
 		<!-- Mettre une illustration ici -->
@@ -38,6 +38,9 @@
 
 	    <?php elseif ($s->template() == 'icons-slide') : ?> 
 	      <?php snippet('icons-slide', array('s' => $s)) ?>
+
+	     <?php elseif ($s->template() == 'steps-slide') : ?> 
+	      <?php snippet('steps-slide', array('s' => $s)) ?>
 
 	    <?php endif ?>
 	<?php endforeach ?>
