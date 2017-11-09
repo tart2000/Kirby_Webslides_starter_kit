@@ -88,6 +88,10 @@ section p {
 .effects .features li h2 {
   color: #62b;
 }
+.competences h3 {
+  font-size: 2rem !important;
+  font-weight: 400 !important;
+}
 .meta-etude {
   padding-left: 83px;
 }

@@ -1,8 +1,14 @@
-Title: Competences
+Title: Compétences
 
 ----
 
-Text: Ci-dessous la liste des compétences identifiées
+Text: 
+
+Les profondes transformations technologiques, sociétales et organisationnelles répertoriées lors de la première étape de la démarche appellent de nouvelles compétences : techniques métier, capacités d’évolution et d’interaction, socle commun de connaissances et de compétences pour évoluer au sein des IEG.
+
+C’est l’objet de la deuxième phase de la Fabrique d’Energies, avec deux modalités de travail : 
+- La Rencontre Prospective du 18 octobre 2017 : neuf intervenants, experts et professionnels du secteur des énergies,sont venus partager leurs visions et expériences sur des thématiques que les acteurs de la démarche souhaitaient approfondir, et ont inspiré une soixantaine de compétences nouvelles 
+- L’Atelier Compétences du 7 novembre 2017 : à partir des travaux précédents, éclaireurs et membres du GTP (lien acteurs de la démarche) ont construit le Panorama des compétences à développer pour sept domaines professionnels définis comme prioritaires (sur les 23 domaines de la branche).
 
 ----
 

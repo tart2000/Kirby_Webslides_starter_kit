@@ -45,7 +45,7 @@ Items:
   icon: ""
   text: Pour aller plus loin
   theurl: /liens-utiles
-  img: books.png
+  img: links.png
 - 
   title: "Visions de l'avenir"
   icon: ""

@@ -2,13 +2,16 @@
 
 <article>
 	<section>
-		<div class="wrap effects">
+		<div class="wrap competences">
 			<h2><?= $page->title() ?></h2>
 			<?= $page->text()->kirbytext() ?>
 			
+			<b><i class="fa fa-filter"></i> Filtrer :</b>
 			<?php foreach (page('domaines')->children() as $d) : ?>
 				<div id="<?= $d->uid() ?>" class="toggle"><?= $d->title() ?></div>
 			<?php endforeach ?>
+			<div id="socle-commun" class="toggle">Socle commun</div>
+			<div id="star" class="toggle">Compétences clés</div>
 			<div id="show-all" class="toggle">Voir tout</div>
 
 			<!-- Séparer les techniques métiers et capacités -->
@@ -18,11 +21,17 @@
 					<?php $domaines = $p->domaine()->split() ?>
 					<li class="competence <?php foreach ($domaines as $dom) { 
 						echo $dom.' ';
-					} ?>">
+					} ?> <?php if ($p->star() == '1') {
+						echo 'star';
+					} ?> <?= $p->categories() ?>
+					">
 				        <div>
-				          <h2><?= $p ->title() ?></h2>
-				          <hr>
-				          <?= $p->text()->kirbytext() ?>
+				          <h3>
+				          	<?php if ($p->star() == '1') : ?>
+				          		<i class="fa fa-star"></i>
+				          	<?php endif ?>
+				          	<?= $p ->title() ?>		
+				          </h3>
 						  <p class="subtle">Catégorie : <?= $p->categories() ?></p> 
 				        </div>
 				      </li>
