@@ -5,6 +5,8 @@
 		<div class="wrap competences">
 			<h2><?= $page->title() ?></h2>
 			<?= $page->text()->kirbytext() ?>
+
+			<hr>
 			
 			<b><i class="fa fa-filter"></i> Filtrer :</b>
 			<?php foreach (page('domaines')->children() as $d) : ?>
@@ -17,7 +19,7 @@
 			<!-- Séparer les techniques métiers et capacités -->
 
 			<ul class="flexblock features">
-				<?php foreach ($page->children() as $p) : ?>
+				<?php foreach ($page->children()->sortBy('categories') as $p) : ?>
 					<?php $domaines = $p->domaine()->split() ?>
 					<li class="competence <?php foreach ($domaines as $dom) { 
 						echo $dom.' ';
@@ -32,7 +34,15 @@
 				          	<?php endif ?>
 				          	<?= $p ->title() ?>		
 				          </h3>
-						  <p class="subtle">Catégorie : <?= $p->categories() ?></p> 
+
+				          <?php if ($p->categories() == 'capacite') : ?>
+				          	<div class="tag capacite">Capacités d'évolution et d'interaction</div>
+				          <?php elseif ($p->categories() == 'metier') : ?>
+				          	<div class="tag metier">Technique Métier</div>
+				          <?php else : ?>
+				          	<div class="tag socle">Socle commun</div>
+				          <?php endif ?>
+
 				        </div>
 				      </li>
 				<?php endforeach ?>

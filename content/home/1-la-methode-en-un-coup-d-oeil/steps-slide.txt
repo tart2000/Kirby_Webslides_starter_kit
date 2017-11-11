@@ -14,6 +14,8 @@ Steps:
   text: |
     *septembre 2017*
     
+    (link: /events/atelier-d-appropriation text: Atelier d'appropriation)
+    
     Productions :
     
     (link: /lectures text: Bibliographie)
@@ -24,6 +26,9 @@ Steps:
   title: "02. Les compétences d'avenir"
   text: |
     *décembre 2017*
+    
+    (link: /events/rencontre-prospective text: Rencontre prospective)
+    (link: /events/atelier-competences text: Atelier compétences)
     
     Productions :
     
@@ -36,6 +41,6 @@ Steps:
   img: man.png
 - 
   icon: ""
-  title: 04. Les grands enjeux de formation
+  title: 04. Les orientations de formation
   text: '*mars 2018*'
   img: key.png

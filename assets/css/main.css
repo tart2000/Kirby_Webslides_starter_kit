@@ -92,6 +92,31 @@ section p {
   font-size: 2rem !important;
   font-weight: 400 !important;
 }
+.competence>div {
+  padding-bottom: 25px;  
+}
+.tag {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  left: 0%;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 1.3rem;
+  text-align: center;
+}
+.tag.metier {
+  background-color: #3498db;
+  color: white; 
+}
+.tag.capacite {
+  background-color: #9b59b6;
+  color: white;
+}
+.tag.socle {
+  background-color: #34495e;
+  color: white;
+}
 .meta-etude {
   padding-left: 83px;
 }

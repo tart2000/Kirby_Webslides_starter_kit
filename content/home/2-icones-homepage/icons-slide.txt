@@ -46,11 +46,3 @@ Items:
   text: Pour aller plus loin
   theurl: /liens-utiles
   img: links.png
-- 
-  title: "Visions de l'avenir"
-  icon: ""
-  text: >
-    L’environnement de la branche à
-    horizon 2030
-  theurl: /lenvironnement-de-la-branche
-  img: avenir.png
