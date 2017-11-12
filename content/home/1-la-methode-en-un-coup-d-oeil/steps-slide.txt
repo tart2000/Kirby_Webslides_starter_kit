@@ -14,9 +14,11 @@ Steps:
   text: |
     *septembre 2017*
     
+    **Modalités participatives :**
+    
     (link: /events/atelier-d-appropriation text: Atelier d'appropriation)
     
-    Productions :
+    **Productions :**
     
     (link: /lectures text: Bibliographie)
     (link: /lenvironnement-de-la-branche text: Visions de l'avenir)
@@ -27,10 +29,12 @@ Steps:
   text: |
     *décembre 2017*
     
+    **Modalités participatives :**
+    
     (link: /events/rencontre-prospective text: Rencontre prospective)
     (link: /events/atelier-competences text: Atelier compétences)
     
-    Productions :
+    **Productions :**
     
     (link: /competences text: Enjeux de compétences)
   img: skills2.png

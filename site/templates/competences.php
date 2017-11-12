@@ -35,10 +35,15 @@
 				          	<?= $p ->title() ?>		
 				          </h3>
 
+				          <?php $count = 0 ?>
+						  <?php foreach ($domaines as $dom) : ?>
+						  	<?php $count++ ?>
+						  <?php endforeach ?>
+
 				          <?php if ($p->categories() == 'capacite') : ?>
-				          	<div class="tag capacite">Capacités d'évolution et d'interaction</div>
+				          	<div class="tag capacite"><i class="fa fa-database"></i> <?= $count ?> | Capacités d'évolution et d'interaction</div>
 				          <?php elseif ($p->categories() == 'metier') : ?>
-				          	<div class="tag metier">Technique Métier</div>
+				          	<div class="tag metier"><i class="fa fa-database"></i> <?= $count ?> | Technique Métier</div>
 				          <?php else : ?>
 				          	<div class="tag socle">Socle commun</div>
 				          <?php endif ?>
