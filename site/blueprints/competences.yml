@@ -1,6 +1,8 @@
 title: Competences
 pages: 
-  template: Competence
+  template: 
+    - Competence
+    - Comp-slide
 files: false
 fields:
   title:

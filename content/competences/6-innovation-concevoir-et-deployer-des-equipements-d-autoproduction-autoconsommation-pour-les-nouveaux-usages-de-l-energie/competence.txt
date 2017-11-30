@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Innovation - Concevoir et déployer des équipements d'autoproduction / autoconsommation pour les nouveaux usages de l'énergie
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, automatismes, marketing
+
+----
+
+Family: energie
+
+----
+
+Description: Les perspectives de développement de l'auto-production / auto-consommation, individuelle ou collective, ouvrent une nouvelle maille d’analyse micro-locale. Les solutions à construire constituent un changement de métier important puisqu’elles exigent des Business Units de travailler sur des projets plus courts et à plus petite échelle, qui nécessitent une grande agilité opérationnelle. On parle alors de ''Small Scale Energy''. Le modèle d'affaires en est également impacté, car il doit prendre en compte, au-delà des volumes d’énergies consommés, de nouveaux indicateurs tels que l’origine de l'énergie renouvelable, sa traçabilité, etc...

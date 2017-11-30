@@ -24,3 +24,15 @@ fields:
     options: query
     query: 
       page: domaines
+    width: 1/2 
+  family: 
+    label: Famille 
+    type: select
+    width: 1/2 
+    options: 
+      energie: Transition énergétique 
+      innovation: Innovation technologique 
+      socio: Transformations socio-économiques 
+  description: 
+    label: Description
+    type: textarea 

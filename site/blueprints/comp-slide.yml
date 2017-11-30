@@ -1,0 +1,7 @@
+title: Competence-slides
+pages: false 
+files: false
+fields:
+  title:
+    label: Nom
+    type:  text

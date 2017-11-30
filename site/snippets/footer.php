@@ -12,7 +12,7 @@
 <?= js('assets/js/main.js') ?>
 
 
-<?php if ($page->template() == 'slideshow') : ?>
+<?php if ($page->template() == 'slideshow' || $page->template() == 'comp-slide') : ?>
 	<script>
 	 	window.ws = new WebSlides(); 
 	</script>

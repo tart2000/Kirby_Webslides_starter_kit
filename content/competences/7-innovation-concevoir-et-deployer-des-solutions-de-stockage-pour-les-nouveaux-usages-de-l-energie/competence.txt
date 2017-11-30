@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Innovation - Concevoir et déployer des solutions de stockage pour les nouveaux usages de l'énergie
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, automatismes
+
+----
+
+Family: energie
+
+----
+
+Description: Les exigences de flexibilité dans les nouveaux usages de l'énergie (foisonnement, intermittence, etc) rendent primordiaux le management de la "demand side" et la gestion des moyens de stockage de l'électricité (et secondairement du gaz). Des expertises sont nécessaires, en fonction de la maturité des technologies de stockage (conversion de puissance, batterie,...). A l'horizon 2030, le développement de parcs de véhicules électriques permet d'envisager des solutions innovantes: "vehicle-to-home", "vehicle-to-grid".

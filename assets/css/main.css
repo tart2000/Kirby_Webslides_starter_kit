@@ -43,6 +43,9 @@ figure {
 #logo_ieg {
   margin-top: 30px;
 }
+a.button {
+  margin-bottom: 15px;
+}
 ul, ol {
   margin-bottom: 30px;
 }
@@ -92,7 +95,7 @@ section p {
   font-size: 2rem !important;
   font-weight: 400 !important;
 }
-.competence>div {
+.competence>a {
   padding-bottom: 25px;  
 }
 .tag {
@@ -104,19 +107,9 @@ section p {
   padding-right: 10px;
   font-size: 1.3rem;
   text-align: center;
+  background-color: #ecf0f1;
 }
-.tag.metier {
-  background-color: #3498db;
-  color: white; 
-}
-.tag.capacite {
-  background-color: #9b59b6;
-  color: white;
-}
-.tag.socle {
-  background-color: #34495e;
-  color: white;
-}
+
 .meta-etude {
   padding-left: 83px;
 }
