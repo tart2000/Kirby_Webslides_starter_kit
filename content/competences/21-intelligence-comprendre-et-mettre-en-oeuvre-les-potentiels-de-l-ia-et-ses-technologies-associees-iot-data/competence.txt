@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Intelligence - Comprendre et mettre en oeuvre les potentiels de l'IA et ses technologies associées (IOT/Data)
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: automatismes, donnees
+
+----
+
+Family: innovation
+
+----
+
+Description: L'Intelligence Artificielle (IA) ouvre des potentialités immenses, en matière de connaissance des clients, personnalisation des services, gestion des flux... Il s'agit donc de mettre en oeuvre ces potentialités au service des activités (commerce, exploitation, réseaux, sécurité,...), en maîtrisant les métiers de la donnée (data-scientists, data-analysts, data-visualisers, juristes..), de la robotique et des interfaces conversationnelles, du machine learning, de l'Internet des objets, de cyber...

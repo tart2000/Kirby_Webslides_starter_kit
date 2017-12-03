@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Digital - Maîtriser les outils numériques applicables à son métier
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, maintenance, automatismes, donnees, marketing, management
+
+----
+
+Family: innovation
+
+----
+
+Description: Les technologies numériques transforment en profondeur l'ensemble des activités : la relation-client (cf marketing digital, SEO, community management, UX design, gestion de l'e-réputation; mobile, data marketing...), la R&D et l'ingénierie (simulation numérique), les transactions (blockchain), le pilotage intelligent de bâtiments (Building Information Modeling, de la conception à la déconstruction) les process et les équipements, comme les fonctions supports (i.e. juridique appliqué aux activités numériques, dématérialisation,...).. Pour accompagner cette transformation, il convient, d'une part d'intégrer dans ses pratiques les outils numériques propres à son métier (y compris, pour certains domaines, les robots ou interfaces conversationnelles), et d'autre part de rester en veille sur les opportunités offertes par la digitalisation.

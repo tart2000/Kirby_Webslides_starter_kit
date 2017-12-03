@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Sécurité - Protéger les installations industrielles et les réseaux
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, automatismes, donnees
+
+----
+
+Family: energie
+
+----
+
+Description: Plusieurs phénomènes accroissent les risques sécurité : la fragmentation et l'interconnexion des réseaux, la numérisation des activités, les actes d'atteinte à des installations dispersées sur le territoire et de hacking (local, national, international), … De nouvelles exigences se font jour, nécessitant des expertises spécifiques pour les installations industrielles et les réseaux, ces expertises devant être mises à jour en continu.

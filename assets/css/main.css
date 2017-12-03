@@ -96,7 +96,30 @@ section p {
   font-weight: 400 !important;
 }
 .competence>a {
+  padding-top: 25px;
   padding-bottom: 25px;  
+}
+.card-header {
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  width: 100%;
+  font-size: 1.3rem;
+  text-align: center;
+  display: block;
+  border-bottom: solid 1px #ecf0f1;
+}
+.card-header.socio {
+  color: #f1c40f;
+}
+.card-header.innovation {
+  color: #e67e22;
+}
+.card-header.energie {
+  color: #e74c3c;
 }
 .tag {
   position: absolute;
@@ -109,7 +132,12 @@ section p {
   text-align: center;
   background-color: #ecf0f1;
 }
-
+.comp h3 {
+  margin-top: 50px;
+}
+.comp .card-header {
+  padding-bottom: 8px;
+}
 .meta-etude {
   padding-left: 83px;
 }

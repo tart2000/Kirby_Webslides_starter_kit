@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Sécurité - Assurer la sécurité des systèmes d'information et des données complexes
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: automatismes, donnees
+
+----
+
+Family: innovation
+
+----
+
+Description: L'interconnexion des réseaux (physiques et digitaux), la complexité croissante du traitement de l'information, en lien notamment avec les objets connectés, l'apparition de nouveaux protocoles comme la Blockchain, augmentent les risques de sécurité. La fonction Data Protection (Data Protection Officer) maîtrise l'Ingénierie système et l'architecture de systèmes, met en place des dispositifs de sécurité adaptés et garantit la résilience des systèmes, dans les nouveaux environnements de l'énergie (Internet de l'énergie et services hyperconnnectés), en conformité avec le RGPD (Règlement Européen sur la Proetction des Données).

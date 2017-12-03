@@ -13,10 +13,12 @@
 				<div id="<?= $d->uid() ?>" class="toggle"><?= $d->title() ?></div>
 			<?php endforeach ?>
 			<div id="socle-commun" class="toggle">Socle commun</div>
+			<!-- Viré les étoiles 
 			<div id="star" class="toggle">Compétences clés</div>
+			-->
 			<div id="show-all" class="toggle">Voir tout</div>
 
-			<!-- Séparer les techniques métiers et capacités -->
+			<!-- Ajouter couleurs sur cartes + icones familles -->
 
 			<ul class="flexblock features">
 				<?php foreach ($page->children()->filterBy('template','competence')->sortBy('family') as $p) : ?>
@@ -30,12 +32,22 @@
 					">
 						<a href="/competences/competences#slide=<?= $p->num() ?>">
 					        <div>
-					          <h3>
-					          	<?php if ($p->star() == '1') : ?>
-					          		<i class="fa fa-star"></i>
-					          	<?php endif ?>
-					          	<?= $p ->title() ?>		
-					          </h3>
+					        	<div class="card-header <?= $p->family() ?>">
+					        		<?php if ($p->family() == "energie") {
+					        			echo '<i class="fa fa-flash"></i> '.' Transition énergétique';
+					        		} else if ($p->family() == "innovation") {
+					        			echo '<i class="fa fa-lightbulb-o"></i> '.' Accélération de l\'innovation technologique';
+					        		} else if ($p->family() == "socio") {
+					        			echo '<i class="fa fa-line-chart"></i> '.' Transitions socio-économiques';
+					        		} ?>
+					        	</div>
+						        <h3>
+						        	<?= $p->num() ?> - 
+						          	<?php if ($p->star() == '1') : ?>
+						          		<i class="fa fa-star"></i>
+						          	<?php endif ?>
+						          	<?= $p ->title() ?>		
+						        </h3>
 
 					          <?php $count = 0 ?>
 							  <?php foreach ($domaines as $dom) : ?>

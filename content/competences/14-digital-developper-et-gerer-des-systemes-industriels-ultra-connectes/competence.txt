@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Digital - Développer et gérer des systèmes industriels ultra-connectés
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: maintenance, automatismes, donnees
+
+----
+
+Family: innovation
+
+----
+
+Description: La mise en réseau (infrastructures et distribution) et la mise en données (statistiques et mathématiques appliquées) créent ensemble de la valeur. Systèmes industriels et automatismes se transforment, avec l'intégration du fonctionnement des marchés, de la maintenance prédictive, des outils de pilotage à distance, appelant des expertises dédiées, couplées à une culture générale du pilotage de données.

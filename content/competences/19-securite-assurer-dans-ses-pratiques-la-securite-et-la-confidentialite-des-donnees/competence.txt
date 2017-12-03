@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Sécurité - Assurer dans ses pratiques la sécurité et la confidentialité des données
+
+----
+
+Star: 0
+
+----
+
+Categories: socle-commun
+
+----
+
+Domaine: 
+
+----
+
+Family: innovation
+
+----
+
+Description: Les outils numériques donnent la possibilité à chaque collaborateur d'accéder à un très grand nombre d'informations, d'échanger avec de multiples interlocuteurs, de partager des données de différentes natures. La compréhension des risques liés aux partages de données est déterminante, pour que chacun dans ses pratiques quotidiennes identifie le bon niveau de sécurité et de confidentialité de ses données, qu'elles soient individuelles ou collectives.

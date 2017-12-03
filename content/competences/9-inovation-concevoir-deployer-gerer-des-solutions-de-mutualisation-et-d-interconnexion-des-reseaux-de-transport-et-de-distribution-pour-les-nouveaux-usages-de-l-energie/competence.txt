@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Inovation - Concevoir, déployer, gérer des solutions de mutualisation et d'interconnexion des réseaux de transport et de distribution pour les nouveaux usages de l'énergie
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, automatismes
+
+----
+
+Family: energie
+
+----
+
+Description: Les nouveaux usages de l'énergie entraînent une disparité des périmètres, du national au très local, la disparité des échelles, du collectif à l’individu, l’émergence de nouveaux systèmes décentralisés à l’extrême, mais en coexistence avec des systèmes réticulaires. En parallèle des grosses unités de production et de distribution s'organisent des réseaux locaux fragmentés.  Ces réseaux réclament des solutions multiples, flexibles, qui touchent de nombreuses activités : construction, installation, exploitation de sites et de réseaux, ingénierie, infrastructures de transport multimodales, systèmes d’information, modèles de financements...

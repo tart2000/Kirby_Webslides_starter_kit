@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Intelligence - Assurer la maintenance, le contrôle des commandes et le monitoring de l'information des équipements intelligents
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, maintenance, automatismes, donnees
+
+----
+
+Family: innovation
+
+----
+
+Description: La maintenance des équipements intelligents est le domaine du technicien 3.0. Celui-ci connaît les conditions de maintenance des équipements (appareillages, capteurs et SIT, …), il pilote le monitoring de l'information d'exploitation, il collecte et analyse les données de contrôle (alertes, anomalies, défauts, …), il traite les données de maintenance prédictive, il est polyvalent dans la maintenance des réseaux et peut même piloter des drones.

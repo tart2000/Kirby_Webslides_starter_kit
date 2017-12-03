@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Smart City - Concevoir des équipements et des services pour la smart city
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, donnees
+
+----
+
+Family: energie
+
+----
+
+Description: Les smart cities voient exploser les nouveaux usages énergétiques : production autonome par immeuble ou ilôts, échange d'électricité d’un immeuble à l’autre en cas de besoin (transactions sécurisées fondées sur une infrastructure informatique utilisant la blockchain), optimisation des réseaux de chaleur, iréseaux de rechargement des véhicules gaz et électriques. Les nouveaux espaces de déploiement des technologies conduisent les acteurs à sortir du strict champ énergétique. Ils doivent insérer leurs offres dans un bouquet de services répondant aux besoins d'ensemble de la smart city (et smart home) : mobilité, Facility Management (maintenance technique et services complémentaires), BPO (Business Process Outsourcing - solutions d'externalisation pour améliorer la performance de services publics). Il s'agit pour les professionnels, non seulement d'équiper les réseaux autonomes d'énergie, de concevoir, installer, piloter, maintenir ces dispositifs innovants, mais aussi de co-construire et coordonner des activités nouvelles reposant sur des prestataires multiples.
