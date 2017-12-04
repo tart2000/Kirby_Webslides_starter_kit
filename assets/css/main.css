@@ -111,15 +111,16 @@ section p {
   text-align: center;
   display: block;
   border-bottom: solid 1px #ecf0f1;
+  font-weight: 500;
 }
 .card-header.socio {
-  color: #f1c40f;
+  color: #9b59b6;
 }
 .card-header.innovation {
-  color: #e67e22;
+  color: #3498db;
 }
 .card-header.energie {
-  color: #e74c3c;
+  color: #e67e22;
 }
 .tag {
   position: absolute;
@@ -131,6 +132,10 @@ section p {
   font-size: 1.3rem;
   text-align: center;
   background-color: #ecf0f1;
+}
+.toggle.cat {
+  background-color: #95a5a6;
+  color: #efefef;
 }
 .comp h3 {
   margin-top: 50px;

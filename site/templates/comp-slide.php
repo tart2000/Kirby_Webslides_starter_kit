@@ -17,11 +17,11 @@
 				<?= $c->description()->kirbytext() ?>
 
 				<?php if ($c->categories() == 'capacite') : ?>
-					<div class="toggle">
+					<div class="toggle cat">
 		          		Capacités d'évolution et d'interaction
 		          	</div>
 	          	<?php elseif ($c->categories() == 'metier') : ?>
-	          		<div class="toggle">
+	          		<div class="toggle cat">
 	          			Technique Métier	
 	          		</div>
 	          	<?php endif ?>
@@ -35,7 +35,7 @@
 					<?php endforeach ?>
 				<?php endif ?>
 				<?php if ($c->categories() == "socle-commun") : ?>
-					<div class="toggle">
+					<div class="toggle cat">
 						Socle commun
 					</div>
 				<?php endif ?>

@@ -12,7 +12,10 @@
 			<?php foreach (page('domaines')->children() as $d) : ?>
 				<div id="<?= $d->uid() ?>" class="toggle"><?= $d->title() ?></div>
 			<?php endforeach ?>
-			<div id="socle-commun" class="toggle">Socle commun</div>
+			<div id="metier" class="toggle cat">Techniques métiers</div>
+			<div id="capacite" class="toggle cat">Capacités d'évolution</div>
+			<div id="socle-commun" class="toggle cat">Socle commun</div>
+
 			<!-- Viré les étoiles 
 			<div id="star" class="toggle">Compétences clés</div>
 			-->
@@ -56,9 +59,9 @@
 
 							  <div class="tag">
 						          <?php if ($p->categories() == 'capacite') : ?>
-						          	Capacités d'évolution et d'interaction | <i class="fa fa-th-list"></i> <?= $count ?> domaines
+						          	Capacités d'évolution et d'interaction | <i class="fa fa-th-list"></i> <?= $count ?> domaine<?php e($count>1,'s') ?>
 						          <?php elseif ($p->categories() == 'metier') : ?>
-						          	Technique Métier | <i class="fa fa-th-list"></i> <?= $count ?> Domaines
+						          	Technique Métier | <i class="fa fa-th-list"></i> <?= $count ?> Domaine<?php e($count>1,'s') ?>
 						          <?php else : ?>
 						          	Socle commun
 						          <?php endif ?>
