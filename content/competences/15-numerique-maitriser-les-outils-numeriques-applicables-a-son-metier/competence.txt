@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: 17 - Numérique | Maîtriser les outils numériques applicables à son métier
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, maintenance, automatismes, donnees, marketing, management
+
+----
+
+Family: innovation
+
+----
+
+Description: 
+
+**Digitaliser - S'adapter - S'approprier**
+
+Les technologies numériques transforment la relation-client (marketing digital, community management, gestion de l'e-réputation; mobile,...), la R&D et l'ingénierie (simulation numérique), les transactions (blockchain), le pilotage intelligent de bâtiments, ainsi que les fonctions supports (i.e. juridique appliqué aux activités numériques, dématérialisation,...).. A chacun d'intégrer dans ses pratiques les outils numériques propres à son métier, dont la réalité augmentée, y compris, pour certains domaines, les robots ou interfaces conversationnelles, et de rester en veille sur les nouvelles opportunités offertes par le digital et adapter sa pratique aux evolutions fonctionnelles.

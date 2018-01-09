@@ -3,17 +3,13 @@
 <?php if ($page->depth() > 1) : ?>
 
 	<a href="<?= $page->parent()->url() ?>" class="burger">
-	  <svg class="fa-arrow-left">
-	    <use xlink:href="#fa-arrow-left"></use>
-	  </svg>
+		<i class="fa fa-arrow-left"></i>
 	</a>
 
 <?php else : ?>
 
 	<a href="<?= $site->url() ?>" class="burger">
-	  <svg class="fa-home">
-	    <use xlink:href="#fa-home"></use>
-	  </svg>
+		<i class="fa fa-home"></i>
 	</a>
 
 <?php endif ?>

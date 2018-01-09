@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: 19 - Intelligence artificielle | Être capable de comprendre et mettre en oeuvre les potentialités de l'IA et des technologies associées (IOT/Data)
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: automatismes, donnees
+
+----
+
+Family: innovation
+
+----
+
+Description: 
+
+**Valider - Réagir - Vulgariser - Accompagner**
+
+L'Intelligence Artificielle ouvre des potentialités immenses en matière de connaissance des clients, de personnalisation des services, de gestion des flux... Il s'agit de mettre en œuvre ces potentialités au service des activités (commerce, exploitation, réseaux, sécurité,...), en maîtrisant les métiers de la donnée (data-scientists, data-analysts, data-visualisers, juristes..), de la robotique et des interfaces conversationnelles, du machine-learning, de l'Internet des objets, dans le respect de la règlementation en vigueur sur la protection des données. ...L'IA nécessite des compétences relatives aux langages, algorythmes, compilateurs et la capacité à confronter les résultats et réagir en situation inattendue.

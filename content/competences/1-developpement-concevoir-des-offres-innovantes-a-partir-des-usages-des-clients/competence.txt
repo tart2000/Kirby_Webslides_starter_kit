@@ -2,7 +2,7 @@ Prevnext:
 
 ----
 
-Title: Développement - Concevoir des offres innovantes à partir des usages des clients
+Title: 1 - Développement d'affaires | Être capable de concevoir des offres innovantes à partir des usages des parties-prenantes (clients, fournisseurs, territoires, ...)
 
 ----
 
@@ -14,7 +14,7 @@ Categories: metier
 
 ----
 
-Domaine: marketing
+Domaine: ingenierie, marketing
 
 ----
 
@@ -22,4 +22,9 @@ Family: energie
 
 ----
 
-Description: Sous l'effet combiné de la libéralisation et de la transition (déploiement de "smart meters"), le consommateur gagne en pouvoir et diversifie ses attentes, qu'il soit un particulier "consomm'acteur" soucieux de mettre en accord ses convictions et ses comportements, ou une organisation préoccupée de sa Responsabilité Sociale. Le modèle des industries de l‘énergie se transforme, tournant la page des solutions "top down" (chaîne d’approvisionnement d'un produit uniforme à délivrer) pour designer des offres au plus près du client. Il s'agit notamment de passer d'offres de "produits" à des offres "d'usages", de développer la culture client, de co-construire des offres innovantes à partir des usages ("design thinking"), d'intégrer dans le marketing des arguments environnementaux et sociétaux, …
+Description: 
+
+**Ecouter - Identifier - Construire**
+
+Dans le nouveau paysage énergétique, le comportement des consommateurs est en constante évolution, qu'ils soient des ménages ""consomm'acteurs"" ou des entreprises préoccupées de leur responsabilité sociale et de leurs dépenses énergétiques. Il s'agit de transformer l'expérience client à mesure de l’évolution des attentes, de co-construire des offres innovantes et solutions dans l'efficacité énergétique, à partir des usages clients (""design thinking""), d'intégrer dans le marketing des arguments environnementaux et sociétaux, …
+Il faudra également être capable d'intégrer les besoins des territoires, qui vont avoir de plus en plus de responsabilité dans la gestion de l'énergie et devenir de fait des interlocuteurs privilégiés.

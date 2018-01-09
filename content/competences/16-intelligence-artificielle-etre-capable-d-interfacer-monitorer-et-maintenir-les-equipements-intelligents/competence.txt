@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: 18 - Intelligence artificielle | Être capable d'interfacer, monitorer et maintenir les équipements intelligents
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, maintenance, automatismes, donnees
+
+----
+
+Family: innovation
+
+----
+
+Description: 
+
+**Interfacer - Analyser - Anticiper**
+
+Les équipements intelligents (appareillages, capteurs, drones, ...) demandent technicité, polyvalence et autonomie dans leur interfaçage, leur monitoring et leur maintenance. L'analyse des données produites couvre les champs prédictif et curatif (anomalies, alertes, défauts).

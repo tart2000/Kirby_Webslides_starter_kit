@@ -1,0 +1,30 @@
+Prevnext: 
+
+----
+
+Title: 7 - Innovation | Être capable de concevoir et déployer des solutions de stockage d'énergie
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, automatismes
+
+----
+
+Family: energie
+
+----
+
+Description: 
+
+**Evaluer - Modéliser - Intégrer**
+
+Les productions intermittentes (photovoltaïque, éolien) et les consommations variables impliquent de développer des moyens de stockage d’énergie. Le développement de nouveaux moyens de mobilité permet également de solliciter leurs réserves d'énergie. Des expertises technique et économique sont nécessaires, en fonction de la maturité des technologies de stockage. 
+Outre la conception de nouveaux moyens de stockage, il convient de connaître l'étendue des technologies offertes, de savoir en évaluer les bénéfices pour faire les bons choix technologiques et dimensionner correctement les projets.

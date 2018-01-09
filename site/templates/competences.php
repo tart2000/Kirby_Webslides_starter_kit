@@ -8,7 +8,7 @@
 
 			<hr>
 
-			<?php $selection = $page->children()->filterBy('template','competence')->sortBy('family') ?>
+			<?php $selection = $page->children()->visible() ?>
 
 			<?php 
 				if ($domaine = param('domaine')) {

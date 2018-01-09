@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: 14 - Numérique | Être capable de développer et gérer des systèmes industriels ultra-connectés
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: maintenance, automatismes, donnees
+
+----
+
+Family: innovation
+
+----
+
+Description: 
+
+**Concevoir - Piloter - Faire communiquer les systèmes** 
+
+Les différents systèmes industriels produisent des volumes croissants de données. Les systèmes industriels et les automatismes se transforment en intégrant de la maintenance prédictive, des outils de pilotage à distance. Ils appellent des expertises dédiées, couplées à une culture générale du pilotage de données.

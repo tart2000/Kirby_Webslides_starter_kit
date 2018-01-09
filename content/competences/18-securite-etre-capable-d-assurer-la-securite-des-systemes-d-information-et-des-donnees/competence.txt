@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: 21 - Sécurité | Être capable d'assurer la sécurité des systèmes d'information et des données
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: automatismes, donnees
+
+----
+
+Family: innovation
+
+----
+
+Description: 
+
+**Evaluer - Protéger - Tester - Valider**
+
+Les risques de sécurité des systèmes d'information sont multiples et grandissants : interconnexion des réseaux (physiques et digitaux), complexité croissante du traitement de l'information (en lien notamment avec les objets connectés), apparition de nouveaux protocoles comme la Blockchain… L'activité de sécurité informatique recouvre la maîtrise de l'ensemble des chaines de traitement des données, de leur émission à leur stockage. La compétence concerne l'ingénierie des systèmes d'information et leur architecture, leur résilience et leur interfaçage aux environnements de l'énergie. Les activités concernées nécessitent par ailleurs une pratique guidée par les principes fondamentaux éthiques.

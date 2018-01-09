@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: 13 - Smart city | Être capable de modéliser et piloter des systèmes complexes
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, maintenance, donnees
+
+----
+
+Family: energie
+
+----
+
+Description: 
+
+**Modéliser - Piloter**
+
+La smart city recouvre de nombreux défis autour de la mobilité, de la gestion des déchets, de l'aménagement urbain et des infrastructures, de la consommation énergétique...Se constituent des ensembles de production, d’acheminement et de consommation d’énergie à l’échelle d’un bâtiment, d’un quartier ou d’une ville. La conception technique de ces nouvelles solutions implique la maîtrise d’outils de modélisation de systèmes complexes, des techniques de cartographie et de planification,…

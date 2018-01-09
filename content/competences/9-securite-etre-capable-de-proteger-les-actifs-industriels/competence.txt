@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: 11 - Sécurité | Être capable de protéger les actifs industriels
+
+----
+
+Star: 0
+
+----
+
+Categories: metier
+
+----
+
+Domaine: exploitation, ingenierie, automatismes, donnees
+
+----
+
+Family: energie
+
+----
+
+Description: 
+
+**Evaluer - Sécuriser - Protéger**
+
+Plusieurs phénomènes accroissent les risques sécurité : la fragmentation et l'interconnexion des réseaux, la numérisation, les actes d'atteinte à des installations dispersées sur le territoire, le hacking (local, national, international), … Ces nouvelles exigences appellent des expertises spécifiques pour les installations industrielles et les réseaux, expertises à mettre à jour en continu, de la veille au contrôle des mesures de sécurité.

@@ -4,27 +4,34 @@ Title: Enjeux de compétences
 
 Text: 
 
-Les profondes transformations technologiques, sociétales et organisationnelles répertoriées lors de la première étape de la démarche (lien Visions d’avenir) appellent de nouvelles compétences : techniques métier, capacités d’évolution et d’interaction, socle commun de connaissances et de compétences pour évoluer au sein des IEG.
+Les profondes transformations technologiques, sociétales et organisationnelles répertoriées lors de la (link: http://ieg.corpoe.com/lenvironnement-de-la-branche text: première étape de la démarche) appellent de nouvelles compétences : techniques métier, capacités d’évolution et d’interaction, socle commun de connaissances et de compétences pour évoluer au sein des IEG.
 
 C’est l’objet de la deuxième phase de la Fabrique d'Énergies, qui s’est appuyée sur deux modalités de travail participatives : 
 
-- (link: http://ieg.corpoe.com/events/rencontre-prospective text: **La Rencontre Prospective du 18 octobre 2017**) : neuf intervenants, experts des transformations socio-économiques et professionnels du secteur des énergies, sont venus partager leurs visions et expériences, sur des thématiques que les acteurs de la démarche souhaitaient approfondir, et inspirer de nouvelles compétences à horizon 2030.
+- (link: http://ieg.corpoe.com/events/rencontre-prospective text: **La Rencontre Prospective du 18 octobre 2017**) : neuf intervenants, experts des transformations socio-économiques et professionnels du secteur des énergies, sont venus partager leurs visions et expériences sur des thématiques que les acteurs de la démarche souhaitaient approfondir, et ont évoqué de nouvelles compétences à horizon 2030 
 - (link: http://ieg.corpoe.com/events/atelier-competences text: **L’Atelier Compétences du 7 novembre 2017**) : à partir des travaux précédents, (link: http://ieg.corpoe.com/les-acteurs-de-la-fabrique-d-energies text: éclaireurs et membres du GTP) ont construit un Panorama des compétences à développer, pour sept domaines professionnels définis comme prioritaires (sur les 23 domaines de la branche). 
 
-À l’issue de ces deux modalités participatives, le Panorama des compétences a fait l’objet d’un travail d’analyse, enrichissement, regroupement, hiérarchisation, contextualisation, à partir notamment des contenus de la Phase 1 de la démarche (panel d’études et cartographie des facteurs) et de la Rencontre Prospective.
+À l’issue de ces deux modalités participatives, le Panorama des compétences a fait l’objet d’un travail d’analyse, enrichissement, regroupement, hiérarchisation, contextualisation, documentation, à partir notamment des contenus de la Phase 1 de la Démarche ((link: http://ieg.corpoe.com/lectures text: panel d’études) et (link: http://mindmap.corpoe.com/ text: cartographie des facteurs)) et de la (link: http://ieg.corpoe.com/events/rencontre-prospective text: Rencontre Prospective).
 
-Ce travail a permis d’aboutir à **30 compétences-clés à développer à l’horizon 2030**, réparties selon 3 enjeux majeurs :
+Ce travail a permis d’aboutir à **28 compétences-clés à développer à l’horizon 2030**, réparties en 3 blocs :
 
-- **Besoins associés à la transition énergétique**, qui impacte autant l’offre de services (nouveaux usages de l’énergie) que les infrastructures (transformation des moyens de production et de distribution pour une industrie décarbonée)
-- **Besoins associés à l’accélération de l’innovation technologique** (création de valeur par l’usage des technologies, numérique et autres NBIC - Technologies du Numérique / Biotechs / Information / Cognition)
-- **Besoins associés aux transformations socio-économiques** (nouveaux modes de travail et de coopération). 
+- **Besoins associés à la transition énergétique** : celle-ci impacte autant les infrastructures (transformation des moyens de production et les réseaux, pour une industrie décarbonée) que l’offre de services (nouveaux usages de l’énergie)
+- **Besoins associés à l’accélération de l’innovation technologique** : les technologies, en particulier le numérique, les Data, l’intelligence artificielle, ouvrent de nouvelles opportunités, mais aussi des risques à prendre en compte
+- **Besoins associés aux transformations socio-économiques** : de nouveaux modes de travail et de coopération apparaissent, qui appellent de nouvelles compétences. 
 
 Ce choix d’un éventail de compétences-clés resserré permet d’avoir une compréhension globale des défis de transformation à relever par les entreprises.
-Ces compétences-clés correspondent à des macro-compétences, voire des compétences collectives, déclinables par la suite dans les activités, domaines, métiers, postes….
+Ces compétences-clés correspondent à des macro-compétences,, déclinables par la suite en fonction des besoins, activités, domaines….
 
-- La liste suivante présente l’ensemble de ces compétences, pour une vision horizontale, complète.
-- Un simple clic sur une compétence permet d’en savoir plus, pour une lecture en profondeur.
+- L’interface suivante présente l’ensemble de ces compétences, pour une vision horizontale, complète.
+- Un simple clic sur une compétence fait apparaître son descriptif complet, pour une lecture en profondeur.
 - Des tris sont possibles, pour une lecture sélective.
+ 
+Chaque compétence présente :
+
+- L’enjeu auquel elle est rattachée (l’un des 3 blocs ci-dessus)
+- Les domaines professionnels concernés (7 domaines prioritaires)
+- Sa catégorie : technique métier, capacité d’évolution et d’interaction ou socle commun d’évolution au sein des IEG
+- Le mot-clé affiché en tête du libellé de chaque compétence renvoie à des postes d’investissement sur lesquels les entreprises peuvent créer de la valeur : Développement d’affaires,  Infrastructures, Innovation, Intelligence artificielle, Mobilité professionnelle, Numérique, Sécurité, Smart city, Travailler autrement.
 
 ----
 
