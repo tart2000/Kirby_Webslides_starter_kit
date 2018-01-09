@@ -13,31 +13,34 @@
 	        			echo '<i class="fa fa-line-chart"></i> '.' Transitions socio-économiques';
 	        		} ?>
 	        	</div>
-				<h3><?= $c->num() ?> - <?= $c->title() ?></h3>
+				<h3><!-- <?= $c->num() ?> - -->
+					<?= $c->title() ?></h3>
 				<?= $c->description()->kirbytext() ?>
 
 				<?php if ($c->categories() == 'capacite') : ?>
-					<div class="toggle cat">
+					<a href="<?= $site->url().'/competences/categories:capacite#filter' ?>" class="toggle cat">
 		          		Capacités d'évolution et d'interaction
-		          	</div>
+		          	</a>
 	          	<?php elseif ($c->categories() == 'metier') : ?>
-	          		<div class="toggle cat">
+	          		<a href="<?= $site->url().'/competences/categories:metier#filter' ?>" class="toggle cat">
 	          			Technique Métier	
-	          		</div>
+	          		</a>
 	          	<?php endif ?>
 
 				<?php if ($c->domaine() != '') : ?>
 					<?php $domaines = $c->domaine()->split() ?>
 					<?php foreach ($domaines as $d): ?>
-						<div class="toggle">
-							<?php echo page('domaines')->children()->find($d)->title() ?>
-						</div>
+						<?php $domaine = page('domaines')->children()->find($d) ?>
+						<a href="<?= $site->url().'/competences/domaine:'.$domaine->uid().'#filter' ?>" class="toggle">
+							<?php echo $domaine->title() ?>
+						</a>
 					<?php endforeach ?>
 				<?php endif ?>
+				
 				<?php if ($c->categories() == "socle-commun") : ?>
-					<div class="toggle cat">
+					<a href="<?= $site->url().'/competences/categories:socle-commun#filter' ?>" class="toggle cat">
 						Socle commun
-					</div>
+					</a>
 				<?php endif ?>
 
 			</div>

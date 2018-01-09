@@ -137,6 +137,9 @@ section p {
   background-color: #95a5a6;
   color: #efefef;
 }
+.toggle.fam {
+  background-color: #d8d8d8;
+}
 .comp h3 {
   margin-top: 50px;
 }
@@ -203,7 +206,7 @@ section p {
   cursor: pointer; 
   display: inline-block;
 }
-.selected {
+.selected, .toggle.selected {
   background-color: #34495e;
   color: #ecf0f1;
 }
