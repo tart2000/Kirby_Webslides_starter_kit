@@ -49,7 +49,7 @@
 					<i class="fa fa-lightbulb-o"></i> Accélération de l'innovation technologique
 				</a>
 				<a href="<?= $page->url().'/family:socio#filter' ?>" class="toggle fam <?php e($family == 'socio','selected') ?>">
-					<i class="fa fa-line-chart"></i> Transitions socio-économiques
+					<i class="fa fa-line-chart"></i> Transformations socio-économiques
 				</a>
 
 
@@ -82,7 +82,7 @@
 					        		} else if ($p->family() == "innovation") {
 					        			echo '<i class="fa fa-lightbulb-o"></i> '.' Accélération de l\'innovation technologique';
 					        		} else if ($p->family() == "socio") {
-					        			echo '<i class="fa fa-line-chart"></i> '.' Transitions socio-économiques';
+					        			echo '<i class="fa fa-line-chart"></i> '.' Transformations socio-économiques';
 					        		} ?>
 					        	</div>
 						        <h3>
