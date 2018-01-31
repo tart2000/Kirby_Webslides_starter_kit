@@ -6,6 +6,10 @@ pages:
     - card-slide
     - default-slide
     - portfolio-slide
+    - quote-slide
+    - chapter-slide
+    - steps-slide
+    
   hide: true
 
 files:

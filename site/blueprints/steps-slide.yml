@@ -1,0 +1,30 @@
+title: Steps-slide
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+  steps: 
+    label: Steps (<4)
+    type: structure 
+    entry: >
+      {{title}}
+    fields: 
+      icon: 
+        label: Icon (Font Awesome)
+        type: text
+        width: 1/2
+      title: 
+        label: Title 
+        type: text 
+        width: 1/2 
+      text: 
+        label: Text 
+        type: textarea 
+      
+
+       

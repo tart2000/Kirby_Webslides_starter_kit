@@ -16,6 +16,12 @@
     <?php elseif ($s->template() == 'portfolio-slide') : ?> 
       <?php snippet('portfolio-slide', array('s' => $s)) ?>
 
+    <?php elseif ($s->template() == 'quote-slide') : ?> 
+      <?php snippet('quote-slide', array('s' => $s)) ?>
+
+    <?php elseif ($s->template() == 'chapter-slide') : ?> 
+      <?php snippet('chapter-slide', array('s' => $s)) ?>
+
     <?php endif ?>
 
   <?php endforeach ?>

@@ -17,9 +17,9 @@ fields:
   title:
     label: Title
     type: title
-  meta: 
-    label: Meta
-    type: text
+  img:
+    label: Unsplash code (ex. nxfuA21kNHY)
+    type: text 
     width: 1/2
   slideimg: 
     label: Slide image
@@ -28,10 +28,6 @@ fields:
     width: 1/2
     types:
       - image
-  img:
-    label: Unsplash code (ex. nxfuA21kNHY)
-    type: text 
-    width: 1/2
   description: 
     label: Description
     type: textarea

@@ -10,11 +10,11 @@ Meta:
 
 ----
 
-Slideimg: 
+Slideimg: pexels-photo-355988.jpg
 
 ----
 
-Img: 7j4i2p-lVMc
+Img: 
 
 ----
 
@@ -22,7 +22,7 @@ Description:
 
 Notre proposition en un coup d’œil
 
-1.	En quelques mots
+1.	Pour résumer
 2.	Notre compréhension de votre demande
 3.	Nos propositions pour vous accompagner
 4.	Parlons budget

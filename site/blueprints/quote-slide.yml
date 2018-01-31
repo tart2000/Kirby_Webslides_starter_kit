@@ -1,4 +1,4 @@
-title: Card-slide
+title: Quote-slide
 
 pages: false
 
@@ -17,19 +17,20 @@ fields:
   title:
     label: Title
     type: title
-  img:
-    label: Unsplash code (ex. nxfuA21kNHY)
-    type: text 
-    width: 1/2
-  slideimg: 
-    label: Slide image
-    type:  selector
-    mode:  single
-    width: 1/2
-    types:
-      - image
   description: 
     label: Description
     type: textarea
+  quote: 
+    label: Quote 
+    type: textarea
+  who: 
+    label: Person cited 
+    type: text 
+    width: 1/2 
+  link: 
+    label: Link (if needed)
+    type: url 
+    width: 1/2 
+  
 
 

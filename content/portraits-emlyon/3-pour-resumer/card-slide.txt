@@ -2,7 +2,7 @@ Prevnext:
 
 ----
 
-Title: En quelques mots
+Title: 1. Pour résumer
 
 ----
 
@@ -14,7 +14,7 @@ Slideimg:
 
 ----
 
-Img: 5LOhydOtTKU
+Img: _94HLr_QXo8
 
 ----
 

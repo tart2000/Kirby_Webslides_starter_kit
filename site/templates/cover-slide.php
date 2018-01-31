@@ -1,1 +1,1 @@
-<?php go('home') ?>
+<?php goToSlide($page); ?>

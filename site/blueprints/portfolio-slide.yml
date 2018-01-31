@@ -17,10 +17,6 @@ fields:
   title:
     label: Title
     type: title
-  meta: 
-    label: Meta
-    type: text
-    width: 1/2
   description: 
     label: Description
     type: textarea

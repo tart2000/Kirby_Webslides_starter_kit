@@ -1,0 +1,15 @@
+title: Chapter-slide
+
+pages: false
+files: false
+
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type: title
+  description: 
+    label: Description
+    type: textarea
+
+
