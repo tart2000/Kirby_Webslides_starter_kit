@@ -3,7 +3,7 @@
 <article id="webslides">
 	<?php foreach ($page->parent()->children()->filterBy('template','competence') as $c) : ?>
 		<section>
-			<div class="wrap size-80 comp">
+			<div class="wrap size-80 comp fadeInUp">
 	        	<div class="card-header <?= $c->family() ?>">
 	        		<?php if ($c->family() == "energie") {
 	        			echo '<i class="fa fa-flash"></i> '.' Transition énergétique';
@@ -40,6 +40,12 @@
 				<?php if ($c->categories() == "socle-commun") : ?>
 					<a href="<?= $site->url().'/competences/categories:socle-commun#filter' ?>" class="toggle cat">
 						Socle commun
+					</a>
+				<?php endif ?>
+
+				<?php if ($c->star() == "1") : ?>
+					<a href="<?= $site->url().'/competences/star:cles#filter' ?>" class="toggle">
+						<i class="fa fa-star"></i> Compétences clés
 					</a>
 				<?php endif ?>
 

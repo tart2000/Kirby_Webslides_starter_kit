@@ -1,8 +1,13 @@
 <?php snippet('header') ?>
 
 <article>
-	<section class="bg-black aligncenter">
-	  <span class="background light" style="background-image:url('https://source.unsplash.com/<?= $page->img() ?>')"></span>
+	<section class="bg-black fullscreen aligncenter">
+
+		<div class="embed">
+		    <video autoplay loop poster="<?= $site->url() ?>/assets/images/timeline.png">
+		      <source src="<?= $site->url() ?>/assets/images/timeline.mp4" type="video/mp4">
+		    </video>
+		</div>
 	  	<!-- qQwxU7NJWTI ville nuit lumières -->
 		<!-- previous yETqkLnhsUI pylones sur fond campagne -->
 
@@ -14,8 +19,8 @@
 	  <!-- .end .wrap -->
 	</section>
 
-	<section>
-		<div class="wrap">
+	<section class="bg-white">
+		<div class="wrap fadeInUp">
 			<img class="alignright size-30" src="<?= $page->images()->first()->url() ?>" alt="atelier">
 			<?= $page->text()->kirbytext() ?>
 			<a class="button" href="/edito">Édito</a>
@@ -44,29 +49,6 @@
 
 	    <?php endif ?>
 	<?php endforeach ?>
-
-	<section><!-- événements -->
-		<?php $events = page('events')->children() ?>
-		<div class="wrap size-50">
-			<h2>À venir</h2>
-			<ul class="flexblock features">
-				<?php foreach ($events as $e) : ?>
-					<?php if($e->past() != '1'): ?>
-						<?php snippet('event-card', array('e' => $e)) ?>
-					<?php endif ?>
-				<?php endforeach ?>
-			</ul>
-			<hr>
-			<h2>Événements passés</h2>
-			<ul class="flexblock features">
-				<?php foreach ($events as $e) : ?>
-					<?php if($e->past() == '1'): ?>
-						<?php snippet('event-card', array('e' => $e)) ?>
-					<?php endif ?>
-				<?php endforeach ?>
-			</ul>
-		</div>
-	</section>
 
 	<section class="bg-primary">
 	  <span class="background dark" style="background-image:url('https://source.unsplash.com/RkBTPqPEGDo/')"></span>

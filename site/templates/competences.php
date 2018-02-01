@@ -17,6 +17,8 @@
 					$selection = $selection->filterBy('categories', $categories, ',');
 				} elseif ($family = param('family')) {
 					$selection = $selection->filterBy('family', $family, ',');
+				} elseif ($star = param('star')) {
+					$selection = $selection->filterBy('star', '==', '1');
 				}
 			?>
 			
@@ -52,12 +54,12 @@
 					<i class="fa fa-line-chart"></i> Transformations socio-économiques
 				</a>
 
+				<!-- Les étoiles -->
+				<a href="<?= $page->url().'/star:cles#filter' ?>" class="toggle">
+					<i class="fa fa-star"></i> Compétences clés
+				</a>
 
-				<!-- Viré les étoiles 
-				<div id="star" class="toggle">Compétences clés</div>
-				-->
-
-				<?php if (param('domaine') != '' || param('categories') != '' || param('family') != '') : ?>
+				<?php if (param('domaine') != '' || param('categories') != '' || param('family') != '' || param('star') != '') : ?>
 					<a href="<?= $page->url().'#filter' ?>" id="show-all" class="toggle">Voir tout</a>
 				<?php endif ?>
 

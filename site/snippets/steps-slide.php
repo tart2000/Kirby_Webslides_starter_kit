@@ -1,10 +1,10 @@
 
-<section>
+<section class="bg-light">
   <div class="wrap">
     <h2><?= $s->title() ?></h2>
     <?= $s->text()->kirbytext() ?>
     <?php $step = 1 ?>
-    <ul class="flexblock steps">
+    <ul class="flexblock steps fadeInUp">
     	<?php foreach ($s->steps()->toStructure() as $item) : ?>
 	      <li>
 	      	<?php if ($step > 1) : ?>
