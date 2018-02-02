@@ -1,0 +1,40 @@
+Title: Principes de priorisation
+
+----
+
+Text: 
+
+----
+
+Effects: 
+
+- 
+  title: >
+    Accompagner le mouvement de
+    transformation des entreprises vers les
+    nouveaux outils numériques et
+    technologiques
+  family: ""
+  description: ""
+- 
+  title: >
+    Aider la fonction managériale future à
+    accompagner les évolutions
+    d’organisation
+- 
+  title: >
+    Garantir à chacun de pouvoir cultiver
+    son offre de compétences, adaptée aux
+    besoins des entreprises
+- 
+  title: >
+    Permettre à tous les niveaux de
+    salariés d’identifier leurs
+    aspirations et besoins pour construire
+    leur parcours professionnel
+- 
+  title: Prioriser les salariés des TPE/PME
+- 
+  title: >
+    Permettre aux salariés d’anticiper
+    les transitions énergétiques

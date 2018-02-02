@@ -1,0 +1,32 @@
+Title: Publics prioritaires
+
+----
+
+Text: 
+
+(image: publics.jpg)
+
+<dl class="accordion">
+
+<dt><a href="">1. Salariés des entreprises de filières en décroissance</a></dt>
+<dd>Les salariés travaillant dans des filières en décroissance sont prioritaires pour développer de nouvelles compétences répondant aux besoins du marché de l’emploi.</dd>
+
+<dt><a href="">2. Acteurs relais de la transformation des entreprises</a></dt>
+<dd>Ces acteurs relais de la transformation des entreprises sont les managers d’aujourd’hui, ainsi que les salariés qui occupent une fonction d’animation d’équipe ou de projet au sens large. Ils deviennent des acteurs-clés du changement auprès des équipes opérationnelles.</dd>
+
+<dt><a href="">3. Salariés des TPE-PME</a></dt>
+<dd>La Branche souhaite porter un effort particulier sur les salariés des TPE et PME, dans le contexte de la transition énergétique, qui impose à ces entreprises et leurs salariés de profondes mutations.</dd>
+
+<dt><a href="">4. Salariés non formés depuis plus de 4 ans</a></dt>
+<dd>La formation des salariés non formés depuis plus de 4 ans est prioritaire, au regard de la vitesse à laquelle évolue leur environnement professionnel, à la fois dans les technologies utilisées et les modes de travail. Dans ce contexte de transformation ‘’permanente’’, il convient de cultiver leur capacité d’apprentissage et d’adaptation en continu.</dd>
+
+<dt><a href="">5. Salariés détachés de leur activité professionnelle</a></dt>
+<dd>Cette catégorie recouvre les salariés en congé de longue durée ou détachés dans une autre organisation. Leur position particulière nécessite d’anticiper et réussir leur réintégration dans leur entreprise d’origine.</dd>
+
+<dt><a href="">6. Salariés en situation de handicap (RQTH)</a></dt>
+<dd>Les salariés en situation de handicap sont prioritaires, pour répondre à un éventuel besoin d’accompagnement spécifique, afin de s’adapter aux transformations du secteur et évoluer vers de nouvelles activités.</dd>
+
+<dt><a href="">7. Salariés de plus de 45 ans</a></dt>
+<dd>L’allongement de la vie professionnelle justifie une attention particulière sur la formation professionnelle des salariés de plus de 45 ans : souvent experts dans leur domaine, mais devant adapter leurs compétences aux nouveaux usages de l’énergie, innovations numériques et technologiques et nouveaux modes de travail.</dd>
+
+</dl>

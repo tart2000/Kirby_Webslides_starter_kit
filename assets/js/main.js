@@ -1,27 +1,15 @@
 $(document).ready(function(){
 
-	$("#show-all").hide();
+    (function($) {
+    
+	  var allPanels = $('.accordion > dd').hide();
+	    
+	  $('.accordion > dt > a').click(function() {
+	    allPanels.slideUp();
+	    $(this).parent().next().slideDown();
+	    return false;
+	  });
 
-	$(".toggle").click(function(){
-		if ($(this).hasClass("selected")) {
-			showAll();
-		} else {
-			showAll();
-			var type = $(this).attr("id");
-			$(this).toggleClass("selected")
-			$(".competence").hide();
-			$('.' + type).show();
-			$("#show-all").show();
-		}	
-	});
+	})(jQuery);
 
-    $("#show-all").click(function() {
-    	showAll();
-    });
-
-    function showAll() {
-    	$(".competence").show();
-    	$("#show-all").hide();
-    	$(".selected").toggleClass("selected");	
-    }
 });
