@@ -1,0 +1,35 @@
+title: Video-slide
+
+pages: false
+
+files:
+  sortable: false
+  max: null
+  hide: false
+  sanitize: true
+  fields: null
+  size: 2000000
+  width: 4000
+  height: 4000
+
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type: title
+  img:
+    label: Unsplash code (ex. nxfuA21kNHY)
+    type: text 
+    width: 1/2
+  slideimg: 
+    label: Slide image
+    type:  selector
+    mode:  single
+    width: 1/2
+    types:
+      - image
+  description: 
+    label: Description
+    type: textarea
+
+

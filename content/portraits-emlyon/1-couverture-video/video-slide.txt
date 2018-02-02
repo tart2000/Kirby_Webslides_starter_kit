@@ -1,0 +1,21 @@
+Prevnext: 
+
+----
+
+Title: Couverture vidéo
+
+----
+
+Img: 
+
+----
+
+Slideimg: 
+
+----
+
+Description: 
+
+<h1 class="text-landing">Mise en lumière des diplômés emlyon business school</h1>
+
+###Des books de portraits aux vidéos "augmentées"

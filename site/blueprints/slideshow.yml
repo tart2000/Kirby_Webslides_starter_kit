@@ -9,6 +9,7 @@ pages:
     - quote-slide
     - chapter-slide
     - steps-slide
+    - video-slide
     
   hide: true
 

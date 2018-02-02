@@ -22,6 +22,9 @@
     <?php elseif ($s->template() == 'chapter-slide') : ?> 
       <?php snippet('chapter-slide', array('s' => $s)) ?>
 
+    <?php elseif ($s->template() == 'video-slide') : ?> 
+      <?php snippet('video-slide', array('s' => $s)) ?>
+
     <?php endif ?>
 
   <?php endforeach ?>

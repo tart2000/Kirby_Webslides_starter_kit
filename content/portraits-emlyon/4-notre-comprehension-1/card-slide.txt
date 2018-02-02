@@ -16,7 +16,7 @@ Slideimg:
 
 Description: 
 
-Un nouveau concept de ‘’série de portraits’’ de diplômés emlyon business school 
+####Un nouveau concept de ‘’série de portraits’’ de diplômés emlyon business school 
 
 - Participer à la notoriété du réseau des diplômés 
 - Renforcer la fierté et le sentiment d’appartenance
