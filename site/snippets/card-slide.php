@@ -16,7 +16,7 @@
       <?php endif ?>
       </figure>
       <!-- end figure-->
-      <div class="flex-content">
+      <div class="flex-content fadeInUp">
         <h2><?= $s->title() ?></h2>
         <hr>
         <?= $s->description()->kirbytext() ?>

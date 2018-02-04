@@ -1,5 +1,5 @@
 <section>
-  <div class="wrap size-80">
+  <div class="wrap size-80 fadeInUp">
     <h2><?= $s->title() ?></h2>
     <hr>
     <?= $s->description()->kirbytext() ?>

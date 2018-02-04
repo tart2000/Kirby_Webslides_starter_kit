@@ -1,6 +1,6 @@
 <section class="bg-primary">
   <!--.wrap = container 1200px -->
-  <div class="wrap size-80">
+  <div class="wrap size-80 fadeInUp">
     <div class="aligncenter">
       <?= $s->description()->kirbytext() ?>
     </div>

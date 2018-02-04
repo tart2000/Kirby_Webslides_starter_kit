@@ -1,5 +1,5 @@
 <section class="aligncenter">
-    <div class="wrap">
+    <div class="wrap fadeInUp">
 
       <h2><?= $s->title() ?></h2>
 
