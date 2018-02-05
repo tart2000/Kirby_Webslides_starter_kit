@@ -20,8 +20,8 @@
 	</section>
 
 	<section class="bg-white">
-		<div class="wrap fadeInUp">
-			<img class="alignright size-30" src="<?= $page->images()->first()->url() ?>" alt="atelier">
+		<div class="wrap">
+			<img class="alignright size-40" src="<?= $page->images()->first()->url() ?>" alt="atelier">
 			<?= $page->text()->kirbytext() ?>
 			<a class="button" href="/edito">Édito</a>
 		</div>

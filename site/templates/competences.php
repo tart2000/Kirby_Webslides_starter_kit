@@ -56,7 +56,7 @@
 
 				<!-- Les étoiles -->
 				<a href="<?= $page->url().'/star:cles#filter' ?>" class="toggle">
-					<i class="fa fa-star"></i> Compétences clés
+					<i class="fa fa-star"></i> Compétences prioritaires
 				</a>
 
 				<?php if (param('domaine') != '' || param('categories') != '' || param('family') != '' || param('star') != '') : ?>
