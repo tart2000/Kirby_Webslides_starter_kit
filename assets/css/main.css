@@ -184,6 +184,11 @@ section p {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+#comp-title {
+  padding: 2rem;
+  width: 100%;
+  text-align: center;
+}
 /* Cover list */ 
 .covers > .flexblock li {
   display: inline-table;
@@ -229,4 +234,53 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+/* Dropdown Button */
+.dropbtn, .somebtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+    margin-bottom: 8px;
+}
+.somebtn {
+  display: inline-block;
+  background-color: #34495e;
+}
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
 

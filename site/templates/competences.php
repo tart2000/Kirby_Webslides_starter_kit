@@ -26,45 +26,110 @@
 				<b><i class="fa fa-filter"></i> Filtrer :</b>
 
 				<!-- Categories -->
-				<a href="<?= $page->url().'/categories:metier#filter' ?>" class="toggle cat <?php e($categories == 'metier','selected') ?>">
-					Techniques métiers
-				</a>
-				<a href="<?= $page->url().'/categories:capacite#filter' ?>" class="toggle cat <?php e($categories == 'capacite','selected') ?>">
-					Capacités d'évolution
-				</a>
-				<a href="<?= $page->url().'/categories:socle-commun#filter' ?>" class="toggle cat <?php e($categories == 'socle-commun','selected') ?>">
-					Socle commun
-				</a>
-				
-				<!-- Domaines -->
-				<?php foreach (page('domaines')->children() as $d) : ?>
-					<a href="<?= $page->url().'/domaine:'.$d->uid().'#filter' ?>" id="<?= $d->uid() ?>" class="toggle <?php e($domaine == $d->uid(),'selected') ?>">
-						<?= $d->title() ?>
-					</a>
-				<?php endforeach ?>
+				<?php if (param('categories') == '') : ?>
+					<div class="dropdown">
+					  <button onclick="myFunction3()" class="dropbtn">
+					  	Enjeu
+					  	<i class="fa fa-caret-down"></i>
+					  </button>
+					  <div id="myDropdown3" class="dropdown-content">
+					  	<a href="<?= $page->url().'/categories:metier#filter' ?>">
+					    	Techniques métiers
+					    </a>
+					    <a href="<?= $page->url().'/categories:capacite#filter' ?>">
+					    	Capacités d'évolution
+					    </a>
+					    <a href="<?= $page->url().'/categories:socle-commun#filter' ?>">
+					    	Socle commun
+					    </a>
+					  </div>
+					</div>
+				<?php else : ?>
+					<button class="somebtn">
+						<?php if ($categories == 'metier') : ?>
+							Techniques métiers
+						<?php elseif ($categories == 'capacite') : ?>
+							Capacités d'évolution
+						<?php else : ?>
+							Socle commun
+						<?php endif ?>
+					</button>
+				<?php endif ?>
 
-				<!-- Familles -->
-				<a href="<?= $page->url().'/family:energie#filter' ?>" class="toggle fam <?php e($family == 'energie','selected') ?>">
-					<i class="fa fa-flash"></i> Transition énergétique
-				</a>
-				<a href="<?= $page->url().'/family:innovation#filter' ?>" class="toggle fam <?php e($family == 'innovation','selected') ?>">
-					<i class="fa fa-lightbulb-o"></i> Accélération de l'innovation technologique
-				</a>
-				<a href="<?= $page->url().'/family:socio#filter' ?>" class="toggle fam <?php e($family == 'socio','selected') ?>">
-					<i class="fa fa-line-chart"></i> Transformations socio-économiques
-				</a>
+
+				<!-- Domaines -->
+				<?php if (param('domaine') == '') : ?>
+					<div class="dropdown">
+					  <button onclick="myFunction2()" class="dropbtn">
+					  	Domaines professionnels
+					  	<i class="fa fa-caret-down"></i>
+					  </button>
+					  <div id="myDropdown2" class="dropdown-content">
+					  	<?php foreach (page('domaines')->children() as $d) : ?>
+							<a href="<?= $page->url().'/domaine:'.$d->uid().'#filter' ?>" id="<?= $d->uid() ?>">
+								<?= $d->title() ?>
+							</a>
+						<?php endforeach ?>
+					  </div>
+					</div>
+				<?php else : ?>
+					<button class="somebtn">
+						<?php $thedomaine = page('domaines')->find($domaine) ?>
+						<?= $thedomaine->title() ?>
+					</button>
+				<?php endif ?>
+
+				<?php if (param('family') == '') : ?>
+					<!-- Familles -->
+					<div class="dropdown">
+					  <button onclick="myFunction()" class="dropbtn">
+					  	Famille de facteurs
+					  	<i class="fa fa-caret-down"></i>
+					  </button>
+					  <div id="myDropdown" class="dropdown-content">
+					    <a href="<?= $page->url().'/family:energie#filter' ?>">
+					    	<i class="fa fa-flash"></i> Transition énergétique
+					    </a>
+					    <a href="<?= $page->url().'/family:innovation#filter' ?>">
+					    	<i class="fa fa-lightbulb-o"></i> Accélération de l'innovation technologique
+					    </a>
+					    <a href="<?= $page->url().'/family:socio#filter' ?>">
+					    	<i class="fa fa-line-chart"></i> Transformations socio-économiques
+					    </a>
+					  </div>
+					</div>
+				<?php else : ?>
+					<button class="somebtn">
+						<?php if ($family == 'energie') : ?>
+							<i class="fa fa-flash"></i> Transition énergétique
+						<?php elseif ($family == 'innovation') : ?>
+							<i class="fa fa-lightbulb-o"></i> Accélération de l'innovation technologique
+						<?php else : ?>
+							<i class="fa fa-line-chart"></i> Transformations socio-économiques
+						<?php endif ?>
+					</button>
+				<?php endif ?>
 
 				<!-- Les étoiles -->
-				<a href="<?= $page->url().'/star:cles#filter' ?>" class="toggle">
-					<i class="fa fa-star"></i> Compétences prioritaires
+				<a href="<?= $page->url().'/star:cles#filter' ?>">
+					<button class="dropbtn <?php e($star == 'cles', 'selected') ?>">
+						<i class="fa fa-star"></i> 8 Compétences-clés
+					</button>
 				</a>
 
 				<?php if (param('domaine') != '' || param('categories') != '' || param('family') != '' || param('star') != '') : ?>
-					<a href="<?= $page->url().'#filter' ?>" id="show-all" class="toggle">Voir tout</a>
+					<a href="<?= $page->url().'#filter' ?>">
+						<button  id="show-all" class="dropbtn">Voir tout</button>
+					</a>
 				<?php endif ?>
 
 			</div>
-			<!-- Ajouter couleurs sur cartes + icones familles -->
+			
+			<?php if (param('star') != '') : ?>
+				<div id="comp-title">
+					<h4>Compétences-clés retenues par la Branche comme priorités de formation</h4>
+				</div>
+			<?php endif ?>
 
 			<ul class="flexblock features">
 				<?php foreach ($selection as $p) : ?>

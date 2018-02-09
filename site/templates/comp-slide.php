@@ -13,8 +13,12 @@
 	        			echo '<i class="fa fa-line-chart"></i> '.' Transitions socio-économiques';
 	        		} ?>
 	        	</div>
-				<h3><!-- <?= $c->num() ?> - -->
-					<?= $c->title() ?></h3>
+				<h3>
+					<?php if ($c->star() == '1') : ?>
+						<?php echo '<i class="fa fa-star"></i>';  ?>
+					<?php endif ?>
+					<?= $c->title() ?>	
+				</h3>
 				<?= $c->description()->kirbytext() ?>
 
 				<?php if ($c->categories() == 'capacite') : ?>
