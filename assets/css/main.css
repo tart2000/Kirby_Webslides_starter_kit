@@ -201,6 +201,13 @@ section p {
 .people h3 {
   display: initial;
 }
+
+.steps h2 {
+  color: purple;
+  text-transform: uppercase;
+  border-bottom: 2px purple solid;
+  padding-bottom: 0px;
+}
 .toggle {
   background-color: #ecf0f1;
   color: #34495e;
@@ -253,6 +260,27 @@ blockquote p {
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
     background-color: #2980B9;
+}
+.seabrook {
+  background-color: #487eb0;
+}
+.seabrook:hover, .seabrook:focus, .seabrook.selected {
+    background-color: #40739e;
+}
+.mazarine {
+  background-color: #273c75;
+}
+.mazarine:hover, .mazarine:focus, .mazarine.selected {
+    background-color: #192a56;
+}
+.bluenights {
+  background-color: #353b48; 
+}
+.bluenights:hover, .bluenights:focus, .bluenights.selected {
+    background-color: #2f3640;
+}
+.vanadyl, .vanadyl .selected {
+  background-color: #00a8ff;
 }
 
 /* The container <div> - needed to position the dropdown content */

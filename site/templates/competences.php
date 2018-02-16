@@ -25,65 +25,11 @@
 			<div id="filter">
 				<b><i class="fa fa-filter"></i> Filtrer :</b>
 
-				<!-- Categories -->
-				<?php if (param('categories') == '') : ?>
-					<div class="dropdown">
-					  <button onclick="myFunction3()" class="dropbtn">
-					  	Enjeu
-					  	<i class="fa fa-caret-down"></i>
-					  </button>
-					  <div id="myDropdown3" class="dropdown-content">
-					  	<a href="<?= $page->url().'/categories:metier#filter' ?>">
-					    	Techniques métiers
-					    </a>
-					    <a href="<?= $page->url().'/categories:capacite#filter' ?>">
-					    	Capacités d'évolution
-					    </a>
-					    <a href="<?= $page->url().'/categories:socle-commun#filter' ?>">
-					    	Socle commun
-					    </a>
-					  </div>
-					</div>
-				<?php else : ?>
-					<button class="somebtn">
-						<?php if ($categories == 'metier') : ?>
-							Techniques métiers
-						<?php elseif ($categories == 'capacite') : ?>
-							Capacités d'évolution
-						<?php else : ?>
-							Socle commun
-						<?php endif ?>
-					</button>
-				<?php endif ?>
-
-
-				<!-- Domaines -->
-				<?php if (param('domaine') == '') : ?>
-					<div class="dropdown">
-					  <button onclick="myFunction2()" class="dropbtn">
-					  	Domaines professionnels
-					  	<i class="fa fa-caret-down"></i>
-					  </button>
-					  <div id="myDropdown2" class="dropdown-content">
-					  	<?php foreach (page('domaines')->children() as $d) : ?>
-							<a href="<?= $page->url().'/domaine:'.$d->uid().'#filter' ?>" id="<?= $d->uid() ?>">
-								<?= $d->title() ?>
-							</a>
-						<?php endforeach ?>
-					  </div>
-					</div>
-				<?php else : ?>
-					<button class="somebtn">
-						<?php $thedomaine = page('domaines')->find($domaine) ?>
-						<?= $thedomaine->title() ?>
-					</button>
-				<?php endif ?>
-
+				<!-- Familles -->
 				<?php if (param('family') == '') : ?>
-					<!-- Familles -->
 					<div class="dropdown">
 					  <button onclick="myFunction()" class="dropbtn">
-					  	Famille de facteurs
+					  	Enjeux d'avenir
 					  	<i class="fa fa-caret-down"></i>
 					  </button>
 					  <div id="myDropdown" class="dropdown-content">
@@ -110,16 +56,69 @@
 					</button>
 				<?php endif ?>
 
+				<!-- Domaines -->
+				<?php if (param('domaine') == '') : ?>
+					<div class="dropdown">
+					  <button onclick="myFunction2()" class="dropbtn seabrook">
+					  	Domaines professionnels
+					  	<i class="fa fa-caret-down"></i>
+					  </button>
+					  <div id="myDropdown2" class="dropdown-content">
+					  	<?php foreach (page('domaines')->children() as $d) : ?>
+							<a href="<?= $page->url().'/domaine:'.$d->uid().'#filter' ?>" id="<?= $d->uid() ?>">
+								<?= $d->title() ?>
+							</a>
+						<?php endforeach ?>
+					  </div>
+					</div>
+				<?php else : ?>
+					<button class="somebtn seabrook selected">
+						<?php $thedomaine = page('domaines')->find($domaine) ?>
+						<?= $thedomaine->title() ?>
+					</button>
+				<?php endif ?>
+
+				<!-- Categories -->
+				<?php if (param('categories') == '') : ?>
+					<div class="dropdown">
+					  <button onclick="myFunction3()" class="dropbtn mazarine">
+					  	Catégories de compétences
+					  	<i class="fa fa-caret-down"></i>
+					  </button>
+					  <div id="myDropdown3" class="dropdown-content">
+					  	<a href="<?= $page->url().'/categories:metier#filter' ?>">
+					    	Techniques métiers
+					    </a>
+					    <a href="<?= $page->url().'/categories:capacite#filter' ?>">
+					    	Capacités d'évolution
+					    </a>
+					    <a href="<?= $page->url().'/categories:socle-commun#filter' ?>">
+					    	Socle commun
+					    </a>
+					  </div>
+					</div>
+				<?php else : ?>
+					<button class="somebtn mazarine selected">
+						<?php if ($categories == 'metier') : ?>
+							Techniques métiers
+						<?php elseif ($categories == 'capacite') : ?>
+							Capacités d'évolution
+						<?php else : ?>
+							Socle commun
+						<?php endif ?>
+					</button>
+				<?php endif ?>
+
 				<!-- Les étoiles -->
 				<a href="<?= $page->url().'/star:cles#filter' ?>">
-					<button class="dropbtn <?php e($star == 'cles', 'selected') ?>">
+					<button class="dropbtn bluenights <?php e($star == 'cles', 'selected') ?>">
 						<i class="fa fa-star"></i> 8 Compétences-clés
 					</button>
 				</a>
 
 				<?php if (param('domaine') != '' || param('categories') != '' || param('family') != '' || param('star') != '') : ?>
 					<a href="<?= $page->url().'#filter' ?>">
-						<button  id="show-all" class="dropbtn">Voir tout</button>
+						<button  id="show-all" class="dropbtn vanadyl">Voir tout</button>
 					</a>
 				<?php endif ?>
 
