@@ -13,4 +13,4 @@ fields:
     type:  textarea
   elink: 
     label: Link to form 
-    type: url
+    type: text

@@ -23,7 +23,6 @@
 		<div class="wrap">
 			<img class="alignright size-40" src="<?= $page->images()->first()->url() ?>" alt="atelier">
 			<?= $page->text()->kirbytext() ?>
-			<a class="button" href="/edito">Édito</a>
 		</div>
 		<!-- Mettre une illustration ici -->
 	</section>
@@ -58,8 +57,7 @@
 	      <fieldset>
 	        <legend>La Fabrique d'Énergies</legend>
 	        <p>
-	        	Le projet ne peut se faire sans vous !<br>
-	        	Pour être tenu au courant des évolutions, des futurs événements et contribuer, merci d'utiliser le formulaire ci-dessous.
+	        	La Fabrique d’Energies fera l’objet d‘actualisations régulières. Si vous avez des idées à proposer, utilisez le lien ci-dessous :
 	        </p>
 	        <p class="aligncenter">
 	          <a href="<?= $page->elink() ?>" class="button" target="_blank">Laisser mon email &rsaquo;</a>
