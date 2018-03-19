@@ -1,0 +1,12 @@
+title: Projets
+pages: 
+  template: 
+    - Projet
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea

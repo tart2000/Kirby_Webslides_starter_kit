@@ -1,0 +1,87 @@
+Prevnext: 
+
+----
+
+Title: Développement d'affaires - Être capable d'animer les nouveaux modèles énergétiques en fédérant les acteurs
+
+----
+
+Star: 0
+
+----
+
+Categories: 
+
+----
+
+Domaine: 
+
+----
+
+Family: 
+
+----
+
+Description: 
+
+La territorialisation, les nouveaux usages de l'énergie, le déploiement des smart grids nécessitent de faire travailler ensemble une multitude d'acteurs, pour créer de nouvelles offres : fournisseurs, clients, PME, startups, collectivités, etc. Des capacités diversifiées doivent être mobilisées : agilité, réactivité, créativité, sens politique et relationnel… Cela implique d'être capable d'identifier des potentiels à différentes échelles géographiques, se positionner sur les appels d'offres, réunir les bons acteurs, traduire les besoins du marché en solutions technologiques, mettre en place des démonstrateurs en faisant le lien avec les services concernés, en tirer des enseignements pour développer les activités; imaginer de nouveaux services tout en tenant compte du cadre offert par la régulation, le juridique et la tarification, gérer dans le temps ces partenariats et une diversité croissante d'offres.
+
+Compétence au cœur des nouveaux usages de l’énergie. Elle accompagne le mouvement de transformation des entreprises, sur un plan à la fois technologique, commercial et partenarial.
+Elle répond aux principes de priorisation n°1, 2 et 5
+
+----
+
+Enjeux: 
+
+1. La compétence est tournée vers les marchés (nouveaux modèles d’organisation et nouvelles attentes) : développement durable, mix énergétique, recherche d 'innovations...
+1. La vision systémique va devenir un élément clé de création de valeur (au-delà des silos). Combiner la connaissance des métiers de l'énergie avec les enjeux urbains (Smart grids...) ou ruraux, et les potentialités du numérique (Big Data et Intelligence augmentée) devient déterminant. 
+1. La capacité à analyser des situations commerciales complexes et à concevoir de nouvelles activités est une clé pour l’avenir. Le passage d’un modèle d'affaires fondé sur des volumes (qui doivent être réduits) à de la valeur (qui doit être créée) entraîne une nouvelle façon de construire des offres, avec des ressources (compétences ou technologies) externes. Savoir construire et piloter des processus d'innovation ouverte devient une compétence seuil, indispensable au métier d'énergéticien. 
+1. Le modèle vertical laisse place à des écosystèmes horizontaux, encouragés par la décentralisation institutionnelle, le développement des ENR, le recours à des réseaux fermés (RCU, "boucles") , ainsi que par la vision européenne (UE) favorable aux solutions "locales". Ces écosystèmes demandent d’agir en coopétition (coopération + compétition), entre acteurs énergétiques multiples : échelons européen, national, régional, territorial, de natures diversifiées et en mutation rapide comme les SEM ou SEMOP, Syndicats renouvelés, ELD diverses, ALE-ARE, avec une extension des compétences Elec, Hydrogène,GNV, BioGaz, associations de citoyens autoproducteurs et auto-consommateurs en progression...
+
+----
+
+Intro: 
+
+- Collecter, synthétiser et présenter des informations sur son environnement
+- Identifier les différents acteurs d'un projet (affaire potentielle) : institutions, clients, partenaires…
+
+----
+
+Inter: 
+
+- Construire une veille opérationnelle (benchmark) sur les technologies, services, territoires, acteurs, opportunités
+- Maîtriser les méthodes d'analyse des besoins des utilisateurs (société civile, consommateurs, élus et acteurs publics, acteurs économiques)
+- Pratiquer les outils d'animation d'un groupe multi-partenaires
+- Prototyper en mode " test and learn " (= boucle d'amélioration continue)
+- Construire et exploiter un retour d'expérience
+- Piloter le déploiement opérationnel d'un projet
+- Identifier les opportunités en matière de financement, réglementation, gestion du risque et nouveaux services (tarification dynamique, effacement, certificats d’économie...)
+
+----
+
+Perf: 
+
+- Anticiper les évolutions stratégiques de l'environnement
+- Faire émerger  un consensus, le formaliser et le transformer en plan d’action
+- Faire émerger des réponses locales innovantes adaptées aux nouveaux usages
+- Construire avec les parties prenantes les grandes lignes d'une offre business
+Piloter un projet complexe qui mobilise des expertises multiples et des acteurs décisionnaires diversifiés
+- Anticiper et accompagner le changement pour l'ensemble des parties prenantes impactées par un projet
+
+----
+
+Pre: Cette formation nécessite la maîtrise des connaissances de base sur l’environnement et les grands enjeux des énergies.
+
+----
+
+Reco: 
+
+L’offre de formation existe pour l’essentiel des objectifs visés ci-dessus, dans les business schools ou les instituts d’études politiques, les organismes de formation dédiés au secteur du conseil ou.du marketing, les structures d’appui à l’entrepreneuriat, à l’innovation et aux start-up.
+Il reste à créer une transposition des formations existantes dédiée au secteur de l’énergie. par des spécialisations sectorielles :
+
+- Création de modules dédiés à une veille spécifique, orientée sur la détection d’opportunités sur son territoire et ‘animation des nouveaux modèles énergétiques.
+- Combinaison de formations incluant métiers de l’énergie + nouvelles technologies + méthodes de développement agiles (innovation, collaboratif) + développement d’affaires (vente, environnement public, financement, juridique)
+- Création de formations multidisciplinaires en formation initiale intégrant marketing + technique + management du secteur de l’Energie
+- Définition d’un référentiel de niveau Bac+3 (Licence / Bachelor) commun à des écoles d'ingénieur et de commerce (L'association nationale ThinkSmartGrids y travaille).
+
+Il s'agit également de proposer des formations reconnues (délivrance de certificat...) aux professionnels en exercice pour qu’ils élargissent leurs champs de compétences à chacune de ces thématiques de l’ingénierie, la stratégie, le marketing, finance et économie, management, innovation et gestion de projet...
