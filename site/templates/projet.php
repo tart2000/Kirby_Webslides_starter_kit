@@ -1,21 +1,24 @@
 <?php snippet('header') ?>
 
-<article>
-	<section class="bg-black-blue aligncenter">
-	 <span class="background dark" style="background-image:url('https://source.unsplash.com/bwki71ap-y8/')"></span>
-	  <!--.wrap = container 1200px -->
-	  <div class="wrap">
-	    <p class="text-subtitle">Projet de formation n°2</p>
-	    <h1 class="text-landing"><?= $page->title() ?></h1>
-	    <p class="text-symbols">* * *</p>
+<article class="projet">
+	<section class="fullscreen">
+	  <div class="card-50">
+	    <figure class="bg-black-blue">
+	    	<span class="background dark" style="background-image:url('https://source.unsplash.com/bwki71ap-y8/1440x1440')"></span>
+		    <div class="wrap aligncenter">
+			    <p class="text-subtitle">Projet de formation</p>
+			    <h2><?= $page->title() ?></h2>
+			    <p class="text-symbols">* * *</p>
+			</div>
+	    </figure>
+	    <!-- end figure-->
+	    <div class="flex-content">
+	      <p><?= $page->description()->kirbytext() ?></p>
+	      <i class="fa fa-arrow-down aligncenter"></i>
+	    </div>
+	    <!-- end .flex-content-->
 	  </div>
-	  <!-- .end .wrap -->
-	</section>
-
-	<section>
-		<div class="wrap size-80 text-intro">
-			<?= $page->description()->kirbytext() ?>
-		</div>
+	  <!-- end .card-50-->
 	</section>
 
 	<section class="bg-light">
@@ -49,61 +52,6 @@
 	  <!-- .end .wrap -->
 	</section>
 
-	<section class="bg-light">
-	  <div class="wrap">
-	    <h3>Recommandations sur les modes d'apprentissage</h3>
-	    <ul class="work">
-	      <li class="work-label">
-	        <p class="work-title"></p>
-	        <p class="work-client">Niveau introduction</p>
-	        <p class="work-services">Niveau intermédiaire</p>
-	        <p class="work-perf">Niveau perfectionnement</p>
-	      </li>
-	      <li>
-	        <a href="#" rel="external">
-	          <p class="work-title"><span>Présentiel</span></p>
-	          <p class="work-client"><span>X</span></p>
-	          <p class="work-services"><span>X</span></p>
-	          <p class="work-perf"><span>X</span></p>
-	        </a>
-	      </li>
-	      <li>
-	        <a href="#" rel="external">
-	          <p class="work-title"><span>Classes à distance</span></p>
-	          <p class="work-client"><span></span></p>
-	          <p class="work-services"><span></span></p>
-	          <p class="work-perf"><span></span></p>
-	        </a>
-	      </li>
-	      <li>
-	        <a href="#" rel="external">
-	          <p class="work-title"><span>Auto-formation en ligne</span></p>
-	          <p class="work-client"><span>X</span></p>
-	          <p class="work-services"><span>X</span></p>
-	          <p class="work-perf"><span></span></p>
-	        </a>
-	      </li>
-	      <li>
-	        <a href="#" rel="external">
-	          <p class="work-title"><span>Mise en situation</span></p>
-	          <p class="work-client"><span>X</span></p>
-	          <p class="work-services"><span>X</span></p>
-	          <p class="work-perf"><span>X</span></p>
-	        </a>
-	      </li>
-	      <li>
-	        <a href="#" rel="external">
-	          <p class="work-title"><span>Accompagnement par un tiers</span></p>
-	          <p class="work-client"><span>X</span></p>
-	          <p class="work-services"><span>X</span></p>
-	          <p class="work-perf"><span>X</span></p>
-	        </a>
-	      </li>
-	    </ul>
-	  </div>
-	  <!-- .end .wrap -->
-	</section>
-
 	<section>
 	  <div class="wrap size-80">
 	    <h3>Recommandations sur les modules de formation à créer</h3>
@@ -116,11 +64,11 @@
 	  <div class="wrap aligncenter">
 	    <h3>Autres projets de formation</h3>
 	    <ul class="flexblock gallery">
-	      <li>
-	        <a href="#">
-	          <figure>
-	            <img alt="Thumbnail " src="https://source.unsplash.com/-sQ4FsomXEs/800x600">
-	            <div class="overlay">
+	      <li >
+	        <a  href="#">
+	          <figure class="bg-black-blue">
+	          	<span class="background dark" style="background-image:url('https://source.unsplash.com/-sQ4FsomXEs/800x800')"></span>
+	            <div class="wrap aligncenter project-card">
 	            	<p class="text-subtitle">Projet précédent</p>
 	              	<h2>Création de modules dédiés à une veille spécifique, orientée sur la détection d’opportunités sur son territoire</h2>
 	              	<p>* * *</p>
@@ -130,13 +78,13 @@
 	      </li>
 	      <li>
 	        <a href="#">
-	          <figure>
-	            <img alt="Thumbnail" src="https://source.unsplash.com/vCF5sB7QecM/800x600">
-	            <span class="overlay">
-	            	<p class="text-subtitle">Projet précédent</p>
+	          <figure class="bg-black-blue">
+	          	<span class="background dark" style="background-image:url('https://source.unsplash.com/vCF5sB7QecM/800x800')"></span>
+	            <div class="wrap aligncenter project-card">
+	            	<p class="text-subtitle">Projet suivant</p>
 		            <h2>Les organismes de formation dédiés au secteur du conseil ou.du marketing, les structures d’appui à l’entrepreneuriat, à l’innovation et aux start-up.</h2>
 		            <p>* * *</p>
-	            </span>
+	            </div>
 	          </figure>
 	        </a>
 	      </li>

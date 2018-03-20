@@ -325,6 +325,23 @@ blockquote p {
 .grid.vertical-align .column {
     justify-content: baseline !important;
 }
+.flexblock.gallery>li {
+  height: 400px;
+}
 .flexblock.gallery>li>a>figure {
   margin-bottom: 0px;
+  height: 400px;
+}
+.projet .column img {
+  margin-top: 25px;
+}
+.card-50 figure {
+  margin-bottom: 0px;
+  justify-content: center;
+  vertical-align: middle;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+.project-card {
+  padding-top: 100px;
 }
