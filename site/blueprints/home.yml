@@ -8,6 +8,9 @@ fields:
   img:
     label: Unsplash image code
     type: text 
+  intro: 
+    label: Texte intro 
+    type: textarea
   text:
     label: Text
     type:  textarea

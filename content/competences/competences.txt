@@ -46,3 +46,7 @@ Domaines:
 - 
   title: Maintenance
   theid: maintenance
+
+----
+
+Stared: À partir de 6 grands principes de priorisation, les participants de l’Atelier ‘’Cap Formation’’ du 11 janvier ont retenu comme prioritaires pour la Branche 8 compétences-clés, parmi les 28 identifiées dans le cadre de la démarche : les formations sur ces compétences feront l’objet d’un financement majoré.

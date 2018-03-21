@@ -20,6 +20,38 @@
 	</section>
 
 	<section class="bg-white">
+		<div class="wrap size-80">
+			<?= $page->intro()->kirbytext() ?>
+			<ul class="flexblock features">
+		      <li>
+		        <a href="/projets">
+		          <h2>
+		            <img src="<?= $site->url() ?>/assets/images/competences.png">
+		            Les 8 compétences clés retenues
+		          </h2>
+		        </a>
+		      </li>
+		      <li>
+		        <a href="/competences">
+		          <h2>
+		            <img src="<?= $site->url() ?>/assets/images/user.png">
+		            Les 28 compétences cibles
+		          </h2>
+		        </a>
+		      </li>
+		      <li>
+		        <a href="/les-4-etapes-de-la-fabrique-d-energies">
+		          <h2>
+		            <img src="<?= $site->url() ?>/assets/images/loupe.png">
+		            La démarche en un coup d'oeil
+		          </h2>
+		        </a>
+		      </li>
+		  </ul>
+		</div>
+	</section>
+
+	<section class="bg-white">
 		<div class="wrap">
 			<img class="alignright size-40" src="<?= $page->images()->first()->url() ?>" alt="atelier">
 			<?= $page->text()->kirbytext() ?>
@@ -50,7 +82,7 @@
 	<?php endforeach ?>
 
 	<section class="bg-primary">
-	  <span class="background dark" style="background-image:url('https://source.unsplash.com/RkBTPqPEGDo/')"></span>
+	  <span class="background dark" style="background-image:url('<?= $site->url() ?>/assets/images/ateliers.jpg')"></span>
 	  <!--.wrap = container 1200px -->
 	  <div class="wrap size-30">
 	    <form>

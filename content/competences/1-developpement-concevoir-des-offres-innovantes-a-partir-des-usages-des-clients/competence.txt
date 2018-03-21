@@ -28,3 +28,5 @@ Description:
 
 Dans le nouveau paysage énergétique, le comportement des consommateurs est en constante évolution, qu'ils soient des ménages ""consomm'acteurs"" ou des entreprises préoccupées de leur responsabilité sociale et de leurs dépenses énergétiques. Il s'agit de transformer l'expérience client à mesure de l’évolution des attentes, de co-construire des offres innovantes et solutions dans l'efficacité énergétique, à partir des usages clients (""design thinking""), d'intégrer dans le marketing des arguments environnementaux et sociétaux, …
 Il faudra également être capable d'intégrer les besoins des territoires, qui vont avoir de plus en plus de responsabilité dans la gestion de l'énergie et devenir de fait des interlocuteurs privilégiés.
+
+(button: faire un truc link: http//::google.com)

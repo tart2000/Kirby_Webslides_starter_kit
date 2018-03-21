@@ -11,3 +11,6 @@ fields:
   text:
     label: Text
     type:  textarea
+  stared: 
+    label: Intro compétences clés 
+    type: textarea

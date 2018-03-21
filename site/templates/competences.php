@@ -126,7 +126,7 @@
 			
 			<?php if (param('star') != '') : ?>
 				<div id="comp-title">
-					<h4>Compétences-clés retenues par la Branche comme priorités de formation</h4>
+					<?= $page->stared()->kirbytext() ?>
 				</div>
 			<?php endif ?>
 
