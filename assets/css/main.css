@@ -14,6 +14,9 @@ h1 {
 h2 {
   padding-bottom: 2rem;
 }
+h3 {
+  margin-bottom: 1.5rem;
+}
 h4 {
   font-size: 2.8rem;
   line-height: 2.8rem;
@@ -48,6 +51,9 @@ a.button {
 }
 ul, ol {
   margin-bottom: 30px;
+}
+ul>li {
+  text-align: left;
 }
 section p {
   margin-bottom: 1rem !important;

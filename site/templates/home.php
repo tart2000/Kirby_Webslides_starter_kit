@@ -20,14 +20,16 @@
 	</section>
 
 	<section class="bg-white">
-		<div class="wrap size-80">
+		<div class="wrap size-50 aligncenter">
 			<?= $page->intro()->kirbytext() ?>
+		</div>
+		<div class="wrap size-80">
 			<ul class="flexblock features">
 		      <li>
 		        <a href="/projets">
 		          <h2>
 		            <img src="<?= $site->url() ?>/assets/images/competences.png">
-		            Les 8 compétences clés retenues
+		            Les 8 projets de formation 
 		          </h2>
 		        </a>
 		      </li>
@@ -49,14 +51,6 @@
 		      </li>
 		  </ul>
 		</div>
-	</section>
-
-	<section class="bg-white">
-		<div class="wrap">
-			<img class="alignright size-40" src="<?= $page->images()->first()->url() ?>" alt="atelier">
-			<?= $page->text()->kirbytext() ?>
-		</div>
-		<!-- Mettre une illustration ici -->
 	</section>
 
 	<?php foreach ($page->children() as $s) : ?>
