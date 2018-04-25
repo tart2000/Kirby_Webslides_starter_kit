@@ -45,7 +45,6 @@ Intro:
 
 - Collecter, synthétiser et présenter des informations sur son environnement
 - Identifier les différents acteurs d'un projet (affaire potentielle) : institutions, clients, partenaires…
-(image: pourcent_test2.jpg)
 
 ----
 
@@ -58,7 +57,6 @@ Inter:
 - Construire et exploiter un retour d'expérience
 - Piloter le déploiement opérationnel d'un projet
 - Identifier les opportunités en matière de financement, réglementation, gestion du risque et nouveaux services (tarification dynamique, effacement, certificats d’économie...)
-(image: pourcent_test2.jpg)
 
 ----
 
@@ -70,7 +68,6 @@ Perf:
 - Construire avec les parties prenantes les grandes lignes d'une offre business
 Piloter un projet complexe qui mobilise des expertises multiples et des acteurs décisionnaires diversifiés
 - Anticiper et accompagner le changement pour l'ensemble des parties prenantes impactées par un projet
-(image: pourcent_test2.jpg)
 
 ----
 
@@ -89,3 +86,63 @@ Il reste à créer une transposition des formations existantes dédiée au secte
 - **Définition d’un référentiel** de niveau Bac+3 (Licence / Bachelor) commun à des écoles d'ingénieur et de commerce (L'association nationale ThinkSmartGrids y travaille).
 
 Il s'agit également de proposer des formations reconnues (délivrance de certificat...) aux professionnels en exercice pour qu’ils élargissent leurs champs de compétences à chacune de ces thématiques de l’ingénierie, la stratégie, le marketing, finance et économie, management, innovation et gestion de projet...
+
+----
+
+Prez1: 20
+
+----
+
+Dist1: 5
+
+----
+
+Elear1: 50
+
+----
+
+Pro1: 15
+
+----
+
+Coa1: 10
+
+----
+
+Prez2: 
+
+----
+
+Dist2: 
+
+----
+
+Elear2: 
+
+----
+
+Pro2: 
+
+----
+
+Coa2: 
+
+----
+
+Prez3: 
+
+----
+
+Dist3: 
+
+----
+
+Elear3: 
+
+----
+
+Pro3: 
+
+----
+
+Coa3: 

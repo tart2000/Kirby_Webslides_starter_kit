@@ -23,9 +23,9 @@
 
 	<section class="bg-light">
 		<div class="wrap size-80">
-			<h3>Enjeux de formation à 5 à 10 ans</h3>
+			<h3><img src="<?= $site->url() ?>/assets/images/enjeux.png"> Enjeux de formation à 5 à 10 ans</h3>
 			<?= $page->enjeux()->kirbytext() ?>
-			<h3>Pré-requis</h3>
+			<h3><img src="<?= $site->url() ?>/assets/images/pre-requis.png"> Pré-requis</h3>
 			<?= $page->pre()->kirbytext() ?>
 		</div>
 	</section>
@@ -35,16 +35,128 @@
 	    <h3>Parcours de formation</h3>
 	    <div class="grid vertical-align">
 	      <div class="column">
-	        <strong>Niveau introduction</strong>
+	        <strong><img src="<?= $site->url() ?>/assets/images/intro.png"> Niveau introduction</strong>
 	        <p><?= $page->intro()->kirbytext() ?></p>
+	        <div class="percents lowlow">
+	        	<?php if ($page->prez1() != '') : ?>
+		        	<div class="percent prez" style="width:<?= $page->prez1() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-university"></i> <?= $page->prez1() ?>%
+			        	</a>
+		        	</div>
+		        <?php endif ?>
+		        <?php if ($page->dist1() != '') : ?>
+		        	<div class="percent dist" style="width:<?= $page->dist1() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-laptop"></i> <?= $page->dist1() ?>%
+						</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->elear1() != '') : ?>
+		        	<div class="percent elear" style="width:<?= $page->elear1() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-play-circle"></i> <?= $page->elear1() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->pro1() != '') : ?>
+		        	<div class="percent pro" style="width:<?= $page->pro1() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-street-view"></i> <?= $page->pro1() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->coa1() != '') : ?>
+		        	<div class="percent coa" style="width:<?= $page->coa1() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-comments"></i> <?= $page->coa1() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+	        </div>
 	      </div>
 	      <div class="column">
-	        <strong>Niveau intermédiaire</strong>
+	        <strong><img src="<?= $site->url() ?>/assets/images/inter.png"> Niveau intermédiaire</strong>
 	        <p><?= $page->inter()->kirbytext() ?></p>
+	       	<div class="percents lowlow">
+	        	<?php if ($page->prez2() != '') : ?>
+		        	<div class="percent prez" style="width:<?= $page->prez2() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-university"></i> <?= $page->prez2() ?>%
+			        	</a>
+		        	</div>
+		        <?php endif ?>
+		        <?php if ($page->dist2() != '') : ?>
+		        	<div class="percent dist" style="width:<?= $page->dist2() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-laptop"></i> <?= $page->dist2() ?>%
+						</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->elear2() != '') : ?>
+		        	<div class="percent elear" style="width:<?= $page->elear2() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-play-circle"></i> <?= $page->elear2() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->pro2() != '') : ?>
+		        	<div class="percent pro" style="width:<?= $page->pro2() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-street-view"></i> <?= $page->pro2() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->coa2() != '') : ?>
+		        	<div class="percent coa" style="width:<?= $page->coa2() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-comments"></i> <?= $page->coa2() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+	        </div>
 	      </div>
+
 	      <div class="column">
-	        <strong>Niveau perfectionnement</strong>
+	        <strong><img src="<?= $site->url() ?>/assets/images/perf.png"> Niveau perfectionnement</strong>
 	        <p><?= $page->perf()->kirbytext() ?></p>
+	        	        <div class="percents lowlow">
+	        	<?php if ($page->prez3() != '') : ?>
+		        	<div class="percent prez" style="width:<?= $page->prez3() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-university"></i> <?= $page->prez3() ?>%
+			        	</a>
+		        	</div>
+		        <?php endif ?>
+		        <?php if ($page->dist3() != '') : ?>
+		        	<div class="percent dist" style="width:<?= $page->dist3() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-laptop"></i> <?= $page->dist3() ?>%
+						</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->elear3() != '') : ?>
+		        	<div class="percent elear" style="width:<?= $page->elear3() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-play-circle"></i> <?= $page->elear3() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->pro3() != '') : ?>
+		        	<div class="percent pro" style="width:<?= $page->pro3() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-street-view"></i> <?= $page->pro3() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+		        <?php if ($page->coa3() != '') : ?>
+		        	<div class="percent coa" style="width:<?= $page->coa3() ?>%;">
+		        		<a href="#">
+			        		<i class="fa fa-comments"></i> <?= $page->coa3() ?>%
+			        	</a>
+		        	</div>
+	        	<?php endif ?>
+	        </div>
 	      </div>
 	    </div>
 	    <!--end .grid -->

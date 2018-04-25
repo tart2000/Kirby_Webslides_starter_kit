@@ -42,19 +42,75 @@ fields:
   pre: 
     label: Pré-requis
     type: textarea
-    width: 1/2
   intro: 
     label: Nieau introduction 
     type: textarea
-    width: 1/2
+  prez1:
+    label: Présentiel 
+    type: number
+    width: 1/4
+  dist1: 
+    label: Distance
+    type: number
+    width: 1/4
+  elear1: 
+    label: e-learning
+    type: number
+    width: 1/4
+  pro1: 
+    label: Mise en situation
+    type: number
+    width: 1/4
+  coa1: 
+    label: Coaching
+    type: number
+    width: 1/4
   inter: 
     label: Niveau intermédiaire 
     type: textarea
-    width: 1/2
+  prez2:
+    label: Présentiel 
+    type: number
+    width: 1/4
+  dist2: 
+    label: Distance
+    type: number
+    width: 1/4
+  elear2: 
+    label: e-learning
+    type: number
+    width: 1/4
+  pro2: 
+    label: Mise en situation
+    type: number
+    width: 1/4
+  coa2: 
+    label: Coaching
+    type: number
+    width: 1/4
   perf: 
     label: Niveau perfectionnement 
     type: textarea
-    width: 1/2
+  prez3:
+    label: Présentiel 
+    type: number
+    width: 1/4
+  dist3: 
+    label: Distance
+    type: number
+    width: 1/4
+  elear3: 
+    label: e-learning
+    type: number
+    width: 1/4
+  pro3: 
+    label: Mise en situation
+    type: number
+    width: 1/4
+  coa3: 
+    label: Coaching
+    type: number
+    width: 1/4
   reco: 
     label: Recommandations 
     type: textarea

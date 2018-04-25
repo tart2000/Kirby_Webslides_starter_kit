@@ -1,0 +1,25 @@
+Title: Sitemap
+
+----
+
+Text: 
+
+Les 8 Projets de Formation ci-dessous présentent les parcours de formation pour les 8 compétences-clés retenues comme prioritaires pour la Branche (lien 8 compétences).
+Ils ont été établis durant l’atelier Action Formation du 7 mars 2018 (lien AAF), en phase 4 de la démarche.(lien vers page méthodo 4)
+
+Leur vocation est de guider les salariés dans leurs orientations de formation, et d’aider les entreprises à mettre en oeuvre de nouveaux dispositifs de formation, sur ces 8 compétences-clés.
+Ils devraient permettre également à chacun d’apprécier plus concrètement les autres compétences d’avenir présentées la Fabrique d’Energies (lien interface 28), qui sont tout autant importantes pour accompagner la transformation des entreprises, et qui seront approfondies hors du cadre de la démarche La Fabrique d’Energies..
+
+----
+
+Domaines: 
+
+- 
+  title: Exploitation des ouvrages et production
+  theid: exploitation
+- 
+  title: 'Ingénierie et R&D'
+  theid: ingenierie
+- 
+  title: Maintenance
+  theid: maintenance

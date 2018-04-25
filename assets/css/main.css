@@ -57,6 +57,7 @@ ul>li {
 }
 section p {
   margin-bottom: 1rem !important;
+  text-align: justify;
 }
 .features li h2 { 
   margin-bottom: -2rem;
@@ -74,6 +75,7 @@ section p {
 .date {
   color: #949494;
 }
+.
 .column .button {
   display: inline-table;
 }
@@ -169,8 +171,39 @@ section p {
   position: fixed;
   top: 20px;
   left: 20px;
-  z-index: 2;
-  color: #28285b;
+  z-index: 40;
+  color: purple;
+}
+.burger2 {
+  font-size:30px;
+  cursor:pointer;
+  position: fixed;
+  top: 60px;
+  left: 20px;
+  z-index: 40;
+  color: purple;
+  pointer-events: none;
+}
+ul.menu {
+  list-style: none;
+  text-transform: uppercase;
+  position: relative;
+  padding-top: 110px; 
+  top: -20px;
+  left: -35px;
+  opacity: 0;
+  background-color: rgba(255,255,255,0.8);
+  z-index: 30;
+  padding-right: 20px;
+}
+ul.menu:hover {
+  opacity: 1;
+}
+.menu h2 {
+  font-size: 1.8rem;
+  line-height: 1.8rem;
+  color: purple !important;
+  font-weight: 700;
 }
 
 #logo-s {
@@ -350,4 +383,63 @@ blockquote p {
 }
 .project-card {
   padding-top: 100px;
+}
+.lowlow {
+  position: absolute;
+  bottom: 0px;
+}
+.column {
+  padding-bottom: 50px !important;
+}
+
+/* Percentage band */ 
+.percents {
+  width: 100%;
+  color: white; 
+  overflow: visible;
+  display: inline-flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.percent {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 8px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.percent a {
+  color: white;
+}
+.prez {
+  background-color: #1f4c63;
+}
+.dist {
+  background-color: #275c78;
+}
+.elear {
+  background-color: #2e6a8b;
+}
+.pro {
+  background-color: #36799d;
+}
+.coa {
+  background-color: #3b85af;
+}
+.sitemap > ul > ul {
+  padding-left: 25px;
+}
+.sitemap > ul > ul > ul {
+  padding-left: 50px;
+}
+
+/* My print */
+@media print {
+  .size-60, .size-50, .size-30, .size-80 {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
 }

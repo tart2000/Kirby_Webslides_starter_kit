@@ -8,6 +8,7 @@
 		      <source src="<?= $site->url() ?>/assets/images/timeline.mp4" type="video/mp4">
 		    </video>
 		</div>
+		
 	  	<!-- qQwxU7NJWTI ville nuit lumières -->
 		<!-- previous yETqkLnhsUI pylones sur fond campagne -->
 
@@ -16,6 +17,9 @@
 	    <?= $site->baseline()->kirbytext() ?>
 	    <img id="logo_ieg" src="<?= $site->url() ?>/assets/images/logo_ieg.png">
 	  </div>
+
+	  <?php snippet('arrow-down') ?>
+
 	  <!-- .end .wrap -->
 	</section>
 
@@ -37,12 +41,12 @@
 		        <a href="/competences">
 		          <h2>
 		            <img src="<?= $site->url() ?>/assets/images/user.png">
-		            Les 28 compétences cibles
+		            Les 28 compétences d'avenir
 		          </h2>
 		        </a>
 		      </li>
 		      <li>
-		        <a href="/les-4-etapes-de-la-fabrique-d-energies">
+		        <a href="/#steps">
 		          <h2>
 		            <img src="<?= $site->url() ?>/assets/images/loupe.png">
 		            La démarche en un coup d'oeil

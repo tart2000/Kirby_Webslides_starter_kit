@@ -1,5 +1,5 @@
 
-<section class="bg-white">
+<section id="steps" class="bg-white">
   <span class="background light" style="background-image:url('<?= $site->url().'/assets/images/postits.jpg' ?>')"></span>
   <div class="wrap">
     <h2><?= $s->title() ?></h2>
