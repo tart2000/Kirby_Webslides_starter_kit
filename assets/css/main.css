@@ -75,7 +75,9 @@ section p {
 .date {
   color: #949494;
 }
-.
+.purple {
+  color: purple;
+}
 .column .button {
   display: inline-table;
 }
@@ -187,10 +189,11 @@ section p {
 ul.menu {
   list-style: none;
   text-transform: uppercase;
-  position: relative;
+  position: absolute;
   padding-top: 110px; 
   top: -20px;
-  left: -35px;
+  left: -20px;
+  width: 250px;
   opacity: 0;
   background-color: rgba(255,255,255,0.8);
   z-index: 30;
@@ -362,14 +365,14 @@ blockquote p {
   text-align: left !important;
 }
 .grid.vertical-align .column {
-    justify-content: baseline !important;
+    justify-content: start !important;
 }
 .flexblock.gallery>li {
-  height: 400px;
+  height: 500px;
 }
 .flexblock.gallery>li>a>figure {
   margin-bottom: 0px;
-  height: 400px;
+  height: 500px;
 }
 .projet .column img {
   margin-top: 25px;
@@ -387,11 +390,14 @@ blockquote p {
 .lowlow {
   position: absolute;
   bottom: 0px;
+  left: 0px;
 }
 .column {
   padding-bottom: 50px !important;
 }
-
+.projet [class*="bg-"] .light {
+  opacity: 0.3;
+}
 /* Percentage band */ 
 .percents {
   width: 100%;
@@ -429,11 +435,22 @@ blockquote p {
 .coa {
   background-color: #3b85af;
 }
+.show-on-hover {
+  display: none;
+  margin-right: 8px;
+}
+.show-on-hover.right {
+  float: right;
+  text-decoration: underline !important;
+}
 .sitemap > ul > ul {
   padding-left: 25px;
 }
 .sitemap > ul > ul > ul {
   padding-left: 50px;
+}
+.steps>li>p {
+  text-align: left;
 }
 
 /* My print */

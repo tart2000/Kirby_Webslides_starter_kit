@@ -1,0 +1,145 @@
+Prevnext: 
+
+----
+
+Title: Mobilité professionnelle | Être capable de maîtriser les connaissances de base sur l'environnement et les grands enjeux des énergies
+
+----
+
+Star: 0
+
+----
+
+Categories: 
+
+----
+
+Domaine: 
+
+----
+
+Family: 
+
+----
+
+Description: 
+
+Comprendre - Se repérer - S'approprier
+La Loi de Transition Énergétique, les potentiels offerts par les technologies, les nouveaux usages de l'énergie, les bouleversements socio-économiques, modifient profondément l’environnement des acteurs de l'énergie, dans toutes leurs activités. Comprendre ces enjeux permet de mieux situer son action, participer à la transformation des entreprises du secteur, évoluer au sein de la filière. Il s'agit pour cela de réunir des connaissances de base : appréhender les phénomènes de globalisation et territorialisation (grâce à l'économie, la géographie, et la sociologie) ; décrypter les orientations stratégiques des entreprises (énergies renouvelables, maîtrise de l'énergie, smart cities et réseaux électriques du futur….) ; comprendre les nouvelles offres de services et les nouveaux modèles d'affaires de l'énergie (investisseurs, autoproduction, expérience-client…).
+
+Compétence du ‘’socle commun pour évoluer au sein des IEG’’. En donnant aux salariés de la Branche une meilleure compréhension des enjeux liés à la transition énergétique, elle favorise leurs parcours professionnels au sein du secteur des énergies.
+Elle répond aux principes de priorisation n°1, 3, 4, 5 et 6.
+
+----
+
+Enjeux: 
+
+- Chacun doit être en mesure de resituer son domaine de compétences dans les transformations liées à la transition, ce qui suppose d’être incité à sortir de son “silo” (et d’avoir des outils disponibles à cette fin), d’être en “veille” et en “auto-formation”.
+- L’enjeu de formation essentiel est de parvenir à mettre sur pied des programmes et modalités de formation “agiles” qui “entrelacent” les dimensions (le local et le global) et les disciplines (droit, sociologie, géopolitique, et non pas seulement technologies énergétiques), et évoluent en même temps que l’environnement.
+
+----
+
+Pre: Aucun pré-requis, puisqu’il s’agit d’une compétence dite du ‘’socle commun’’, accessible au plus grand nombre.
+
+----
+
+Intro: 
+
+- Définir et caractériser les grands enjeux des énergies et les prioriser par rapport à son contexte
+- Décrire les technologies bas carbone associées et leur interaction avec les autres technologies
+- Décrire les grandes évolutions des corps de règles et savoirs, les traduire en objectifs pour son activité et les appliquer dans son quotidien
+- Décrire les acteurs et parties prenantes du secteur des énergies
+- Décrire les enjeux autour de l’autoconsommation et les débats de société liés aux nouveaux usages (ex: big data et confidentialité)
+- Situer son activité dans les problématiques environnementales
+
+----
+
+Prez1: 20
+
+----
+
+Dist1: 40
+
+----
+
+Elear1: 40
+
+----
+
+Pro1: 
+
+----
+
+Coa1: 
+
+----
+
+Inter: 
+
+- Décrire les principes de base des technologies “convergentes” avec les technologies énergétiques (numérique, intelligence artificielle, blockchain, Internet des objets, …).
+- Décrire les nouvelles offres de services et les nouveaux modèles d'énergie
+- Transformer le cadre réglementaire en opportunité dans son cadre de travail
+- Cartographier et mobiliser les acteurs nécessaires à son projet
+- Mesurer l'impact de son activité sur l'environnement (eau, déchets, etc)
+- Mobiliser ses valeurs et les partager (ambassadeur)
+
+----
+
+Prez2: 
+
+----
+
+Dist2: 
+
+----
+
+Elear2: 10
+
+----
+
+Pro2: 50
+
+----
+
+Coa2: 40
+
+----
+
+Perf: 
+
+- Développer une vision “systémique” qui, au-delà du périmètre ‘’énergétique”, intègre également les évolutions du numérique et la complexité de l’intégration de services dans la “smart cities”
+- Co-construire des scénarios prospectifs sur les énergies (créer des scénarios, recueillir et partager des éléments prospectifs)
+- Construire un benchmark et un retour d'expérience pour nourrir les formations futures
+
+----
+
+Prez3: 50
+
+----
+
+Dist3: 
+
+----
+
+Elear3: 
+
+----
+
+Pro3: 50
+
+----
+
+Coa3: 
+
+----
+
+Reco: 
+
+Des formations très ciblées existent sur les “métiers de la transition” (ex ”métiers des énergies renouvelables, de l’efficacité énergétique, de l’assainissement de l’eau, du recyclage, et de la valorisation des déchets…”) mais qui qui restent organisées en silo.
+
+Certaines formations sont plus larges et prospectives et permettent de comprendre les enjeux de certaines “briques” de la Transition Energétique (ex “économie circulaire”), mais elles sont rares.
+
+
+La branche pourrait se positionner sur la création de modules apportant une ‘’vision globale’’ et montrant comment, sur la scène énergétique, les mouvements globaux (Accord de Paris, marché du pétrole, …) modifient l’environnement de travail des acteurs de l’énergie : formations “didactiques” sur les technologies émergentes (ex: stockage, blockchain, hydrogène, nucléaire de 4G, …) ou les nouveaux modèles (ex: autoconsommation), non pour former des spécialistes, mais pour diffuser largement la “culture générale” de la transition.
+
+Au-delà de ces contenus, il est recommandé d’utiliser des modalités innovantes, attractives et transformatrices pour les publics à former, dans le souci d’une diffusion large de  ce socle commun. Par exemple : “serious game” pour le premier niveau, résolution de défis “on the job” pour le niveau 2, ateliers  expérientiels pour le niveau 3, …

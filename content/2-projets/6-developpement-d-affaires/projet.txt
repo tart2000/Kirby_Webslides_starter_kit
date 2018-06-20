@@ -24,7 +24,7 @@ Family:
 
 Description: 
 
-**Anticiper - S'adapter - Orchestrer**
+<font color="navy">**Anticiper - S'adapter - Orchestrer**</font>
 La territorialisation, les nouveaux usages de l'énergie, le déploiement des smart grids nécessitent de faire travailler ensemble une multitude d'acteurs, pour créer de nouvelles offres : fournisseurs, clients, PME, startups, collectivités, etc. Des capacités diversifiées doivent être mobilisées : agilité, réactivité, créativité, sens politique et relationnel… Cela implique d'être capable d'identifier des potentiels à différentes échelles géographiques, se positionner sur les appels d'offres, réunir les bons acteurs, traduire les besoins du marché en solutions technologiques, mettre en place des démonstrateurs en faisant le lien avec les services concernés, en tirer des enseignements pour développer les activités; imaginer de nouveaux services tout en tenant compte du cadre offert par la régulation, le juridique et la tarification, gérer dans le temps ces partenariats et une diversité croissante d'offres.
 
 Compétence au cœur des nouveaux usages de l’énergie. Elle accompagne le mouvement de transformation des entreprises, sur un plan à la fois technologique, commercial et partenarial.
@@ -89,47 +89,47 @@ Il s'agit également de proposer des formations reconnues (délivrance de certif
 
 ----
 
-Prez1: 20
+Prez1: 30
 
 ----
 
-Dist1: 5
+Dist1: 
 
 ----
 
-Elear1: 50
+Elear1: 
 
 ----
 
-Pro1: 15
+Pro1: 40
 
 ----
 
-Coa1: 10
+Coa1: 30
 
 ----
 
-Prez2: 
+Prez2: 15
 
 ----
 
-Dist2: 
+Dist2: 10
 
 ----
 
-Elear2: 
+Elear2: 25
 
 ----
 
-Pro2: 
+Pro2: 25
 
 ----
 
-Coa2: 
+Coa2: 25
 
 ----
 
-Prez3: 
+Prez3: 20
 
 ----
 
@@ -137,12 +137,12 @@ Dist3:
 
 ----
 
-Elear3: 
+Elear3: 20
 
 ----
 
-Pro3: 
+Pro3: 40
 
 ----
 
-Coa3: 
+Coa3: 20

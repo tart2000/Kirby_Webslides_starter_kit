@@ -5,35 +5,25 @@
 		<div class="wrap size-50 sitemap">
 			<h2><?= $page->title() ?></h2>
 			<ul>
-				<?php foreach ($site->pages() as $p) : ?>
-					<li>
-						<a href="<?= $p->url() ?>">
-							<?= $p->title() ?>
-						</a>
-					</li>
-					<?php if ($p->hasChildren()) : ?>
-					<ul>
-						<?php foreach ($p->children() as $pp) : ?>
-							<li>
-								<a href="<?= $pp->url() ?>">
-									<?= $pp->title() ?>	
-								</a>					
-							</li>
-							<?php if ($pp->hasChildren()) : ?>
-							<ul>
-								<?php foreach ($pp->children() as $ppp) : ?>
-									<li>
-										<a href="<?= $ppp->url() ?>">
-											<?= $ppp->title() ?>	
-										</a>					
-									</li>
-								<?php endforeach ?>
-							</ul>
-							<?php endif ?>
-						<?php endforeach ?>
-					</ul>
-					<?php endif ?>
-				<?php endforeach ?>
+				<h3>Pages</h3>
+				<?php $thepages = $site->pages()->visible()->filterBy('template','default') ?>
+				<?php snippet('sitemap-min', array('thepages' => $thepages)) ?>
+
+				<h3>Projets de formation</h3>
+				<?php $thepages = $site->pages()->filterBy('template','projets') ?>
+				<?php snippet('sitemap-min', array('thepages' => $thepages)) ?>
+
+				<h3>Compétences d'avenir</h3>
+				<?php $thepages = $site->pages()->filterBy('template','competences') ?>
+				<?php snippet('sitemap-min', array('thepages' => $thepages)) ?>
+
+				<h3>Etudes</h3>
+				<?php $thepages = $site->pages()->filterBy('template','readings') ?>
+				<?php snippet('sitemap-min', array('thepages' => $thepages)) ?>
+
+				<h3>Evénements</h3>
+				<?php $thepages = $site->pages()->filterBy('template','events') ?>
+				<?php snippet('sitemap-min', array('thepages' => $thepages)) ?>
 			</ul>
 		</div>
 	</section>

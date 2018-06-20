@@ -1,0 +1,158 @@
+Prevnext: 
+
+----
+
+Title: Numérique | Être capable de maîtriser l'alphabet du numérique
+
+----
+
+Star: 0
+
+----
+
+Categories: 
+
+----
+
+Domaine: 
+
+----
+
+Family: 
+
+----
+
+Description: 
+
+Repérer - Capter - Sélectionner - Stocker - Valoriser
+Tous secteurs confondus, un métier sur deux sera impacté par la transition numérique. Cette transition numérique est la combinaison de la mise en réseau (des personnes, des équipements, des clients) et de la mise en données (des consommations, des processus, etc.), qui ensemble créent de la valeur. Il importe dans ce contexte de maîtriser "l'alphabet du numérique" : savoir repérer, capter, analyser, stocker, valoriser les flux d'informations. D'autant que les outils numériques font naître des risques nouveaux liés aux conditions de stockage et de circulation des données, dont la compréhension est déterminante. La maîtrise de « l’alphabet du numérique » inclut pour chacun de savoir également identifier dans ses pratiques quotidiennes le bon niveau de sécurité et de confidentialité de ses données, individuelles ou collectives.
+
+Compétence dite du ‘’socle commun’’, qui concerne tous les salariés de la branche. Dans un contexte de digitalisation des services, process et métiers des entreprises, cette compétence est une condition première à l'adaptation des salariés à leur nouvel environnement.
+Elle répond aux principes de priorisation n° 1, 2, 3, 4, 5 et 6.
+
+----
+
+Enjeux: 
+
+- Le numérique n’est pas réservé à des experts ni cantonné à un ‘secteur’ mais touche tous les domaines et métiers. Ceux qui ne le comprennent pas ou ne le maîtrisent pas seront les nouveaux ‘illettrés’ et l’évolution de leur carrière peut en être compromise. 
+- Le numérique n’est pas seulement une collection d’outils. Il est associé à des pratiques de travail différentes (transparence, collaboration, généralisation des capacités de production, travail en écosystème, etc.) qui bouleversent les structures traditionnelles. C’est un changement de paradigme qu’il est nécessaire de bien cerner . 
+- Maîtriser le numérique d’aujourd’hui est indispensable pour anticiper et s’approprier les différentes vagues technologiques en préparation (IoT, blockchain, IA, etc.) amenant chacune une potentielle disruption.
+- L’alphabet du numérique va au-delà de la maîtrise de sa messagerie, de la suite Office et de ses logiciels métiers : il est amené à couvrir les outils collaboratifs, la production autonome de supports et médias, le prototypage de projets, le dialogue avec les bots et autres objets à l’intelligence augmentée, le codage de base...,
+
+----
+
+Pre: 
+
+- Savoir utiliser les différents outils à sa disposition : ordinateur personnel, smartphone, tablette
+- Avoir une maîtrise suffisante de sa messagerie et de ses logiciels métiers actuels
+
+----
+
+Intro: 
+
+Identifier les outils pertinents (logiciels et physiques) nécessaires à l'exercice de ses fonctions au regard de ses besoins, de ceux de son entreprise ou de ses partenaires-projets, décrire leurs principales fonctionnalités  
+Décrire les usages du numérique et la culture associée, à travers le lexique des standards du WEB (i.e. recherche Booléenne, open source, UX-expérience utilisateur,...), la notion d’algorithme...
+Exploiter les forums et outils en ligne pour trouver des solutions à ses problèmes
+Décrire les règles applicables à son usage du numérique (sécurité et sobriété).
+
+----
+
+Prez1: 10
+
+----
+
+Dist1: 10
+
+----
+
+Elear1: 40
+
+----
+
+Pro1: 30
+
+----
+
+Coa1: 10
+
+----
+
+Inter: 
+
+Reconnaître les risques et limites d'un outil informatique et arbitrer entre pleine autonomie et usages contrôlés
+Définir et respecter une frontière numérique entre vie professionnelle et vie privée
+Utiliser les outils numériques applicables au collaboratif
+Produire en autonomie : supports, images, réseaux sociaux, newsletters, sites...: 
+Rédiger un cahier des charges pour un projet numérique et sélectionner des prestataires extérieurs
+
+----
+
+Prez2: 60
+
+----
+
+Dist2: 
+
+----
+
+Elear2: 
+
+----
+
+Pro2: 30
+
+----
+
+Coa2: 10
+
+----
+
+Perf: 
+
+Organiser, ordonner, trier et sécuriser son environnement numérique de travail
+Collaborer et échanger avec ses collègues sur les outils, méthodes et bonnes pratiques afin de gagner en productivité
+Organiser et co-construire sa stratégie digitale (individuelle, d'équipe, d'unité) en s'appuyant sur la stratégie de son entreprise
+Analyser la transformation digitale dans son secteur afin de protéger ou transformer son métier
+Superviser un projet numérique avec des prestataires externes
+
+----
+
+Prez3: 50
+
+----
+
+Dist3: 
+
+----
+
+Elear3: 
+
+----
+
+Pro3: 
+
+----
+
+Coa3: 50
+
+----
+
+Reco: 
+
+Le développement des compétences numériques est une priorité pour les entreprises depuis plusieurs années, avec plus ou moins de succès.  Un mouvement est en cours, notamment au sein des écoles de commerce, qui met le numérique au coeur des apprentissages, avec des formats qui permettent d‘expérimenter jusqu’au code, à l’impression 3D, au test par le prototypage, pour atteindre une forte autonomie.
+
+Deux modules de formation apparaissent comme prioritaires à créer :
+- Un module ‘’boîte à outils’’à l’usage des salariés de la Branche (niveau 1) : ce module permettra à chacun d’aller à son rythme dans son apprentissage : les participants y piochent au besoin de leurs projets et de leur parcours individuel. 
+- Ou bien encore un module de Définition de sa stratégie digitale (niveau 3) 
+
+
+A noter que plusieurs principes s’imposent en matière de formation au numérique :
+- Il n’y a pas une seule manière d’apprendre le numérique, ni de l’utiliser pour apprendre. Il est impossible de définir un parcours “standard” et de le généraliser.
+- L’apprentissage du numérique s’organise autour de ses applications / usages (par exemple, utiliser Google - Docs de manière appliquée, dans un projet collaboratif).
+- Énormément de contenus de formation sont disponibles, l’enjeu est plutôt de les traduire depuis l’Anglais (contenus délivrés après traduction ou savoir soi-même traduire les contenus) et d’apprendre à faire le tri (curation). 
+- La plupart des personnes qui maîtrisent le numérique aujourd’hui se sont auto-formées, via  les forums, tutoriaux, MOOCs ou de simples vidéos (presque toujours en Anglais). Le nombre de formations en ligne au code a explosé ces dernières années (par exemple: http://codecademy.com). 
+- La culture numérique est indissociable de la notion de pair-à-pair et l’échange entre les participants incontournable dans les formations au numérique (exemples :  identification d’interlocuteurs relais de la transformation, en interne ou en inter-entreprises).
+- Pour être efficace, la formation au numérique doit être directement associée à une approche métier (“si j’apprends ça, je pourrai faire mon métier mieux / gagner du temps”).
+- Il y a une vraie valeur à rapprocher physiquement les gens, à travers des formats participatifs. 
+- On évoque souvent, à propos du numérique, les échanges inter-générationnels, comme une clé. Mais la culture numérique ne peut pas être vue uniquement sous le prisme générationnel. Ce n’est pas parce qu’un jeune sait utiliser son smartphone qu’il est capable de prototyper une application ou qu’il saurait rédiger un cahier des charges technique. 
+- Enfin, il faut bien comprendre que le numérique est associé à une culture et des valeurs (une vision du monde, autour de la désintermédiation, l’agilité, l’open source, le collaboratif etc.) qui peut parfois entrer en conflit avec la culture de l’organisation. Par exemple, le département SI a historiquement le choix des outils utilisés. Que se passe-t-il si des équipes le court-circuitent pour utiliser Slack ? On ne peut pas calquer des nouveaux outils sur des anciennes méthodes. Il convient donc de penser l’évolution de l’organisation en même temps que la formation des employés.

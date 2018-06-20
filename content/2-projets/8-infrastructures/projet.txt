@@ -1,0 +1,162 @@
+Prevnext: 
+
+----
+
+Title: Infrastructures | Être capable de conduire la transformation des actifs industriels
+
+----
+
+Star: 0
+
+----
+
+Categories: 
+
+----
+
+Domaine: 
+
+----
+
+Family: 
+
+----
+
+Description: 
+
+Evaluer - Gérer - Valoriser
+Le renouvellement des moyens de production, de transport et de distribution implique des
+compétences sur des installations de générations différentes et des compétences d&#39;expertise pour
+identifier le seuil entre rénovation (repowering) partielle ou totale et remplacement, sur critère
+d'efficience (coûts, rendement, émissions de CO2).
+Ces transformations impliquent une expertise sur l&#39;organisation du démantèlement de ces
+infrastructures, de la collecte et de la valorisation des déchets des matériels anciens. La
+transformation des actifs industriels doit être menée en intégrant dans les pratiques les bases de
+l&#39;éco-conception, dans un objectif de développement durable.
+Compétence impliquant plusieurs expertises dans des domaines professionnels ciblés et en évolution
+technologique. Elle s'avère déterminante dans un contexte d&#39;évolutions toujours plus rapides, pour
+une rénovation partielle ou totale, mais cohérente, des moyens de production et des réseaux.
+Elle répond aux principes de priorisation n° 1, 3 et 5.
+
+----
+
+Enjeux: 
+
+1. La transition énergétique et technologique peut provoquer des appréciations ou dépréciations importantes des actifs. La perception anticipée des évolutions constitue une compétence précieuse pour les entreprises de ce secteur.
+1. Il s'agit de consolider la maîtrise industrielle des différents objets techniques et d'assurer l'acquisition des nouvelles compétences. La formation utile relève ainsi d'une maîtrise des techniques concernées dans la durée, d'une sensibilisation aux enjeux économiques, voire juridiques, qui entourent les différentes filières techniques, de l'acquisition d'une vision système permettant de comprendre les articulations technico-économiques et d'identifier le rôle de chacun dans la chaîne de valeur, y compris par rapport aux enjeux environnementaux.
+1. La compétence est au cœur d’un triptyque : réglementations et économie des projets, technologies, concurrences au sens large (produits de substitution : énergie verte fossile ou nucléaire, mais aussi ouverture à la concurrence du marché de l’énergie). Elle implique une veille permanente et une compréhension des tendances qui se dégagent.
+1. La transformation des actifs nécessite de faire cohabiter plusieurs générations d’équipements, autant sur le plan technologique qu’économique. Il s’agit donc pour le collaborateur de maîtriser, simultanément, les technologies passées et futures ainsi que les mécaniques financières pour rentabiliser cette cohabitation.
+1. La dimension humaine est essentielle pour l’accompagnement des transformations industrielles.
+
+----
+
+Pre: 
+
+- Maîtriser les connaissances de base sur l’environnement et les enjeux du secteur énergétique : acteurs, transition, nouveaux modèles énergétiques, technologies en émergence…
+- Avoir une expérience avérée du pilotage d’actifs industriels.
+
+----
+
+Intro: 
+
+- Lister toutes les technologies existantes en mettant en place un dispositif de veille permanente approprié : environnemental, juridique, géopolitique, technique et/ou financier
+- Réaliser des calculs d’investissement : OPEX (operational expenditure) pour les dépenses d'exploitation ( charges courantes pour exploiter une infrastructure) et CAPEX (capital expenditure) pour les dépenses d'investissement 
+- Décrire les opportunités offertes par les différentes technologies industrielles en émergence (objets connectés, Big Data, Smart Grid...)
+
+----
+
+Prez1: 20
+
+----
+
+Dist1: 
+
+----
+
+Elear1: 20
+
+----
+
+Pro1: 50
+
+----
+
+Coa1: 10
+
+----
+
+Inter: 
+
+- Analyser la faisabilité, les atouts, les impacts, les gains, et les contraintes de chacune des solutions potentielles
+- Intégrer dans ses pratiques les méthodes d’éco-conception (notion de cycle de vie d’une installation  jusqu’au recyclage et/ou la destruction)
+- Manager la coexistence des technologies (old and young), sur le plan technique (outils de maintenance) et humain (connaissances)
+- Se tenir informé du cadre réglementaire français et européen en terme de subventions et d’aides qui concernent la transformation d’actifs industriels (subvention à la baisse d’impact carbone, crédit d'impôt sur le déploiement d’une technologie particulière, subvention d’un territoire pour l’installation d'infrastructure)
+
+----
+
+Prez2: 
+
+----
+
+Dist2: 
+
+----
+
+Elear2: 10
+
+----
+
+Pro2: 60
+
+----
+
+Coa2: 30
+
+----
+
+Perf: 
+
+- Argumenter auprès des influenceurs et autres parties prenantes (collectivités) sur le choix de démantèlement, repowering ou remplacement
+- Défendre les enjeux et les choix liés à la conduite du changement dans la transformation des actifs industriels
+- Piloter les projets de démantèlement dans toutes ses composantes, du cadre juridique à la réhabilitation
+- Accélérer le processus de décision grâce à des phases de test, correction et amélioration
+- Coordonner un écosystème pluridisciplinaire, inter-métier, inter-entreprise
+- Identifier les partenaires extérieurs qui détiendraient des technologies pertinentes
+
+----
+
+Prez3: 70
+
+----
+
+Dist3: 
+
+----
+
+Elear3: 5
+
+----
+
+Pro3: 
+
+----
+
+Coa3: 15
+
+----
+
+Reco: 
+
+**Des formations existent :**
+- dans le montage et la gestion de projets industriels, notamment le financement et la mécanique de retour sur investissement;
+- dans la réglementation du démantèlement industriel, de la gestion des déchets et de l’économie circulaire;
+- dans le  management et à la conduite du changement.
+
+**La branche pourrait encourager la création de modules plus ciblés sur 3 objectifs :**
+1. Développer sa vision globale, régulièrement actualisée, de l'environnement concurrentiel du secteur (prix, technologies…) et des enjeux qui en résultent et viennent impacter la performance actuelle ou future des actifs industriels.
+1. Décrypter les tendances de fond et détecter des partenaires potentiels (start-up, pôle de compétitivité, cluster, centre de R&D, …) pour accompagner la transformation des infrastructures industrielles
+1. Manager la coexistence des technologies de générations différentes), sur le plan technique (outils de maintenance) et humain (connaissances), comme cela existe pour les infrastructures informatiques :
+- Accompagner les anciennes générations de salariés vers la maîtrise des nouvelles technologies industrielles (Informatique, Big Data, Intelligence Artificielle, Internet des Objets, Smart Grid,…)
+- Former les nouveaux collaborateurs à la compréhension des anciennes technologies
+- Structurer la ‘’bibliothèque’’ des technologies disponibles.
+- Construire de nouvelles organisations et des méthodes de travail adaptées aux nouvelles technologies (travaux à distance grâce à l’Internet des Objets, maintenance robotisée…).

@@ -1,0 +1,153 @@
+Prevnext: 
+
+----
+
+Title: Mobilité professionnelle | Être capable d'apprendre à apprendre
+
+----
+
+Star: 0
+
+----
+
+Categories: 
+
+----
+
+Domaine: 
+
+----
+
+Family: 
+
+----
+
+Description: 
+
+Apprendre - Se transformer - S'adapter
+Les transformations qui s'opèrent au sein du secteur des énergies, qu'elles soient stratégiques, technologiques, réglementaires ou sociétales, couplées à la transition digitale, rendent prioritaire le développement continu de nouvelles compétences. L'essor du digital rend les connaissances de plus en plus facilement accessibles, mais la rapidité des transformations les rend rapidement périssables. Il s'agit avant tout d'apprendre à apprendre : confronter ses connaissances aux évolutions de son environnement, se tenir informé des changements de son métier et des nouvelles opportunités, utiliser le panel des modes d'apprentissage (tutorat, formation par les pairs, immersions, MOOC, formations mixtes... ). Apprendre, ce n'est pas seulement se former, c'est aussi apprendre de ses expériences professionnelles et sociales et intégrer dans cet apprentissage continu la culture de la polyvalence et de la mobilité.
+
+
+Compétence appartenant au ‘’socle commun pour évoluer au sein des IEG’’. Elle peut être considérée comme une sorte de pré-requis pour chaque salarié pour évoluer dans son parcours professionnel.
+Elle répond aux principes de priorisation n° 1, 2, 3, 4, 5 et 6
+
+----
+
+Enjeux: 
+
+Apprendre à apprendre devient indissociable de toute vie professionnelle pour faire face aux évolutions sociologiques et technologiques toujours plus rapides de l’environnement.
+- Il s’agit de développer de nouvelles aptitudes comportementales, pour que chacun puisse s'intégrer dans un contexte d'activités - et pas seulement d'emplois - en évolution permanente.
+- Cela met en jeu des compétences de base, des savoir-être et des qualités pour nouer des relations avec son environnement professionnel, pour grandir ensemble, tirer des enseignements des expériences au quotidien, avec une versatilité des rôles (tantôt apprenant, facilitateur ou "passeur").
+- Le développement de l’apprentissage en autonomie est une question clé pour demain - comme partie intégrante des missions d’un collaborateur.
+
+----
+
+Pre: Une première expérience en auto-formation serait un plus au niveau introduction, une action en développement personnel (type MBTI), pour le niveau perfectionnement.
+
+----
+
+Intro: 
+
+- Développer ses compétences comportementales : connaissance de soi et réflexivité, identification de son mode d’apprentissage, Intelligence émotionnelle, créativité...
+- Travailler en équipe et en mode projet (inter et transdisciplinarité, multi-culturalité)
+- Capter les alertes sur son efficience et sortir de sa zone de confort
+- Travailler en univers informationnel dense
+- Développer une approche éthique de l'énergie et des usages
+- Trouver des formations adaptées après une recherche en ligne
+
+----
+
+Prez1: 20
+
+----
+
+Dist1: 20
+
+----
+
+Elear1: 20
+
+----
+
+Pro1: 20
+
+----
+
+Coa1: 20
+
+----
+
+Inter: 
+
+- Piloter sa propre veille: des enjeux croisés du développement soutenable (Sustainable Development goals ONU) et de l'accélération technologique
+- Décrypter les évolutions de son environnement (sociétales, technologiques, industrielles...) pour distinguer les actions de professionnalisation à mettre en oeuvre pour soi et pour son entourage
+- Tirer des enseignements de son action, de ses pairs et de ses partenaires : désapprendre, confronter ses connaissances, les ré-agencer pour en acquérir de nouvelles, remettre en cause ses pratiques, faire preuve de résilience
+- Enrichir les connaissances communes
+
+----
+
+Prez2: 40
+
+----
+
+Dist2: 
+
+----
+
+Elear2: 20
+
+----
+
+Pro2: 40
+
+----
+
+Coa2: 
+
+----
+
+Perf: 
+
+- Gérer la complexité et l'intégrer dans une approche systémique de son activité
+- Contribuer à faire de son activité / son service une ’organisation apprenante’
+- Travailler avec les outils de l'intelligence artificielle
+
+----
+
+Prez3: 50
+
+----
+
+Dist3: 
+
+----
+
+Elear3: 
+
+----
+
+Pro3: 50
+
+----
+
+Coa3: 
+
+----
+
+Reco: 
+
+On pourrait considérer que pour cette compétence spécifique ‘’apprendre à apprendre’’, il revient à l'apprenant d’être "consommacteur" de son évolution professionnelle, en opérant ses propres choix parmi l'offre disponible au moment où il souhaite se former, plutôt que de l’orienter sur tels ou tels types de formation. Des parcours personnalisés sont en effet envisageables à partir des MOOCs déjà disponibles (offre vaste). Exemple : Openclassrooms a ouvert un MOOC “apprendre à apprendre”.
+
+Toutes les formations expérientielles sont également à envisager pour développer les compétences comportementales : modes projets, participation à des workshops ou événements de type ‘’hackathon’’, atelier en fablab, pour comprendre les deux leviers puissants que sont l'action et le partage (par la coproduction).
+
+
+Mais l’on peut également considérer que cette compétence, au regard des enjeux de la Branche, ouvre un nouveau champ ‘’formatif’’, avec des formations spécifiques, combinées, impliquant interdisciplinarité, P2P learning (apprentissage pair-à-pair), project-based et challenge-based training, et croisant savoirs sur l'énergie, savoirs informatiques et soft skills acquis en situation complexe.
+L’innovation portera également sur le métissage entre ‘’sciences dures” (savoirs techniques / expertises) et sciences humaines (compétences transverses), 
+Ces nouvelles formations incluront des séquences expérientielles centrées sur l’apprentissage et le développement personnel (avec notamment des dispositifs de retour d'expérience), pour dépasser les silos et les représentations que chacun peut avoir de la formation, pour  donner envie d’apprendre, mettre en mouvement, donner les clés de son propre apprentissage.
+Il conviendra pour cela d’intégrer dans le choix des méthodes pédagogiques le résultat des recherches en neurosciences sur les processus d’apprentissage, engagement, mémorisation...
+
+Les modules à développer en priorité seraient alors :
+- Décrypter les évolution de son environnement (sociétales, technologiques, industrielles...) pour distinguer les actions de professionnalisation à mettre en oeuvre pour soi et pour son entourage
+- Développer et entretenir un bagage de connaissances clés pour absorber les paliers technologiques : pratique numérique, design thinking, approche centrée utilisateurs et solutions, innovation collaborative, prototypage rapide, médiation de données, environnement de l’intelligence artificielle…
+- Travailler en univers informationnel dense
+- Travailler avec les outils de l'intelligence artificielle

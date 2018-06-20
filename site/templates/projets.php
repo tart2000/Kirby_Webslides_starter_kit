@@ -10,13 +10,14 @@
 
 			<ul class="flexblock gallery">
 				<?php foreach ($page->children() as $pro) : ?>
-					<li >
+					<li class="project projet">
 				        <a  href="<?= $pro->url() ?>">
-				          <figure class="bg-black-blue">
-				            <span class="background dark" style="background-image:url('https://source.unsplash.com/bwki71ap-y8/800x800')"></span>
+				          <figure class="bg-white">
+				          	<?php if ($pro->hasImages()) : ?>
+				            	<span class="background light" style="background-image:url('<?= $pro->images()->first()->url() ?>')"></span>
+				            <?php endif ?>
 				            <div class="wrap aligncenter project-card">
-				              	<h2><?= $pro->title() ?></h2>
-				              	<p>* * *</p>
+				              	<h2 class="purple"><?= $pro->title() ?></h2>
 				            </div>
 				          </figure>
 				        </a>

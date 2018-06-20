@@ -1,0 +1,141 @@
+Prevnext: 
+
+----
+
+Title: Innovation | Être capable de concevoir, déployer, gérer des solutions de mutualisation et d'interconnexion des réseaux de transport et de distribution pour les nouveaux usages de l'énergie
+
+----
+
+Star: 0
+
+----
+
+Categories: 
+
+----
+
+Domaine: 
+
+----
+
+Family: 
+
+----
+
+Description: 
+
+Coordonner - Connecter - Financer
+La transition imbrique des périmètres d'intervention différents : du national au très local, du collectif à l'individu. En parallèle des grosses unités de production et des réseaux de transport s'organisent des réseaux locaux fragmentés. Ces réseaux réclament des solutions multiples, flexibles, multi-énergies qui impliquent pour les acteurs de l'énergie de coordonner des activités diversifiées, avec une part de sous-traitants : construction, installation, exploitation de sites et de réseaux, ingénierie, infrastructures de transport multimodales, systèmes d’information. Cette évolution demande également la connaissance et l'utilisation de cadres juridiques spécifiques et de nouveaux modèles de financement. Elle nécessite également de décider et d'agir dans ces environnements complexes.
+
+Compétence répondant aux enjeux de la transition énergétique et au besoin de développement de solutions-réseaux multiples et flexibles. Elle porte en elle un fort potentiel de transformation pour les entreprises et d'enrichissement de leur offre de compétences pour les salariés.
+Elle répond aux principes de priorisation n° : 1, 2 et 5.
+
+----
+
+Enjeux: 
+
+1. La combinaison de l’expertise-métier avec les derniers développements dans le domaine du Big Data, de l'IA et de l'Intelligence augmentée devient essentielle. La convergence entre numérique & énergie demande des compétences dans les domaines du logiciel, de la cybersécurité et de la protection des données (comptage, automatisation, capteurs, effacement…), de la connectique, de la maintenance et de la gestion intelligente des flux. 
+1. La gestion mutualisée s’imposera, pour prendre en compte les compétences ENR propres aux réseaux (Ex : biogaz, hydrogène ), la nécessité de s'adapter à tous les usages de l'énergie (sourcing véhicules électriques,... ) et les problématiques générales de sécurité, de stockage, d'interconnexion critique, d'équilibre, de rupture rural-urbain, de remises en cause des modèles économiques d'acheminement et de distribution,... Il faudra comprendre ces phénomènes pour les appréhender techniquement :
+
+----
+
+Pre: 
+
+- Avoir des connaissances suffisantes de l’environnement et des enjeux de la filière énergétique
+- Etre capable d’intégrer dans ses pratiques les principes de base de l’innovation
+
+----
+
+Intro: 
+
+- Connaître les différents métiers de l’énergie (production, transport, énergies renouvelables) 
+- Identifier les solutions techniques de transformation de l’énergie, faire le lien entre entre technologies - traditionnelles et énergies renouvelables
+
+----
+
+Prez1: 40
+
+----
+
+Dist1: 0
+
+----
+
+Elear1: 40
+
+----
+
+Pro1: 20
+
+----
+
+Coa1: 
+
+----
+
+Inter: 
+
+- Maîtriser les nouvelles technologies numériques (logiciel, IA, big data, cybersécurité, ...) appliquées au monde de l'énergie
+- Développer ses connaissances dans des domaines complémentaires à sa propre expertise (juridique, marketing, finance)
+- Décrypter les évolutions en matière de financement, réglementation, gestion du risque
+
+----
+
+Prez2: 40
+
+----
+
+Dist2: 
+
+----
+
+Elear2: 60
+
+----
+
+Pro2: 
+
+----
+
+Coa2: 
+
+----
+
+Perf: 
+
+- Manager des équipes projet en fédérant des compétences qui n'ont pas l'habitude de travailler ensemble
+Utiliser les méthodes agiles / lean
+- Identifier à partir des évolutions technologiques les potentialités applicables aux offres destinées à tous types de clients (particuliers, collectivités,  industrie, tertiaire...)
+
+----
+
+Prez3: 50
+
+----
+
+Dist3: 
+
+----
+
+Elear3: 10
+
+----
+
+Pro3: 20
+
+----
+
+Coa3: 20
+
+----
+
+Reco: 
+
+Les nouveaux réseaux de l’énergie, qu’il s’agisse de l’électricité ou du gaz, demandent de concevoir des modules combinant des compétences de "Technicien ou Ingénieur du domaine de l'énergie" et la maîtrise des nouvelles technologies digitales.
+Des formations développant des compétences "ambidextres" (c’est-à-dire combinant technologies de l’énergie et autres technologies ou pratiques) sont indispensables dans ce contexte.
+Elles pourraient associer :
+- Formation aux fondamentaux des "réseaux d'énergie’’ (électricité ET gaz) et à leur évolution en smart grids.
+- Formation aux dernières évolutions des technologies numériques : Intelligence artificielle, réalité augmentée, blockchain, robotique, ...
+- Savoir-être : co-développement, vision systémique, …
+- Méthodologies appliquées de création, conception et production : lean management (amélioration en continu), principes du management “agile”, design thinking (processus de co-création à partir des usages). 
+- Management d’équipes techniquement et culturellement diversifiées.

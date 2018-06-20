@@ -1,1 +1,1 @@
-<?php go('home') ?>
+<?php go($page->parent()->url().'/competences#slide='.$page->num()) ?>

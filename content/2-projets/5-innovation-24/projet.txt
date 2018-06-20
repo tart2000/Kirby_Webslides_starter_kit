@@ -1,0 +1,140 @@
+Prevnext: 
+
+----
+
+Title: Innovation | Être capable d'intégrer dans ses pratiques les principes de base de l'innovation
+
+----
+
+Star: 0
+
+----
+
+Categories: 
+
+----
+
+Domaine: 
+
+----
+
+Family: 
+
+----
+
+Description: 
+
+Questionner - S'autoriser - Résoudre
+Dans le monde en transition "bas carbone", innover est un enjeu collectif, qui s'applique aussi bien aux technologies et aux services qu'aux pratiques professionnelles, aux processus et au management. Chacun peut être acteur de l'innovation, en intégrant dans son métier les bases qui favorisent l'innovation : réinterroger ses pratiques, mettre au centre les besoins des clients (internes ou externes), connaître et utiliser les approches par les usages, concevoir des solutions simples répondant à une promesse de valeur, être capable de les re-questionner régulièrement au regard des différents niveaux de contexte."
+
+Cette compétence donne à chacun, quels que soient son domaine professionnel, son entreprise, sa fonction, les moyens d'innover au quotidien et mieux appréhender les enjeux d'innovation de son organisation.
+Elle répond aux principes de priorisation n° 1, 2, 3, 4 et 6.
+
+----
+
+Enjeux: 
+
+- L'enjeu essentiel est de pouvoir diffuser la "culture" de l'innovation dans toutes les "strates" des entreprises énergétiques. Traditionnellement, les innovations sont assimilées à des démarches issues de la R&D ou du marketing, dont les avancées sont ensuite traduites dans l'organisation.
+- Cela suppose de comprendre que l'innovation peut être "frugale" (i.e.résulter d'idées simples ou d'aménagements modestes) et non pas seulement de rupture.
+- Il s'agit, en se formant à l'innovation, de gagner en agilité, pour chacun, … tout en gardant une organisation, des process, …
+- L’un des enjeux va être pour chacun de constituer sa propre boîte à outils, pour appliquer les solutions /techniques les mieux adaptées, en fonction des problèmes à résoudre.
+
+----
+
+Pre: - Avoir une connaissance suffisante de l’environnement et des enjeux de la filière énergétique
+
+----
+
+Intro: 
+
+- Définir et expliquer ce qu'est l'innovation pour lever les freins liés à la culture et aux croyances
+- Veiller, développer et maintenir un regard ouvert et transformateur sur l'écosystème qui nous entoure afin de développer une attitude propice à l'innovation
+- Entraîner sa créativité
+
+----
+
+Prez1: 10
+
+----
+
+Dist1: 
+
+----
+
+Elear1: 60
+
+----
+
+Pro1: 30
+
+----
+
+Coa1: 20
+
+----
+
+Inter: 
+
+- Localiser, identifier et construire son réseau de ressources (relais)
+- Repérer, choisir, utiliser les outils en fonction de leur impact sur son environnement et ses pratiques 
+- Développer et entretenir un bagage minimum de connaissances clés pour accompagner les évolutions technologiques : pratique numérique,design thinking,  approche centrée utilisateurs et solutions, innovation collaborative, prototypage rapide, environnement de l'intelligence artificielle (Data et internet of things: objets connectés): comprendre les médiations des données, méthodes agiles
+
+----
+
+Prez2: 20
+
+----
+
+Dist2: 
+
+----
+
+Elear2: 30
+
+----
+
+Pro2: 30
+
+----
+
+Coa2: 20
+
+----
+
+Perf: 
+
+- Entretenir autour de soi un climat propice  l’innovation : dans son management ou son style d’animation
+- Présenter et défendre une idée innovante
+- Prototyper ses idées
+
+----
+
+Prez3: 20
+
+----
+
+Dist3: 
+
+----
+
+Elear3: 20
+
+----
+
+Pro3: 30
+
+----
+
+Coa3: 30
+
+----
+
+Reco: 
+
+Les formations à l'innovation relèvent souvent de l'enseignement supérieur ou de formations continues destinées à un public de cadres (ex: "design thinking", "entrepreneuriat", "Développement de produit", "La créativité au service de la cohésion d’équipe"), préparant à des fonctions managériales ou à une évolution professionnelle. 
+L'enjeu est ici de diffuser des "principes de base" et d'en faire un élément du bagage culturel dans l'organisation.
+Tous les objectifs visés peuvent être traités peu ou prou par les formations existantes. 
+Sachant que c'est le changement de comportement et de regard qui est essentiel et prioritaire : stopper le "on a toujours fait comme ça ! (mais on ne sait plus pourquoi)", le "ça ne marchera jamais", le "c'était mieux avant !",...ces paralyseurs de l'action et ces empêcheurs de tester, d'échouer et d'essayer à nouveau...
+Comme pour un "Alphabet du Numérique", il y a un espace à occuper autour d'un "Alphabet de l'Innovation" (ouvrant notamment sur les notions d'agilité), à la condition de le contextualiser dans le cadre de la transition énergétique, .
+Le format des formations traditionnelles (transmission de connaissances, de savoirs) est à réinventer dans le sens d'une confrontation de savoir-être, de réflexions à partir des humanités (art, philosophie…) et d'une expérimentation personnelle.
+C'est donc tant dans la forme que dans le fond que des formations nouvelles doivent être créées pour l’ensemble de ces thématiques liées à l'innovation.

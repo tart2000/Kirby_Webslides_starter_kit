@@ -6,7 +6,7 @@
 		  <span class="background" style="background-image:url('https://source.unsplash.com/<?= $page->unsplash() ?>')"></span>
 		  <div class="wrap">
 		    <h1 class="text-landing text-shadow"><strong><?= $page->title() ?></strong></h1>
-		    <p class="text-shadow bigger-p">
+		    <p class="text-shadow bigger-p aligncenter">
 		      	<?php if ($page->date() != ''): ?>
 					<svg class="fa-calendar">
 			          <use xlink:href="#fa-calendar"></use>
@@ -14,7 +14,7 @@
 			        <?= strftime("%A %d %B %Y", strtotime($page->date('l j F Y'))) ?>
 				<?php endif ?>
 			</p>
-			<p class="text-shadow bigger-p">
+			<p class="text-shadow bigger-p aligncenter">
 				<?php if ($page->location() != '' ) : ?>
 					<svg class="fa-map-pin">
 			          <use xlink:href="#fa-map-pin"></use>
